@@ -71,7 +71,7 @@ all_provinces = list(provinces_provinceboundaries.keys())
 
 if __name__ == "__main__":
 
-    savefolder = "gen_data_adjacency_provinces/"
+    savefolder = "gen_data_adjacency_provinces2/"
     if not os.path.exists(savefolder):
         os.makedirs(savefolder) 
 
@@ -82,7 +82,7 @@ if __name__ == "__main__":
         csvwriter.writerow(['province1', 'province2', 'Adjacent'])
 
         for province1 in tqdm(all_provinces):
-            for province2 in all_provinces: 
+            for province2 in tqdm(all_provinces): 
                 if province1 != province2:
                     checkvalue = checktwoprovincenexttoeachother(province1, province2)
                     if checkvalue:
