@@ -4,6 +4,17 @@ from tqdm import tqdm
 from itertools import product
 import csv
 import argparse
+import os
+
+def check_box_overlap(bound1, bound2, threshole = 0.01):
+    min_lon1, min_lat1, max_lon1, max_lat1 = bound1[0], bound1[1], bound1[2], bound1[3]
+    min_lon2, min_lat2, max_lon2, max_lat2 = bound2[0], bound2[1], bound2[2], bound2[3]
+
+    # Check for overlap in latitude and longitude
+    lat_overlap = max_lat1+threshole >= min_lat2-threshole and max_lat2+threshole >= min_lat1-threshole
+    lon_overlap = max_lon1+threshole >= min_lon2-threshole and max_lon2+threshole >= min_lon1-threshole
+    
+    return lat_overlap and lon_overlap
 
 def getboundaryofamperfromregion(data):
     amperboundaries = {}
@@ -12,6 +23,7 @@ def getboundaryofamperfromregion(data):
         pv_name = data.at[i, 'pv_tn']
         re_name = data.at[i, "re_royin"]
         ap_name = data.at[i, 'ap_tn'] if 'ap_tn' in data else ""
+        bound = geom.bounds
 
         if geom.geom_type == 'Polygon':
             # print("This geometry is a Polygon")
@@ -28,16 +40,17 @@ def getboundaryofamperfromregion(data):
 
         amperkey = (ap_name, pv_name)
         centroid = geom.centroid
-        amperboundaries[amperkey] = {'cor': coordinates_list, 'centroid':centroid}
+        amperboundaries[amperkey] = {'cor': coordinates_list, 'centroid':centroid, 'bound': bound}
 
     return amperboundaries
 
 def checktwoampernexttoeachother(amper1, amper2, distance_threshold=0.05):
-    centroid1 = all_amperboundaries[amper1]['centroid']
-    centroid2 = all_amperboundaries[amper2]['centroid']
+    bound1 = all_amperboundaries[amper1]['bound']
+    bound2 = all_amperboundaries[amper2]['bound']
 
-    centroid_distance = np.linalg.norm(np.array([centroid1.x, centroid1.y]) - np.array([centroid2.x, centroid2.y]))
-    if centroid_distance < 2: 
+    box_overlap = check_box_overlap(bound1, bound2, threshole = 0.01) 
+
+    if box_overlap:
         for cor1 in all_amperboundaries[amper1]['cor']:
             for cor2 in all_amperboundaries[amper2]['cor']:
                 distance = np.linalg.norm(np.array(cor1) - np.array(cor2))
@@ -46,21 +59,9 @@ def checktwoampernexttoeachother(amper1, amper2, distance_threshold=0.05):
     
     return False
 
-# provinces = gpd.read_file('./data/query.geojson')
-# allprovinces = []
-# for i in provinces.index:
-#     geom = provinces.at[i, "geometry"]
-#     pv_name = provinces.at[i, 'pv_tn'] 
-#     allprovinces.append(pv_name)
-
-# with open("data/allprovinces.txt", mode='w', encoding='utf-8') as file:
-#     for province in allprovinces:
-#         file.write(f"{province}\n")
-
 with open('data/allprovinces.txt', 'r', encoding='utf-8') as file:
     allprovinces = []
     for line in file:
-        # strip() removes any leading and trailing whitespace, including the newline character
         allprovinces.append(line.strip())
 
 central = gpd.read_file('./data/query-2.geojson')
@@ -81,6 +82,7 @@ all_amperboundaries = {**central_amperboundaries, **east_amperboundaries, **nort
 allampers = list(all_amperboundaries.keys())
 
 if __name__ == "__main__":
+    
     parser = argparse.ArgumentParser(description='Process some integers.')
     parser.add_argument('begin', type=int, help='The beginning index for slicing provinces.')
     parser.add_argument('end', type=int, help='The ending index for slicing provinces.')
@@ -88,37 +90,45 @@ if __name__ == "__main__":
 
     begin = int(args.begin)
     end = int(args.end)
-
+    allprovinces.sort()
+    
     provinces_chosen = allprovinces[begin:end]
-
-    savefilename ="gen_data/" + str(begin)+"-"+str(end)+".csv"
 
     amper1list = []
 
-    for amper1  in tqdm(allampers):
-        provincename = amper1[1]
-        if provincename in provinces_chosen:
-            amper1list.append(amper1)
-
     print(f"{provinces_chosen}\nTotal District: {len(amper1list)}")
-    
-    with open(savefilename, 'w', newline='', encoding='utf-8-sig') as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(['Amper1', 'Amper2', 'Adjacent'])
 
-        for amper1 in tqdm(amper1list):
-            print(f"Now gen district: {amper1}")
-            for amper2 in tqdm(allampers): 
-                if amper1 != amper2:
-                    checkvalue = checktwoampernexttoeachother(amper1, amper2)
-                    if checkvalue:
-                        csvwriter.writerow([amper1, amper2, 1])
 
-## python3 run_generateamperpairswithadjacent_argparse.py 0 10
-## python3 run_generateamperpairswithadjacent_argparse.py 10 20
-## python3 run_generateamperpairswithadjacent_argparse.py 20 30
-## python3 run_generateamperpairswithadjacent_argparse.py 30 40
-## python3 run_generateamperpairswithadjacent_argparse.py 40 50
-## python3 run_generateamperpairswithadjacent_argparse.py 50 60
-## python3 run_generateamperpairswithadjacent_argparse.py 60 60
-## python3 run_generateamperpairswithadjacent_argparse.py 70 -1
+    province_index_now = begin
+    for province in tqdm(provinces_chosen):
+        print(f"Now gen {province}")
+        province_index_now+=1
+        for amper1 in allampers:
+            provincename = amper1[1]
+            if provincename == province:
+                amper1list.append(amper1)
+
+
+        savefolder = "gen_data_adjacency_district_each_provinces/"
+
+        file_name = str(province_index_now)+"_" +province + ".csv"
+
+        if not os.path.exists(savefolder):
+            os.makedirs(savefolder) 
+
+        save_file_path = savefolder + file_name
+        with open(save_file_path, 'w', newline='', encoding='utf-8-sig') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow(['Amper1', 'Amper2', 'Adjacent'])
+
+            for amper1 in tqdm(amper1list):
+                for amper2 in tqdm(allampers): 
+                    if amper1 != amper2:
+                        checkvalue = checktwoampernexttoeachother(amper1, amper2)
+                        if checkvalue:
+                            csvwriter.writerow([amper1, amper2, 1])
+
+## python3 run_gen_adjacency_districts.py 0 20
+## python3 run_gen_adjacency_districts.py 20 40
+## python3 run_gen_adjacency_districts.py 40 60
+## python3 run_gen_adjacency_districts.py 60 -1 
