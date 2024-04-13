@@ -90,8 +90,8 @@ if __name__ == "__main__":
 
     begin = int(args.begin)
     end = int(args.end)
-    allprovinces.sort()
-    
+    # allprovinces.sort()
+
     provinces_chosen = allprovinces[begin:end]
 
     amper1list = []
@@ -109,7 +109,7 @@ if __name__ == "__main__":
                 amper1list.append(amper1)
 
 
-        savefolder = "gen_data_adjacency_district_each_provinces/"
+        savefolder = "gen_data_adjacency_districts/"
 
         file_name = str(province_index_now)+"_" +province + ".csv"
 
@@ -128,7 +128,20 @@ if __name__ == "__main__":
                         if checkvalue:
                             csvwriter.writerow([amper1, amper2, 1])
 
-## python3 run_gen_adjacency_districts.py 0 20
-## python3 run_gen_adjacency_districts.py 20 40
-## python3 run_gen_adjacency_districts.py 40 60
-## python3 run_gen_adjacency_districts.py 60 -1 
+## python3 run_gen_adjacency_districts.py 0 5
+## python3 run_gen_adjacency_districts.py 5 10
+## python3 run_gen_adjacency_districts.py 10 15
+## python3 run_gen_adjacency_districts.py 15 20
+## python3 run_gen_adjacency_districts.py 20 25
+## python3 run_gen_adjacency_districts.py 25 30
+## python3 run_gen_adjacency_districts.py 30 35
+## python3 run_gen_adjacency_districts.py 35 40
+## python3 run_gen_adjacency_districts.py 40 45
+## python3 run_gen_adjacency_districts.py 45 50 
+## python3 run_gen_adjacency_districts.py 50 55
+## python3 run_gen_adjacency_districts.py 55 60
+## python3 run_gen_adjacency_districts.py 60 65
+## python3 run_gen_adjacency_districts.py 65 70
+## python3 run_gen_adjacency_districts.py 70 75
+## python3 run_gen_adjacency_districts.py 75 80
+
