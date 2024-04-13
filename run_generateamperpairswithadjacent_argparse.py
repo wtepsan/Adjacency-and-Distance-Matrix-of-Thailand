@@ -79,10 +79,6 @@ west_amperboundaries = getboundaryofamperfromregion(west)
 
 all_amperboundaries = {**central_amperboundaries, **east_amperboundaries, **north_amperboundaries, **south_amperboundaries, **northeast_amperboundaries, **west_amperboundaries}
 allampers = list(all_amperboundaries.keys())
-    
-    # with open('allampers_adjacent.csv', 'w', newline='', encoding='utf-8-sig') as csvfile:
-    #     csvwriter = csv.writer(csvfile)
-    #     csvwriter.writerow(['Amper1', 'Amper2', 'Adjacent'])
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process some integers.')
