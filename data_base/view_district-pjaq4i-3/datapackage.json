@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "ศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร"
+  },
+  "description": "ข้อมูลอำเภอหรือเขต\r\n \r\nสาขา : ด้านรหัสมาตรฐานกลาง (Code List) - ผู้รวบรวมข้อมูล : สำนักงานปลัดกระทรวงมหาดไทย \r\n\r\nลิขสิทธิ์ : Creative Commons Attribution 4.0 (CCBY-4.0) อ้างอิงแหล่งที่มา",
+  "license": {
+    "title": "DGA Open Government License",
+    "type": "ogl"
+  },
+  "name": "view_district",
+  "resources": [
+    {
+      "description": "รายละเอียดทรัพยากร",
+      "format": "CSV",
+      "name": "view-district",
+      "path": "view-district.csv",
+      "sources": [
+        {
+          "path": "https://data.go.th/dataset/56a202b2-61dc-4099-abd7-f49708bcf0c4/resource/2c387eac-2221-475f-bc0d-96759d54b8c2/download/-view_district.csv",
+          "title": "VIEW_DISTRICT"
+        }
+      ],
+      "title": "VIEW_DISTRICT"
+    }
+  ],
+  "title": "ด้านรหัสมาตรฐานกลาง - ข้อมูลอำเภอหรือเขต"
+}

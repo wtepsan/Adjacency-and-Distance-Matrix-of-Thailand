@@ -1,0 +1,929 @@
+amphoe_id,romanized_amphoe,thai_amphoe,province_id
+1,Khet Phra Nakhon,เขตพระนคร,1
+2,khet Bang Bon,เขตบางบอน,1
+3,Khet Bang Kapi,เขตบางกะปิ,1
+4,Khet Bang Khae,เขตบางแค,1
+5,Khet Bang Khen,เขตบางเขน,1
+6,Khet Bang Kho Laem,เขตบางคอแหลม,1
+7,Khet Bang Khun Thian,เขตบางขุนเทียน,1
+8,Khet Bang Na,เขตบางนา,1
+9,Khet Bang Phlat,เขตบางพลัด,1
+10,Khet Bang Rak,เขตบางรัก,1
+11,Khet Bang Sue,เขตบางซื่อ,1
+12,Khet Bangkok Noi,เขตบางกอกน้อย,1
+13,Khet Bangkok Yai,เขตบางกอกใหญ่,1
+14,Khet Bueng Kum,เขตบึงกุ่ม,1
+15,Khet Chatuchak,เขตจตุจักร,1
+16,Khet Chom Thong,เขตจอมทอง,1
+17,Khet Din Daeng,เขตดินแดง,1
+18,Khet Don Mueang,เขตดอนเมือง,1
+19,Khet Dusit,เขตดุสิต,1
+20,Khet Huai Khwang,เขตห้วยขวาง,1
+21,Khet Khan Na Yao,เขตคันนายาว,1
+22,Khet Khlong Sam Wa,เขตคลองสามวา,1
+23,Khet Khlong San,เขตคลองสาน,1
+24,Khet Khlong Toei,เขตคลองเตย,1
+25,Khet Lak Si,เขตหลักสี่,1
+26,Khet Lat Krabang,เขตลาดกระบัง,1
+27,Khet Lat Phrao,เขตลาดพร้าว,1
+28,Khet Min Buri,เขตมีนบุรี,1
+29,Khet Nong Chok,เขตหนองแขม,1
+30,Khet Nong Khaem,เขตหนองจอก,1
+31,Khet Pathum Wan,เขตปทุมวัน,1
+32,Khet Phasi Charoen,เขตภาษีเจริญ,1
+33,Khet Phaya Thai,เขตพญาไท,1
+34,Khet Phra Khanong,เขตพระโขนง,1
+35,Khet Pom Prap Sattru Phai,เขตป้อมปราบศัตรูพ่าย,1
+36,Khet Prawet,เขตประเวศ,1
+37,Khet Rat Burana,เขตราษฎร์บูรณะ,1
+38,Khet Ratchathewi,เขตราชเทวี,1
+39,Khet Sai Mai,เขตสายไหม,1
+40,Khet Samphanthawong,เขตสัมพันธวงศ์,1
+41,Khet Saphan Sung,เขตสะพานสูง,1
+42,Khet Sathon,เขตสาทร,1
+43,Khet Suan Luang,เขตสวนหลวง,1
+44,Khet Taling Chan,เขตตลิ่งชัน,1
+45,Khet Thawi Watthana,เขตทวีวัฒนา,1
+46,Khet Thon Buri,เขตธนบุรี,1
+47,Khet Thung Khru,เขตทุ่งครุ,1
+48,Khet Wang Thonglang,เขตวังทองหลาง,1
+49,Khet Vadhana,เขตวัฒนา,1
+50,Khet Yan Nawa,เขตยานนาวา,1
+51,Amphoe Mueang Amnat Charoen,อำเภอเมืองอำนาจเจริญ,73
+52,Amphoe Chanuman,อำเภอชานุมาน ,73
+53,Amphoe Hua Taphan,อำเภอหัวตะพาน,73
+54,Amphoe Lue Amnat,อำเภอลืออำนาจ,73
+55,Amphoe Pathum Ratchawongsa,อำเภอปทุมราชวงศา,73
+56,Amphoe Phana,อำเภอพนา,73
+57,Amphoe Senangkhanikhom,อำเภอเสนางคนิคม ,73
+58,Amphoe Mueang Ang Thong,อำเภอเมืองอ่างทอง,72
+59,Amphoe Chaiyo,อำเภอไชโย,72
+60,Amphoe Pa Mok,อำเภอป่าโมก,72
+61,Amphoe Pho Thong,อำเภอโพธิ์ทอง,72
+62,Amphoe Samko,อำเภอสามโก้,72
+63,Amphoe Sawaeng Ha,อำเภอแสวงหา,72
+64,Amphoe Wiset Chai Chan,อำเภอวิเศษชัยชาญ,72
+65,Amphoe Mueang Bueng Kan,อำเภอเมืองบึงกาฬ,27
+66,Amphoe Bueng Khong Long,อำเภอบึงโขงหลง,27
+67,Amphoe Bung Khla,อำเภอบุ่งคล้า,27
+68,Amphoe Pak Khat,อำเภอปากคาด,27
+69,Amphoe Phon Charoen,อำเภอพรเจริญ,27
+70,Amphoe Seka,อำเภอเซกา,27
+71,Amphoe Si Wilai,อำเภอศรีวิไล,27
+72,Amphoe So Phisai,อำเภอโซ่พิสัย,27
+73,Amphoe Mueang Buri Ram,อำเภอเมืองบุรีรัมย์,28
+74,Amphoe Ban Dan,อำเภอบ้านด่าน,28
+75,Amphoe Ban Kruat,อำเภอบ้านกรวด,28
+76,Amphoe Ban Mai Chaiyaphot,อำเภอบ้านใหม่ไชยพจน์,28
+77,Amphoe Chaloem Phra Kiat,อำเภอเฉลิมพระเกียรติ,28
+78,Amphoe Chamni,อำเภอชำนิ,28
+79,Amphoe Huai Rat,อำเภอห้วยราช,28
+80,Amphoe Khaen Dong,อำเภอแคนดง,28
+81,Amphoe Khu Mueang,อำเภอคูเมือง,28
+82,Amphoe Krasang,อำเภอกระสัง,28
+83,Amphoe Lahan Sai,อำเภอละหานทราย,28
+84,Amphoe Lam Plai Mat,อำเภอลำปลายมาศ,28
+85,Amphoe Nang Rong,อำเภอนางรอง,28
+86,Amphoe Na Pho,อำเภอนาโพธิ์,28
+87,Amphoe Non Din Daeng,อำเภอโนนดินแดง,28
+88,Amphoe Non Suwan,อำเภอโนนสุวรรณ,28
+89,Amphoe Nong Hong,อำเภอหนองหงส์,28
+90,Amphoe Nong Ki,อำเภอหนองกี่,28
+91,Amphoe Pakham,อำเภอปะคำ,28
+92,Amphoe Phlapphla Chai,อำเภอพลับพลาชัย,28
+93,Amphoe Phutthaisong,อำเภอพุทไธสง,28
+94,Amphoe Prakhon Chai,อำเภอประโคนชัย,28
+95,Amphoe Satuek,อำเภอสตึก,28
+96,Amphoe Mueang Chachoengsao,อำเภอเมืองฉะเชิงเทรา,8
+97,Amphoe Ban Pho,อำเภอบ้านโพธิ์,8
+98,Amphoe Bang Khla,อำเภอบางคล้า,8
+99,Amphoe Bang Nam Priao,อำเภอบางน้ำเปรี้ยว,8
+100,Amphoe Bang Pakong,อำเภอบางปะกง,8
+101,Amphoe Khlong Khuean,อำเภอคลองเขื่อน,8
+102,Amphoe Phanom Sarakham,อำเภอพนมสารคาม,8
+103,Amphoe Plaeng Yao,อำเภอแปลงยาว,8
+104,Amphoe Ratchasan,อำเภอราชสาส์น,8
+105,Amphoe Sanam Chai Khet,อำเภอสนามชัยเขต,8
+106,Amphoe Tha Takiap,อำเภอท่าตะเกียบ,8
+107,Amphoe Mueang Chai Nat,อำเภอเมืองชัยนาท,10
+108,Amphoe Hankha,อำเภอหันคา,10
+109,Amphoe Manorom,อำเภอมโนรมย์,10
+110,Amphoe Noen Kham,อำเภอเนินขาม,10
+111,Amphoe Nong Mamong,อำเภอหนองมะโมง,10
+112,Amphoe Sankhaburi,อำเภอสรรคบุรี,10
+113,Amphoe Sapphaya,อำเภอสรรพยา,10
+114,Amphoe Wat Sing,อำเภอวัดสิงห์,10
+115,Amphoe Mueang Chaiyaphum,อำเภอเมืองชัยภูมิ,11
+116,Amphoe Bamnet Narong,อำเภอบำเหน็จณรงค์,11
+117,Amphoe Ban Khwao,อำเภอบ้านเขว้า,11
+118,Amphoe Ban Thaen,อำเภอบ้านแท่น,11
+119,Amphoe Chatturat,อำเภอจัตุรัส,11
+120,Amphoe Kaeng Khro,อำเภอแก้งคร้อ,11
+121,Amphoe Kaset Sombun,อำเภอเกษตรสมบูรณ์,11
+122,Amphoe Khon San,อำเภอคอนสาร,11
+123,Amphoe Khon Sawan,อำเภอคอนสวรรค์,11
+124,Amphoe Noen Sa-nga,อำเภอเนินสง่า,11
+125,Amphoe Nong Bua Daeng,อำเภอหนองบัวแดง,11
+126,Amphoe Nong Bua Rawe,อำเภอ หนองบัวระเหว,11
+127,Amphoe Phakdi Chumphon,อำเภอภักดีชุมพล,11
+128,Amphoe Phu Khiao,อำเภอภูเขียว,11
+129,Amphoe Sap Yai,อำเภอซับใหญ่,11
+130,Amphoe Thep Sathit,อำเภอเทพสถิต,11
+131,Amphoe Mueang Chanthaburi,อำเภอเมืองจันทบุรี,7
+132,Amphoe Kaeng Hang Maeo,อำเภอแก่งหางแมว,7
+133,Amphoe Khao Khitchakut,อำเภอเขาคิชฌกูฏ,7
+134,Amphoe Khlung,อำเภอขลุง,7
+135,Amphoe Laem Sing,อำเภอแหลมสิงห์,7
+136,Amphoe Makham,อำเภอมะขาม,7
+137,Amphoe Na Yai Am,อำเภอนายายอาม,7
+138,Amphoe Pong Nam Ron,อำเภอโป่งน้ำร้อน,7
+139,Amphoe Soi Dao,อำเภอสอยดาว,7
+140,Amphoe Tha Mai,อำเภอท่าใหม่,7
+141,Amphoe Mueang Chiang Mai,อำเภอเมืองเชียงใหม่,14
+142,Amphoe Chai Prakan,อำเภอไชยปราการ,14
+143,Amphoe Chiang Dao,อำเภอเชียงดาว,14
+144,Amphoe Chom Thong,อำเภอจอมทอง,14
+145,Amphoe Doi Lo,อำเภอดอยหล่อ,14
+146,Amphoe Doi Saket,อำเภอดอยสะเก็ด,14
+147,Amphoe Doi Tao,อำเภอดอยเต่า,14
+148,Amphoe Fang,อำเภอฝาง,14
+149,Amphoe Galayani Vadhana,อำเภอกัลยาณิวัฒนา,14
+150,Amphoe Hang Dong,อำเภอหางดง,14
+151,Amphoe Hot,อำเภอฮอด,14
+152,Amphoe Mae Ai,อำเภอแม่อาย,14
+153,Amphoe Mae Chaem,อำเภอแม่แจ่ม,14
+154,Amphoe Mae On,อำเภอแม่ออน,14
+155,Amphoe Mae Rim,อำเภอแม่ริม,14
+156,Amphoe Mae Taeng,อำเภอแม่แตง,14
+157,Amphoe Mae Wang,อำเภอแม่วาง,14
+158,Amphoe Omkoi,อำเภออมก๋อย,14
+159,Amphoe Phrao,อำเภอพร้าว,14
+160,Amphoe Samoeng,อำเภอสะเมิง,14
+161,Amphoe San Kamphaeng,อำเภอสันกำแพง,14
+162,Amphoe San Pa Tong,อำเภอสันป่าตอง,14
+163,Amphoe San Sai,อำเภอสันทราย,14
+164,Amphoe Saraphi,อำเภอสารภี,14
+165,Amphoe Wiang Haeng,อำเภอเวียงแหง,14
+166,Amphoe Mueang Chiang Rai,อำเภอเมืองเชียงราย,13
+167,Amphoe Chiang Khong,อำเภอเชียงของ,13
+168,Amphoe Chiang Saen,อำเภอเชียงแสน,13
+169,Amphoe Khun Tan,อำเภอขุนตาล,13
+170,Amphoe Doi Luang,อำเภอดอยหลวง,13
+171,Amphoe Mae Chan,อำเภอแม่จัน,13
+172,Amphoe Mae Fa Luang,อำเภอแม่ฟ้าหลวง,13
+173,Amphoe Mae Lao,อำเภอแม่ลาว,13
+174,Amphoe Mae Sai,อำเภอแม่สาย,13
+175,Amphoe Mae Suai,อำเภอแม่สรวย,13
+176,Amphoe Pa Daet,อำเภอป่าแดด,13
+177,Amphoe Phan,อำเภอพาน,13
+178,Amphoe Phaya Mengrai,อำเภอพญาเม็งราย,13
+179,Amphoe Thoeng,อำเภอเทิง,13
+180,Amphoe Wiang Chai,อำเภอเวียงชัย,13
+181,Amphoe Wiang Chiang Rung,อำเภอเวียงเชียงรุ้ง,13
+182,Amphoe Wiang Kaen,อำเภอเวียงแก่น,13
+183,Amphoe Wiang Pa Pao,อำเภอเวียงป่าเป้า,13
+184,Amphoe Mueang Chon Buri,อำเภอเมืองชลบุรี,9
+185,Amphoe Ban Bueng,อำเภอบ้านบึง,9
+186,Amphoe Bang Lamung,อำเภอบางละมุง,9
+187,Amphoe Bo Thong,อำเภอบ่อทอง,9
+188,Amphoe Ko Chan,อำเภอเกาะจันทร์,9
+189,Amphoe Ko Si  Chang,อำเภอเกาะสีชัง,9
+190,Amphoe Nong Yai,อำเภอหนองใหญ่,9
+191,Amphoe Phan Thong,อำเภอพานทอง,9
+192,Amphoe Phanat Nikhom,อำเภอพนัสนิคม,9
+193,Amphoe Sattahip,อำเภอสัตหีบ,9
+194,Amphoe Si Racha,อำเภอศรีราชา,9
+195,Amphoe Mueang Chumphon,อำเภอเมืองชุมพร,12
+196,Amphoe Lamae,อำเภอละแม,12
+197,Amphoe Lang Suan,อำเภอหลังสวน  ,12
+198,Amphoe Pathio,อำเภอปะทิว,12
+199,Amphoe Phato,อำเภอพะโต๊ะ,12
+200,Amphoe Sawi,อำเภอสวี,12
+201,Amphoe Tha Sae,อำเภอท่าแซะ,12
+202,Amphoe Thung Tako,อำเภอทุ่งตะโก,12
+203,Amphoe Mueang Kalasin,อำเภอเมืองกาฬสินธุ์,4
+204,Amphoe Don Chan,อำเภอดอนจาน,4
+205,Amphoe Huai Mek,อำเภอห้วยเม็ก,4
+206,Amphoe Huai Phueng,อำเภอห้วยผึ้ง,4
+207,Amphoe Kamalasai,อำเภอกมลาไสย,4
+208,Amphoe Kham Muang,อำเภอคำม่วง,4
+209,Amphoe Khao Wong,อำเภอเขาวง,4
+210,Amphoe Khong Chai,อำเภอฆ้องชัย,4
+211,Amphoe Kuchinarai,อำเภอกุฉินารายณ์,4
+212,Amphoe Na Khu,อำเภอนาคู,4
+213,Amphoe Na Mon,อำเภอนามน,4
+214,Amphoe Nong Kung Si,อำเภอหนองกุงศรี,4
+215,Amphoe Rong Kham,อำเภอร่องคำ,4
+216,Amphoe Sahatsakhan,อำเภอสหัสขันธ์,4
+217,Amphoe Sam Chai,อำเภอสามชัย,4
+218,Amphoe Somdet,อำเภอสมเด็จ,4
+219,Amphoe Tha Khantho,อำเภอท่าคันโท,4
+220,Amphoe Yang Talat,อำเภอยางตลาด,4
+221,Amphoe Mueang Kamphaeng Phet,อำเภอเมืองกำแพงเพชร,5
+222,Amphoe Bueng Samakkhi,อำเภอบึงสามัคคี,5
+223,Amphoe Khanu Woralaksaburi,อำเภอขาณุวรลักษบุรี,5
+224,Amphoe Khlong Khlung,อำเภอคลองขลุง,5
+225,Amphoe Khlong Lan,อำเภอคลองลาน,5
+226,Amphoe Kosamphi Nakhon,อำเภอโกสัมพีนคร,5
+227,Amphoe Lan Krabue,อำเภอลานกระบือ,5
+228,Amphoe Pang Sila Thong,อำเภอปางศิลาทอง,5
+229,Amphoe Phran Kratai,อำเภอพรานกระต่าย,5
+230,Amphoe Sai Ngam,อำเภอไทรงาม,5
+231,Amphoe Sai Thong Watthana,อำเภอทรายทองวัฒนา,5
+232,Amphoe Mueang Kanchanaburi,อำเภอเมืองกาญจนบุรี,3
+233,Amphoe Bo Phloi,อำเภอบ่อพลอย,3
+234,Amphoe Dan Makham Tia,อำเภอด่านมะขามเตี้ย,3
+235,Amphoe Huai Krachao,อำเภอห้วยกระเจา,3
+236,Amphoe Lao Khwan,อำเภอเลาขวัญ,3
+237,Amphoe Nong Prue,อำเภอหนองปรือ,3
+238,Amphoe Phanom Thuan,อำเภอพนมทวน,3
+239,Amphoe Sai Yok,อำเภอไทรโยค,3
+240,Amphoe Sangkhla Buri,อำเภอสังขละบุรี,3
+241,Amphoe Si Sawat,อำเภอศรีสวัสดิ์,3
+242,Amphoe Tha Maka,อำเภอท่ามะกา,3
+243,Amphoe Tha Muang,อำเภอท่าม่วง,3
+244,Amphoe Thong Pha Phum,อำเภอทองผาภูมิ,3
+245,Amphoe Mueang Khon Kaen,อำเภอเมืองขอนแก่น,6
+246,Amphoe Ban Fang,อำเภอบ้านฝางคีรี,6
+247,Amphoe Ban Phai,อำเภอบ้านไผ่,6
+248,Amphoe Ban Haet,อำเภอบ้านแฮด,6
+249,Amphoe Chonnabot,อำเภอชนบท,6
+250,Amphoe Chum Phae,อำเภอชุมแพ,6
+251,Amphoe Khao Suan Kwang,อำเภอเขาสวนกวาง,6
+252,Amphoe Khok Pho Chai,อำเภอโคกโพธิ์ไชย,6
+253,Amphoe Kranuan,อำเภอกระนวน,6
+254,Amphoe Mancha Khiri,อำเภอมัญจา,6
+255,Amphoe Nam Phong,อำเภอน้ำพอง,6
+256,Amphoe Nong Na Kham,อำเภอหนองนาคำ,6
+257,Amphoe Nong Ruea,อำเภอหนองเรือ,6
+258,Amphoe Nong Song Hong,อำเภอหนองสองห้อง,6
+259,Amphoe Non Sila,อำเภอโนนศิลา,6
+260,Amphoe Phon,อำเภอพล,6
+261,Amphoe Phra Yuen,อำเภอพระยืน,6
+262,Amphoe Phu Pha Man,อำเภอภูผาม่าน,6
+263,Amphoe Phu Wiang,อำเภอภูเวียง,6
+264,Amphoe Pueai Noi,อำเภอเปือยน้อย,6
+265,Amphoe Sam Sung,อำเภอซำสูง,6
+266,Amphoe Si Chomphu,อำเภอสีชมพู,6
+267,Amphoe Ubolratana,อำเภออุบลรัตน์,6
+268,Amphoe Waeng Noi,อำเภอแวงน้อย,6
+269,Amphoe Waeng Yai,อำเภอแวงใหญ่,6
+270,Amphoe Wiang Kao,อำเภอเวียงเก่า,6
+271,Amphoe Mueang Krabi,อำเภอเมืองกระบี่,2
+272,Amphoe Ao Luek,อำเภออ่าวลึก,2
+273,Amphoe Khao Phanom,อำเภอเขาพนม,2
+274,Amphoe Khlong Thom,อำเภอคลองท่อม,2
+275,Amphoe Ko Lanta,อำเภอเกาะลันตา,2
+276,Amphoe Lam Thap,อำเภอลำทับ,2
+277,Amphoe Nuea Khlong,อำเภอเหนือคลอง,2
+278,Amphoe Plai Phraya,อำเภอปลายพระยา,2
+279,Amphoe Mueang Lampang,อำเภอเมืองลำปาง,53
+280,Amphoe Chae Hom,อำเภอแจ้ห่ม,53
+281,Amphoe Hang Chat,อำเภอห้างฉัตร,53
+282,Amphoe Ko Kha,อำเภอเกาะคา,53
+283,Amphoe Mae Mo,อำเภอแม่เมาะ,53
+284,Amphoe Mae Phrik,อำเภอแม่พริก,53
+285,Amphoe Mae Tha,อำเภอแม่ทะ,53
+286,Amphoe Mueang Pan,อำเภอเมืองปาน,53
+287,Amphoe Ngao,อำเภองาว,53
+288,Amphoe Soem Ngam,อำเภอเสริมงาม,53
+289,Amphoe Sop Prap,อำเภอสบปราบ,53
+290,Amphoe Thoen,อำเภอเถิน,53
+291,Amphoe Wang Nuea,อำเภอวังเหนือ,53
+292,Amphoe Mueang Lamphun,อำเภอเมืองลำพูน,54
+293,Amphoe Ban Hong,อำเภอบ้านโฮ่ง,54
+294,Amphoe Ban Thi,อำเภอบ้านธิ,54
+295,Amphoe Li,อำเภอลี้,54
+296,Amphoe Mae Tha,อำเภอแม่ทา,54
+297,Amphoe Pa Sang,อำเภอป่าซาง,54
+298,Amphoe Thung Hua Chang,อำเภอทุ่งหัวช้าง,54
+299,Amphoe Wiang Nong Long,อำเภอเวียงหนองล่อง,54
+300,Amphoe Mueang Loei,อำเภอเมืองเลย,55
+301,Amphoe Chiang Khan,อำเภอเชียงคาน,55
+302,Amphoe Dan Sai,อำเภอด่านซ้าย,55
+303,Amphoe Erawan,อำเภอเอราวัณ,55
+304,Amphoe Na Duang,อำเภอนาด้วง,55
+305,Amphoe Na Haeo,อำเภอนาแห้ว,55
+306,Amphoe Nong Hin,อำเภอหนองหิน,55
+307,Amphoe Pak Chom,อำเภอปากชม,55
+308,Amphoe Pha Khao,อำเภอผาขาว,55
+309,Amphoe Phu Kradueng,อำเภอภูกระดึง,55
+310,Amphoe Phu Luang,อำเภอภูหลวง,55
+311,Amphoe Phu Ruea,อำเภอภูเรือ,55
+312,Amphoe Tha Li,อำเภอท่าลี่,55
+313,Amphoe Wang Saphung,อำเภอวังสะพุง,55
+314,Amphoe Mueang Lop Buri,อำเภอเมืองลพบุรี,52
+315,Amphoe Ban Mi,อำเภอบ้านหมี่,52
+316,Amphoe Chai Badan,อำเภอชัยบาดาล,52
+317,Amphoe Khok Charoen,อำเภอโคกเจริญ,52
+318,Amphoe Khok Samrong,อำเภอโคกสำโรง,52
+319,Amphoe Lam Sonthi,อำเภอลำสนธิ,52
+320,Amphoe Nong Muang,อำเภอหนองม่วง,52
+321,Amphoe Phatthana Nikhom,อำเภอพัฒนานิคม,52
+322,Amphoe Sa Bot,อำเภอสระโบสถ์,52
+323,Amphoe Tha Luang,อำเภอท่าหลวง,52
+324,Amphoe Tha Wung,อำเภอท่าวุ้ง,52
+325,Amphoe Mueang Mae Hong Son,อำเภอเมืองแม่ฮ่องสอน,45
+326,Amphoe Khun Yuam,อำเภอขุนยวม,45
+327,Amphoe Mae La Noi,อำเภอแม่ลาน้อย,45
+328,Amphoe Mae Sariang,อำเภอแม่สะเรียง,45
+329,Amphoe Pai,อำเภอปาย,45
+330,Amphoe Pang Mapha,อำเภอปางมะผ้า,45
+331,Amphoe Sop Moei,อำเภอสบเมย,45
+332,Amphoe Mueang Maha Sarakham,อำเภอเมืองมหาสารคาม,43
+333,Amphoe Borabue,อำเภอบรบือ,43
+334,Amphoe Chiang Yuen,อำเภอเชียงยืน,43
+335,Amphoe Chuen Chom,อำเภอชื่นชม,43
+336,Amphoe Kae Dam,อำเภอแกดำ,43
+337,Amphoe Kantharawichai,อำเภอกันทรวิชัย,43
+338,Amphoe Kosum Phisai,อำเภอโกสุมพิสัย,43
+339,Amphoe Kut Rang,อำเภอกุดรัง,43
+340,Amphoe Na Chueak,อำเภอนาเชือก,43
+341,Amphoe Na Dun,อำเภอนาดูน,43
+342,Amphoe Phayakkhaphum Phisai,อำเภอพยัคฆภูมิพิสัย,43
+343,Amphoe Wapi Pathum,อำเภอวาปีปทุม,43
+344,Amphoe Yang Sisurat,อำเภอยางสีสุราช,43
+345,Amphoe Mueang Mukdahan,อำเภอเมืองมุกดาหาร,44
+346,Amphoe Don Tan,อำเภอดอนตาล,44
+347,Amphoe Dong Luang,อำเภอดงหลวง,44
+348,Amphoe Khamcha-i,อำเภอคำชะอี,44
+349,Amphoe Nikhom Kham Soi,อำเภอนิคมคำสร้อย,44
+350,Amphoe Nong Sung,อำเภอหนองสูง,44
+351,Amphoe Wan Yai,อำเภอหว้านใหญ่,44
+352,Amphoe Mueang Nakhon Nayok,อำเภอเมืองนครนายก,18
+353,Amphoe Ban Na,อำเภอบ้านนา,18
+354,Amphoe Ongkharak,อำเภอองครักษ์,18
+355,Amphoe Pak Phli,อำเภอปากพลี,18
+356,Amphoe Mueang Nakhon Pathom,อำเภอเมืองนครปฐม,19
+357,Amphoe Bang Len,อำเภอบางเลน,19
+358,Amphoe Don Tum,อำเภอดอนตูม,19
+359,Amphoe Kamphaeng Saen,อำเภอกำแพงแสน,19
+360,Amphoe Nakhon Chai Si,อำเภอนครชัยศรี,19
+361,Amphoe Phutthamonthon,อำเภอพุทธมณฑล,19
+362,Amphoe Sam Phran,อำเภอสามพราน,19
+363,Amphoe Mueang Nakhon Phanom,อำเภอเมืองนครพนม,20
+364,Amphoe Ban Phaeng,อำเภอบ้านแพง,20
+365,Amphoe Na Kae,อำเภอนาแก,20
+366,Amphoe Na Thom,อำเภอนาทม,20
+367,Amphoe Na Wa,อำเภอนาหว้า,20
+368,Amphoe Phon Sawan,อำเภอโพนสวรรค์,20
+369,Amphoe Pla Pak,อำเภอปลาปาก,20
+370,Amphoe Renu Nakhon,อำเภอเรณูนคร,20
+371,Amphoe Si Songkhram,อำเภอศรีสงคราม,20
+372,Amphoe Tha Uthen,อำเภอท่าอุเทน,20
+373,Amphoe That Phanom,อำเภอธาตุพนม,20
+374,Amphoe Wang Yang,อำเภอวังยาง,20
+375,Amphoe Mueang Nakhon Ratchasima,อำเภอเมืองนครราชสีมา,21
+376,Amphoe Ban Lueam,อำเภอบ้านเหลื่อม,21
+377,Amphoe Bua Lai,อำเภอบัวลาย,21
+378,Amphoe Bua Yai,อำเภอบัวใหญ่,21
+379,Amphoe Chakkarat,อำเภอจักราช,21
+380,Amphoe Chaloem Phra Kiat,อำเภอเฉลิมพระเกียรติ,21
+381,Amphoe Chok Chai,อำเภอโชคชัย,21
+382,Amphoe Chum Phuang,อำเภอชุมพวง,21
+383,Amphoe Dan Khun Thot,อำเภอด่านขุนทด,21
+384,Amphoe Huai Thalaeng,อำเภอห้วยแถลง,21
+385,Amphoe Kaeng Sanam Nang,อำเภอแก้งสนามนาง,21
+386,Amphoe Kham Sakaesaeng,อำเภอขามสะแกแสง,21
+387,Amphoe Kham Thale So,อำเภอขามทะเลสอ,21
+388,Amphoe Khon Buri,อำเภอครบุรี,21
+389,Amphoe Khong,อำเภอคง,21
+390,Amphoe Lam Thamenchai,อำเภอลำทะเมนชัย,21
+391,Amphoe Mueang Yang,อำเภอเมืองยาง,21
+392,Amphoe Non Daeng,อำเภอโนนแดง,21
+393,Amphoe Non Sung,อำเภอโนนสูง,21
+394,Amphoe Non Thai,อำเภอโนนไทย,21
+395,Amphoe Nong Bun Mak,อำเภอหนองบุญมาก,21
+396,Amphoe Pak Chong,อำเภอปากช่อง,21
+397,Amphoe Pak Thong Chai,อำเภอปักธงชัย,21
+398,Amphoe Phimai,อำเภอพิมาย,21
+399,Amphoe Prathai,อำเภอประทาย,21
+400,Amphoe Phra Thong Kham,อำเภอพระทองคำ,21
+401,Amphoe Sida,อำเภอสีดา,21
+402,Amphoe Sikhio,อำเภอสีคิ้ว,21
+403,Amphoe Soeng Sang,อำเภอเสิงสาง,21
+404,Amphoe Sung Noen,อำเภอสูงเนิน,21
+405,Amphoe Thepharak,อำเภอเทพารักษ์,21
+406,Amphoe Wang Nam Khiao,อำเภอวังน้ำเขียว,21
+407,Amphoe Mueang Nakhon Sawan,อำเภอเมืองนครสวรรค์,23
+408,Amphoe Banphot Phisai,อำเภอบรรพตพิสัย,23
+409,Amphoe Chum Saeng,อำเภอชุมแสง,24
+410,Amphoe Chum Ta Bong,อำเภอชุมตาบง,25
+411,Amphoe Kao Liao,อำเภอเก้าเลี้ยว,26
+412,Amphoe Krok Phra,อำเภอโกรกพระ,27
+413,Amphoe Lat Yao,อำเภอลาดยาว,28
+414,Amphoe Mae Poen,อำเภอแม่เปิน,29
+415,Amphoe Mae Wong,อำเภอแม่วงก์,30
+416,Amphoe Nong Bua,อำเภอหนองบัว,31
+417,Amphoe Phaisali,อำเภอไพศาลี,32
+418,Amphoe Phayuha Khiri,อำเภอพยุหะคีรี,33
+419,Amphoe Tak Fa,อำเภอตากฟ้า,34
+420,Amphoe Takhli,อำเภอตาคลี,35
+421,Amphoe Tha Tako,อำเภอท่าตะโก,36
+422,Amphoe Mueang Nakhon Si Thammarat,อำเภอเมืองนครศรีธรรมราช,22
+423,Amphoe Bang Khan,อำเภอบางขัน,22
+424,Amphoe Chaloem Phra Kiat,อำเภอเฉลิมพระเกียรติ,22
+425,Amphoe Cha-uat,อำเภอชะอวด,22
+426,Amphoe Chang Klang,อำเภอช้างกลาง,22
+427,Amphoe Chawang,อำเภอฉวาง,22
+428,Amphoe Chian Yai,อำเภอเชียรใหญ่,22
+429,Amphoe Chulabhorn,อำเภอจุฬาภรณ์,22
+430,Amphoe Hua Sai,อำเภอหัวไทร,22
+431,Amphoe Khanom,อำเภอขนอม,22
+432,Amphoe Lan Saka,อำเภอลานสกา,22
+433,Amphoe Na Bon,อำเภอนาบอน,22
+434,Amphoe Nopphitam,อำเภอนบพิตำ,22
+435,Amphoe Pak Phanang,อำเภอปากพนัง,22
+436,Amphoe Phipun,อำเภอพิปูน,22
+437,Amphoe Phra Phrom,อำเภอพระพรหม,22
+438,Amphoe Phrom  Khiri,อำเภอพรหมคีรี,22
+439,Amphoe Ron Phibun,อำเภอร่อนพิบูลย์,22
+440,Amphoe Sichon,อำเภอสิชล,22
+441,Amphoe Tha Sala,อำเภอท่าศาลา,22
+442,Amphoe Tham Phannara,อำเภอถ้ำพรรณรา,22
+443,Amphoe Thung Song,อำเภอทุ่งสง,22
+444,Amphoe Thung Yai,อำเภอทุ่งใหญ่,22
+445,Amphoe Mueang Nan,อำเภอเมืองน่าน,26
+446,Amphoe Ban Luang,อำเภอบ้านหลวง,26
+447,Amphoe Bo Kluea,อำเภอบ่อเกลือ,26
+448,Amphoe Chaloem Phra Kiat,อำเภอเฉลิมพระเกียติ,26
+449,Amphoe Chiang Klang,อำเภอเชียงกลาง,26
+450,Amphoe Mae Charim,อำเภอแม่จริม,26
+451,Amphoe Na Muen,อำเภอนาหมื่น,26
+452,Amphoe Na Noi,อำเภอนาน้อย,26
+453,Amphoe Phu Phiang,อำเภอภูเพียง,26
+454,Amphoe Pua,อำเภอปัว,26
+455,Amphoe Santi Suk,อำเภอสันติสุข,26
+456,Amphoe Song Khwae,อำเภอสองแคว,26
+457,Amphoe Tha Wang Pha,อำเภอท่าวังผา,26
+458,Amphoe Thung Chang,อำเภอทุ่งช้าง,26
+459,Amphoe Wiang Sa,อำเภอเวียงสา,26
+460,Amphoe Mueang Narathiwat,อำเภอเมืองนราธิวาส,25
+461,Amphoe Bacho,อำเภอบาเจาะ,25
+462,Amphoe Chanae,อำเภอจะแนะ,25
+463,Amphoe Cho-airong,อำเภอเจาะไอร้อง,25
+464,Amphoe Ra-ngae,อำเภอระแงะ,25
+465,Amphoe Rueso,อำเภอรือเสาะ,25
+466,Amphoe Si Sakhon,อำเภอศรีสาคร,25
+467,Amphoe Sukhirin,อำเภอสุคิริน,25
+468,Amphoe Su-ngai Kolok,อำเภอสุไหงโก-ลก,25
+469,Amphoe Su-ngai Padi,อำเภอสุไหงปาดี,25
+470,Amphoe Tak Bai,อำเภอตากใบ,25
+471,Amphoe Waeng,อำเภอแว้ง,25
+472,Amphoe Yi-ngo,อำเภอยี่งอ,25
+473,Amphoe Mueang Nong Bua Lam Phu,อำเภอเมืองหนองบัวลำภู  ,71
+474,Amphoe Na Klang,อำเภอนากลาง,71
+475,Amphoe Na Wang,อำเภอนาวัง,71
+476,Amphoe Non Sang,อำเภอโนนสัง,71
+477,Amphoe Si Bun Rueang,อำเภอศรีบุญเรือง,71
+478,Amphoe Suwannakhuha,อำเภอสุวรรณคูหา,71
+479,Amphoe Mueang Nong Khai,อำเภอเมืองหนองคาย,70
+480,Amphoe Fao Rai,อำเภอเฝ้าไร่,70
+481,Amphoe Pho Tak,อำเภอโพธิ์ตาก,70
+482,Amphoe Rattanawapi,อำเภอรัตนวาปี,70
+483,Amphoe Sakhrai,อำเภอสระใคร,70
+484,Amphoe Sangkhom,อำเภอสังคม,70
+485,Amphoe Si Chiang Mai,อำเภอศรีเชียงใหม่,70
+486,Amphoe So Phisai,อำเภอโพนพิสัย,70
+487,Amphoe Tha Bo,อำเภอท่าบ่อ,70
+488,Amphoe Mueang Nonthaburi,อำเภอเมืองนนทบุรี,24
+489,Amphoe Bang Bua Thong,อำเภอบางบัวทอง,24
+490,Amphoe Bang Kruai,อำเภอบางกรวย,24
+491,Amphoe Bang Yai,อำเภอบางใหญ่,24
+492,Amphoe Pak Kret,อำเภอปากเกร็ด,24
+493,Amphoe Sai Noi,อำเภอไทรน้อย,24
+494,Amphoe Mueang Pathum Thani,อำเภอเมืองปทุมธานี,29
+495,Amphoe Khlong Luang,อำเภอคลองหลวง,29
+496,Amphoe Lam Luk Ka,อำเภอลำลูกกา,29
+497,Amphoe Lat Lum Kaeo,อำเภอลาดหลุมแก้ว,29
+498,Amphoe Nong Suea,อำเภอหนองเสือ,29
+499,Amphoe Sam Khok,อำเภอสามโคก,29
+500,Amphoe Thanyaburi,อำเภอธัญบุรี,29
+501,Amphoe Mueang Pattani,อำเภอเมืองปัตตานี,32
+502,Amphoe Kapho,อำเภอกะพ้อ,32
+503,Amphoe Khok Pho,อำเภอโคกโพธิ์,32
+504,Amphoe Mae Lan,อำเภอแม่ลาน,32
+505,Amphoe Mai Kaen,อำเภอไม้แก่น,32
+506,Amphoe Mayo,อำเภอมายอ,32
+507,Amphoe Nong Chik,อำเภอหนองจิก,32
+508,Amphoe Panare,อำเภอปะนาเระ,32
+509,Amphoe Sai Buri,อำเภอสายบุรี,32
+510,Amphoe Thung Yang Daeng,อำเภอทุ่งยางแดง,32
+511,Amphoe Yarang,อำเภอยะรัง,32
+512,Amphoe Yaring,อำเภอยะหริ่ง,32
+513,Amphoe Mueang Phangnga,อำเภอเมืองพังงา,35
+514,Amphoe Kapong,อำเภอกะปง,35
+515,Amphoe Khura Buri,อำเภอคุระบุรี,35
+516,Amphoe Ko Yao,อำเภอเกาะยาว,35
+517,Amphoe Takua Pa,อำเภอตะกั่วป่า,35
+518,Amphoe Takua Thung,อำเภอตะกั่วทุ่ง,35
+519,Amphoe Thai Mueang,อำเภอท้ายเหมือง  ,35
+520,Amphoe Thap Put,อำเภอทับปุด,35
+521,Amphoe Mueang Phatthalung,อำเภอเมืองพัทลุง,36
+522,Amphoe Bang Kaeo,อำเภอบางแก้ว,36
+523,Amphoe Khao Chaison,อำเภอเขาชัยสน,36
+524,Amphoe Khuan Khanun,อำเภอควนขนุน,36
+525,Amphoe Kong Ra,อำเภอกงหรา,36
+526,Amphoe Pa Bon,อำเภอป่าบอน,36
+527,Amphoe Pa Phayom,อำเภอป่าพะยอม,36
+528,Amphoe Pak Phayun,อำเภอปากพะยูน,36
+529,Amphoe Si Banphot,อำเภอศรีบรรพต,36
+530,Amphoe Srinagarindra,อำเภอศรีนครินทร์,36
+531,Amphoe Tamot,อำเภอตะโหมด,36
+532,Amphoe Mueang Phayao,อำเภอเมืองพะเยา,34
+533,Amphoe Chiang Kham,อำเภอเชียงคำ,34
+534,Amphoe Chiang Muan,อำเภอเชียงม่วน,34
+535,Amphoe Chun,อำเภอจุน,34
+536,Amphoe Dok Khamtai,อำเภอดอกคำใต้,34
+537,Amphoe Mae Chai,อำเภอแม่ใจ,34
+538,Amphoe Pong,อำเภอปง,34
+539,Amphoe Phu Kamyao,อำเภอภูกามยาว,34
+540,Amphoe Phu Sang,อำเภอภูซาง,34
+541,Amphoe Mueang Phetchabun,อำเภอเมืองเพชรบูรณ์,40
+542,Amphoe Bueng Sam Phan,อำเภอบึงสามพัน,40
+543,Amphoe Chon Daen,อำเภอชนแดน,40
+544,Amphoe Khao Kho,อำเภอเขาค้อ,40
+545,Amphoe Lom Kao,อำเภอหล่มเก่า,40
+546,Amphoe Lom Sak,อำเภอหล่มสัก,40
+547,Amphoe Nam Nao,อำเภอน้ำหนาว,40
+548,Amphoe Nong Phai,อำเภอหนองไผ่,40
+549,Amphoe Si Thep,อำเภอศรีเทพ,40
+550,Amphoe Wang Pong,อำเภอวังโป่ง,40
+551,Amphoe Wichian Buri,อำเภอวิเชียรบุรี,40
+552,Amphoe Mueang Phetchaburi,อำเภอเมืองเพชรบุรี,39
+553,Amphoe Ban Laem,อำเภอบ้านแหลม,39
+554,Amphoe Ban Lat,อำเภอบ้านลาด,39
+555,Amphoe Cha-am,อำเภอชะอำ,39
+556,Amphoe Kaeng Krachan,อำเภอแก่งกระจาน,39
+557,Amphoe Khao Yoi,อำเภอเขาย้อย,39
+558,Amphoe Nong Ya Plong,อำเภอหนองหญ้าปล้อง,39
+559,Amphoe Tha Yang,อำเภอท่ายาง,39
+560,Amphoe Mueang Phichit,อำเภอเมืองพิจิตร,37
+561,Amphoe Bueng Na Rang,อำเภอบึงนาราง,37
+562,Amphoe Bang Mun Nak,อำเภอบางมูลนาก,37
+563,Amphoe Dong Charoen,อำเภอดงเจริญ,37
+564,Amphoe Pho Prathap Chang,อำเภอโพธิ์ประทับช้าง,37
+565,Amphoe Pho Thale,อำเภอโพทะเล,37
+566,Amphoe Sak Lek,อำเภอสากเหล็ก,37
+567,Amphoe Sam Ngam,อำเภอสามง่าม,37
+568,Amphoe Tap Khlo,อำเภอทับคล้อ,37
+569,Amphoe Taphan Hin,อำเภอตะพานหิน,37
+570,Amphoe Wachirabarami,อำเภอวชิรบารมี,37
+571,Amphoe Wang Sai Phun,อำเภอวังทรายพูน,37
+572,Amphoe Mueang Phitsanulok,อำเภอเมืองพิษณุโลก,38
+573,Amphoe Bang Krathum,อำเภอบางกระทุ่ม,38
+574,Amphoe Bang Rakam,อำเภอบางระกำ,38
+575,Amphoe Chat Trakan,อำเภอชาติตระการ,38
+576,Amphoe Nakhon Thai,อำเภอนครไทย,38
+577,Amphoe Noen Maprang,อำเภอเนินมะปราง,38
+578,Amphoe Phrom Phiram,อำเภอพรหมพิราม,38
+579,Amphoe Wang Thong,อำเภอวังทอง,38
+580,Amphoe Wat Bot,อำเภอวัดโบสถ์,38
+581,Amphoe Mueang Phrae,อำเภอเมืองแพร่,41
+582,Amphoe Den Chai,อำเภอเด่นชัย,41
+583,Amphoe Long,อำเภอลอง,41
+584,Amphoe Nong Muang Khai,อำเภอหนองม่วงไข่,41
+585,Amphoe Rong Kwang,อำเภอร้องกวาง,41
+586,Amphoe Song,อำเภอสอง,41
+587,Amphoe Sung Men,อำเภอสูงเม่น,41
+588,Amphoe Wang Chin,อำเภอวังชิ้น,41
+589,Amphoe Phra Nakhon Si Ayutthaya,อำเภอพระนครศรีอยุธยา,33
+590,Amphoe Ban Phraek,อำเภอบ้านแพรก,33
+591,Amphoe Bang Ban,อำเภอบางบาล,33
+592,Amphoe Bang Pahan,อำเภอบางปะหัน,33
+593,Amphoe Bang Pa-in,อำเภอบางปะอิน,33
+594,Amphoe Bang Sai,อำเภอบางซ้าย,33
+595,Amphoe Bang Sai,อำเภอบางไทร,33
+596,Amphoe Lat Bua Luang,อำเภอลาดบัวหลวง,33
+597,Amphoe Maha Rat,อำเภอมหาราช,33
+598,Amphoe Nakhon Luang,อำเภอนครหลวง,33
+599,Amphoe Phachi,อำเภอภาชี,33
+600,Amphoe Phak Hai,อำเภอผักไห่,33
+601,Amphoe Sena,อำเภอเสนา,33
+602,Amphoe Tha Ruea,อำเภอท่าเรือ,33
+603,Amphoe Uthai,อำเภออุทัย,33
+604,Amphoe Wang Noi,อำเภอวังน้อย,33
+605,Amphoe Mueang Phuket,อำเภอเมืองภูเก็ต,42
+606,Amphoe Kathu,อำเภอกะทู้,42
+607,Amphoe Thalang,อำเภอถลาง,42
+608,Amphoe Mueang Prachin Buri,อำเภอเมืองปราจีนบุรี,31
+609,Amphoe Ban Sang,อำเภอบ้านสร้าง,31
+610,Amphoe Kabin Buri,อำเภอกบินทร์บุรี,31
+611,Amphoe Na Di,อำเภอนาดี,31
+612,Amphoe Prachantakham,อำเภอประจันตคาม,31
+613,Amphoe Si Maha Phot,อำเภอศรีมหาโพธิ,31
+614,Amphoe Si Mahosot,อำเภอศรีมโหสถ,31
+615,Amphoe Mueang Prachuap Khiri Khan,อำเภอเมืองประจวบคีรีขันธ์,30
+616,Amphoe Bang Saphan,อำเภอบางสะพาน,30
+617,Amphoe Bang Saphan Noi,อำเภอบางสะพานน้อย,30
+618,Amphoe Hua Hin,อำเภอหัวหิน,30
+619,Amphoe Kui Buri,อำเภอกุยบุรี,30
+620,Amphoe Pran Buri,อำเภอปราณบุรี,30
+621,Amphoe Sam Roi Yot,อำเภอสามร้อยยอด,30
+622,Amphoe Thap Sakae,อำเภอทับสะแก,30
+623,Amphoe Mueang Ranong,อำเภอเมืองระนอง,49
+624,Amphoe Kapoe,อำเภอกะเปอร์,49
+625,Amphoe Kra Buri,อำเภอกระบุรี,49
+626,Amphoe La-un,อำเภอละอุ่น,49
+627,Amphoe Suk Samran,อำเภอสุขสำราญ,49
+628,Amphoe Mueang Ratchaburi,อำเภอเมืองราชบุรี,51
+629,Amphoe Ban Kha,อำเภอบ้านคา,51
+630,Amphoe Ban Pong,อำเภอบ้านโป่ง,51
+631,Amphoe Bang Phae,อำเภอบางแพ,51
+632,Amphoe Chom Bueng,อำเภอจอมบึง,51
+633,Amphoe Damnoen Saduak,อำเภอดำเนินสะดวก,51
+634,Amphoe Pak Tho,อำเภอปากท่อ,51
+635,Amphoe Photharam,อำเภอโพธาราม,51
+636,Amphoe Suan Phueng,อำเภอสวนผึ้ง,51
+637,Amphoe Wat Phleng,อำเภอวัดเพลง,51
+638,Amphoe Mueang Rayong,อำเภอเมืองระยอง,50
+639,Amphoe Ban Chang,อำเภอบ้านฉาง,50
+640,Amphoe Ban Khai,อำเภอบ้านค่าย,50
+641,Amphoe Khao Chamao,อำเภอเขาชะเมา,50
+642,Amphoe Klaeng,อำเภอแกลง,50
+643,Amphoe Nikhom Phatthana,อำเภอนิคมพัฒนา,50
+644,Amphoe Pluak Daeng,อำเภอปลวกแดง,50
+645,Amphoe Wang Chan,อำเภอวังจันทร์,50
+646,Amphoe Mueang Roi Et,อำเภอเมืองร้อยเอ็ด,48
+647,Amphoe At Samat,อำเภออาจสามารถ,48
+648,Amphoe Changhan,อำเภอจังหาร,48
+649,Amphoe Chaturaphak Phiman,อำเภอจตุรพักตรพิมาน,48
+650,Amphoe Chiang Khwan,อำเภอเชียงขวัญ,48
+651,Amphoe Kaset Wisai,อำเภอเกษตรวิสัย,48
+652,Amphoe Moei Wadi,อำเภอเมยวดี,48
+653,Amphoe Mueang Suang,อำเภอเมืองสรวง,48
+654,Amphoe Nong Hi,อำเภอหนองฮี,48
+655,Amphoe Nong Phok,อำเภอหนองพอก,48
+656,Amphoe Pathum Rat,อำเภอปทุมรัตต์,48
+657,Amphoe Phanom Phrai,อำเภอพนมไพร  ,48
+658,Amphoe Pho Chai,อำเภอโพธิ์ชัย,48
+659,Amphoe Phon Sai,อำเภอโพนทราย,48
+660,Amphoe Phon Thong,อำเภอโพนทอง,48
+661,Amphoe Selaphum,อำเภอเสลภูมิ,48
+662,Amphoe Si Somdet,อำเภอศรีสมเด็จ,48
+663,Amphoe Suwannaphum,อำเภอสุวรรณภูมิ,48
+664,Amphoe Thawat Buri,อำเภอธวัชบุรี,48
+665,Amphoe Thung Khao Luang,อำเภอทุ่งเขาหลวง,48
+666,Amphoe Mueang Sa Kaeo,อำเภอเมืองสระแก้ว,63
+667,Amphoe Aranyaprathet,อำเภออรัญประเทศ,63
+668,Amphoe Khao Chakan,อำเภอเขาฉกรรจ์,63
+669,Amphoe Khlong Hat,อำเภอคลองหาด,63
+670,Amphoe Khok Sung,อำเภอโคกสูง,63
+671,Amphoe Ta Phraya,อำเภอตาพระยา,63
+672,Amphoe Wang Nam Yen,อำเภอวังน้ำเย็น,63
+673,Amphoe Wang Sombun,อำเภอวังสมบูรณ์,63
+674,Amphoe Watthana Nakhon,อำเภอวัฒนานคร,63
+675,Amphoe Mueang Sakon Nakhon,อำเภอเมืองสกลนคร,57
+676,Amphoe Akat Amnuai,อำเภออากาศอำนวย,57
+677,Amphoe Ban Muang,อำเภอบ้านม่วง,57
+678,Amphoe Charoen Sin,อำเภอเจริญศิลป์,57
+679,Amphoe Kham Ta Kla,อำเภอคำตากล้า,57
+680,Amphoe Khok Si Suphan,อำเภอโคกศรีสุพรรณ,57
+681,Amphoe Kusuman,อำเภอกุสุมาลย์,57
+682,Amphoe Kut Bak,อำเภอกุดบาก,57
+683,Amphoe Nikhom Nam Un,อำเภอนิคมน้ำอูน,57
+684,Amphoe Phang Khon,อำเภอพังโคน,57
+685,Amphoe Phanna Nikhom,อำเภอพรรณานิคม,57
+686,Amphoe Phon Na Kaeo,อำเภอโพนนาแก้ว,57
+687,Amphoe Phu Phan,อำเภอภูพาน,57
+688,Amphoe Sawang Daen Din,อำเภอสว่างแดนดิน,57
+689,Amphoe Song Dao,อำเภอส่องดาว,57
+690,Amphoe Tao Ngoi,อำเภอเต่างอย,57
+691,Amphoe Wanon Niwat,อำเภอวานรนิวาส,57
+692,Amphoe Waritchaphum,อำเภอวาริชภูมิ,57
+693,Amphoe Mueang Samut Prakan,อำเภอเมืองสมุทรปราการ,60
+694,Amphoe Bang Bo,อำเภอบางบ่อ,60
+695,Amphoe Bang Phli,อำเภอบางพลี,60
+696,Amphoe Bang Sao Thong,อำเภอบางเสาธง,60
+697,Amphoe Phra Pradaeng,อำเภอพระประแดง,60
+698,Amphoe Phra Samut Chedi,อำเภอพระสมุทรเจดีย์,60
+699,Amphoe Mueang Samut Sakhon,อำเภอเมืองสมุทรสาคร,62
+700,Amphoe Ban Phaeo,อำเภอบ้านแพ้ว,62
+701,Amphoe Krathum Baen,อำเภอกระทุ่มแบน,62
+702,Amphoe Mueang Samut Songkhram,อำเภอเมืองสมุทรสงคราม,61
+703,Amphoe Amphawa,อำเภออัมพวา,61
+704,Amphoe Bang Khonthi,อำเภอบางคนที,61
+705,Amphoe Mueang Saraburi,อำเภอเมืองสระบุรี,64
+706,Amphoe Ban Mo,อำเภอบ้านหมอ,64
+707,Amphoe Chaloem Phra Kiat,อำเภอเฉลิมพระเกียรติ,64
+708,Amphoe Don Phut,อำเภอดอนพุด,64
+709,Amphoe Kaeng Khoi,อำเภอแก่งคอย,64
+710,Amphoe Muak Lek,อำเภอมวกเหล็ก,64
+711,Amphoe Nong Don,อำเภอหนองโดน,64
+712,Amphoe Nong Khae,อำเภอหนองแค,64
+713,Amphoe Nong Saeng,อำเภอหนองแซง,64
+714,Amphoe Phra Phutthabat,อำเภอพระพุทธบาท,64
+715,Amphoe Sao Hai,อำเภอเสาไห้,64
+716,Amphoe Wang Muang,อำเภอวังม่วง,64
+717,Amphoe Wihan Daeng,อำเภอวิหารแดง,64
+718,Amphoe Mueang Satun,อำเภอเมืองสตูล,59
+719,Amphoe Khuan Don,อำเภอควนโดน,59
+720,Amphoe Khuan Kalong,อำเภอควนกาหลง,59
+721,Amphoe La-ngu,อำเภอละงู,59
+722,Amphoe Manang,อำเภอมะนัง,59
+723,Amphoe Tha Phae,อำเภอท่าแพ,59
+724,Amphoe Thung Wa,อำเภอทุ่งหว้า,59
+725,Amphoe Mueang Sing Buri,อำเภอเมืองสิงห์บุรี,65
+726,Amphoe Bang Rachan,อำเภอบางระจัน,65
+727,Amphoe In Buri,อำเภออินทร์บุรี,65
+728,Amphoe Khai Bang Rachan,อำเภอค่ายบางระจัน,65
+729,Amphoe Phrom Buri,อำเภอพรหมบุรี,65
+730,Amphoe Tha Chang,อำเภอท่าช้าง,65
+731,Amphoe Mueang Si Sa Ket,อำเภอเมืองศรีสะเกษ,56
+732,Amphoe Benchalak,อำเภอเบญจลักษ์,56
+733,Amphoe Bueng Bun,อำเภอบึงบูรพ์,56
+734,Amphoe Huai Thap Than,อำเภอห้วยทับทัน,56
+735,Amphoe Kantharalak,อำเภอกันทรลักษ์,56
+736,Amphoe Kanthararom,อำเภอกันทรารมย์,56
+737,Amphoe Khukhan,อำเภอขุขันธ์,56
+738,Amphoe Khun Han,อำเภอขุนหาญ,56
+739,Amphoe Mueang Chan,อำเภอเมืองจันทร์,56
+740,Amphoe Nam Kliang,อำเภอน้ำเกลี้ยง,56
+741,Amphoe Non Khun,อำเภอโนนคูน,56
+742,Amphoe Phayu,อำเภอพยุห์,56
+743,Amphoe Pho Si Suwan,อำเภอโพธิ์ศรีสุวรรณ,56
+744,Amphoe Phrai Bueng,อำเภอไพรบึง,56
+745,Amphoe Phu Sing,อำเภอภูสิงห์,56
+746,Amphoe Prang Ku,อำเภอปรางค์กู่,56
+747,Amphoe Rasi Salai,อำเภอราษีไศล,56
+748,Amphoe Sila Lat,อำเภอศิลาลาด,56
+749,Amphoe Si Rattana,อำเภอศรีรัตนะ,56
+750,Amphoe Uthumphon Phisai,อำเภออุทุมพรพิสัย,56
+751,Amphoe Wang Hin,อำเภอวังหิน,56
+752,Amphoe Yang Chum Noi,อำเภอยางชุมน้อย,56
+753,Amphoe Mueang Songkhla,อำเภอเมืองสงขลา,58
+754,Amphoe Bang Klam,อำเภอบางกล่ำ,58
+755,Amphoe Chana,อำเภอจะนะ,58
+756,Amphoe Hat Yai,อำเภอหาดใหญ่,58
+757,Amphoe Khlong Hoi Khong,อำเภอคลองหอยโข่ง,58
+758,Amphoe Khuan Niang,อำเภอควนเนียง,58
+759,Amphoe Krasae Sin,อำเภอกระแสสินธุ์,58
+760,Amphoe Na Mom,อำเภอนาหม่อม,58
+761,Amphoe Na Thawi,อำเภอนาทวี,58
+762,Amphoe Ranot,อำเภอระโนด,58
+763,Amphoe Rattaphum,อำเภอรัตภูมิ,58
+764,Amphoe Saba Yoi,อำเภอสะบ้าย้อย,58
+765,Amphoe Sadao,อำเภอสะเดา,58
+766,Amphoe Sathing Phra,อำเภอสทิงพระ,58
+767,Amphoe Singhanakhon,อำเภอสิงหนคร  ,58
+768,Amphoe Thepha,อำเภอเทพา,58
+769,Amphoe Mueang Sukhothai,อำเภอเมืองสุโขทัย,66
+770,Amphoe Ban Dan Lan Hoi,อำเภอบ้านด่านลานหอย,66
+771,Amphoe Khiri Mat,อำเภอคีรีมาศ,66
+772,Amphoe Kong Krailat,อำเภอกงไกรลาศ,66
+773,Amphoe Sawankhalok,อำเภอสวรรคโลก,66
+774,Amphoe Si Nakhon,อำเภอศรีนคร,66
+775,Amphoe Si Samrong,อำเภอศรีสำโรง,66
+776,Amphoe Si Satchanalai,อำเภอศรีสัชนาลัย,66
+777,Amphoe Thung Saliam,อำเภอทุ่งเสลี่ยม,66
+778,Amphoe Mueang Suphan Buri,อำเภอเมืองสุพรรณบุรี,67
+779,Amphoe Bang Pla Ma,อำเภอบางปลาม้า,67
+780,Amphoe Dan Chang,อำเภอด่านช้าง,67
+781,Amphoe Doem Bang Nang Buat,อำเภอเดิมบางนางบวช,67
+782,Amphoe Don Chedi,อำเภอดอนเจดีย์,67
+783,Amphoe Nong Ya Sai,อำเภอหนองหญ้าไซ,67
+784,Amphoe Sam Chuk,อำเภอสามชุก,67
+785,Amphoe Si Prachan,อำเภอศรีประจันต์,67
+786,Amphoe Song Phi Nong,อำเภอสองพี่น้อง,67
+787,Amphoe U Thong,อำเภออู่ทอง,67
+788,Amphoe Mueang Surat Thani,อำเภอเมืองสุราษฎร์ธานี,68
+789,Amphoe Ban Na Doem,อำเภอบ้านนาเดิม,68
+790,Amphoe Ban Na San,อำเภอบ้านนาสาร,68
+791,Amphoe Ban Ta Khun,อำเภอบ้านตาขุน,68
+792,Amphoe Chai Buri,อำเภอชัยบุรี,68
+793,Amphoe Chaiya,อำเภอไชยา,68
+794,Amphoe Don Sak,อำเภอดอนสัก,68
+795,Amphoe Kanchanadit,อำเภอกาญจนดิษฐ์,68
+796,Amphoe Khian Sa,อำเภอเคียนซา,68
+797,Amphoe Khiri Rat  Nikhom,อำเภอคีรีรัฐนิคม,68
+798,Amphoe Ko Pha-ngan,อำเภอเกาะพะงัน,68
+799,Amphoe Ko Samui,อำเภอเกาะสมุย,68
+800,Amphoe Phanom,อำเภอพนม,68
+801,Amphoe Phrasaeng,อำเภอพระแสง,68
+802,Amphoe Phunphin,อำเภอพุนพิน,68
+803,Amphoe Tha Chana,อำเภอท่าชนะ,68
+804,Amphoe Tha Chang,อำเภอท่าฉาง,68
+805,Amphoe Vibhavadi,อำเภอวิภาวดี,68
+806,Amphoe Wiang Sa,อำเภอเวียงสระ,68
+807,Amphoe Mueang Surin,อำเภอเมืองสุรินทร์,69
+808,Amphoe Buachet,อำเภอบัวเชด,69
+809,Amphoe Chom Phra,อำเภอจอมพระ,69
+810,Amphoe Chumphon Buri,อำเภอชุมพลบุรี,69
+811,Amphoe Kap Choeng,อำเภอกาบเชิง,69
+812,Amphoe Khwao Sinarin,อำเภอเขวาสินรินทร์,69
+813,Amphoe Lamduan,อำเภอลำดวน,69
+814,Amphoe Non Narai,อำเภอโนนนารายณ์,69
+815,Amphoe Phanom Dong Rak,อำเภอพนมดงรัก,69
+816,Amphoe Prasat,อำเภอปราสาท,69
+817,Amphoe Rattanaburi,อำเภอรัตนบุรี,69
+818,Amphoe Samrong Thap,อำเภอสำโรงทาบ,69
+819,Amphoe Sangkha,อำเภอสังขะ,69
+820,Amphoe Sanom,อำเภอสนม,69
+821,Amphoe Sikhoraphum,อำเภอศีขรภูมิ,69
+822,Amphoe Si Narong,อำเภอศรีณรงค์,69
+823,Amphoe Tha Tum,อำเภอท่าตูม,69
+824,Amphoe Mueang Tak,อำเภอเมืองตาก,17
+825,Amphoe Ban Tak,อำเภอบ้านตาก,17
+826,Amphoe Mae Ramat,อำเภอแม่ระมาด,17
+827,Amphoe Mae Sot,อำเภอแม่สอด,17
+828,Amphoe Phop Phra,อำเภอพบพระ,17
+829,Amphoe Sam Ngao,อำเภอสามเงา,17
+830,Amphoe Tha Song Yang,อำเภอท่าสองยาง,17
+831,Amphoe Umphang,อำเภออุ้มผาง,17
+832,Amphoe Wang Chao,อำเภอวังเจ้า,17
+833,Amphoe Mueang Trang,อำเภอเมืองตรัง,15
+834,Amphoe Hat Samran,อำเภอหาดสำราญ,15
+835,Amphoe Huai Yot,อำเภอห้วยยอด,15
+836,Amphoe Kantang,อำเภอกันตัง,15
+837,Amphoe Na Yong,อำเภอนาโยง,15
+838,Amphoe Palian,อำเภอปะเหลียน,15
+839,Amphoe Ratsada,อำเภอรัษฎา,15
+840,Amphoe Sikao,อำเภอสิเกา,15
+841,Amphoe Wang Wiset,อำเภอวังวิเศษ,15
+842,Amphoe Yan Ta Khao,อำเภอย่านตาขาว,15
+843,Amphoe Mueang Trat,อำเภอเมืองตราด,16
+844,Amphoe Bo Rai,อำเภอบ่อไร่,16
+845,Amphoe Khao Saming,อำเภอเขาสมิง,16
+846,Amphoe Khlong Yai,อำเภอคลองใหญ่,16
+847,Amphoe Ko Chang,อำเภอเกาะช้าง,16
+848,Amphoe Ko Kut,อำเภอเกาะกูด,16
+849,Amphoe Laem Ngop,อำเภอแหลมงอบ,16
+850,Amphoe Mueang Ubon Ratchathani,อำเภอเมืองอุบลราชธานี,77
+851,Amphoe Buntharik,อำเภอบุณฑริก,77
+852,Amphoe Det Udom,อำเภอเดชอุดม,77
+853,Amphoe Don Mot Daeng,อำเภอดอนมดแดง,77
+854,Amphoe Khemarat,อำเภอเขมราฐ,77
+855,Amphoe Lao Suea Kok,อำเภอเหล่าเสือโก้ก,77
+856,Amphoe Khong Chiam,อำเภอโขงเจียม,77
+857,Amphoe Khueang Nai,อำเภอเขื่องใน,77
+858,Amphoe Kut Khaopun,อำเภอกุดข้าวปุ้น,77
+859,Amphoe Muang Sam Sip,อำเภอม่วงสามสิบ,77
+860,Amphoe Na Chaluai,อำเภอนาจะหลวย,77
+861,Amphoe Nam Khun,อำเภอน้ำขุ่น,77
+862,Amphoe Nam Yuen,อำเภอน้ำยืน,77
+863,Amphoe Na Tan,อำเภอนาตาล,77
+864,Amphoe Na Yia,อำเภอนาเยีย,77
+865,Amphoe Phibun Mangsahan,อำเภอพิบูลมังสาหาร,77
+866,Amphoe Pho Sai,อำเภอโพธิ์ไทร,77
+867,Amphoe Samrong,อำเภอสำโรง,77
+868,Amphoe Sawang Wirawong,อำเภอสว่างวีระวงศ์,77
+869,Amphoe Si Mueang Mai,อำเภอศรีเมืองใหม่,77
+870,Amphoe Sirindhorn,อำเภอสิรินธร,77
+871,Amphoe Tan Sum,อำเภอตาลสุม,77
+872,Amphoe Thung Si Udom,อำเภอทุ่งศรีอุดม,77
+873,Amphoe Trakan Phuet Phon,อำเภอตระการพืชผล,77
+874,Amphoe Warin Chamrap,อำเภอวารินชำราบ,77
+875,Amphoe Mueang Udon Thani,อำเภอเมืองอุดรธานี,74
+876,Amphoe Ban Dung,อำเภอบ้านดุง,74
+877,Amphoe Ban Phue,อำเภอบ้านผือ,74
+878,Amphoe Chai Wan,อำเภอไชยวาน,74
+879,Amphoe Ku Kaeo,อำเภอกู่แก้ว,74
+880,Amphoe Kumphawapi,อำเภอกุมภวาปี,74
+881,Amphoe Kut Chap,อำเภอกุดจับ,74
+882,Amphoe Na Yung,อำเภอนายูง,74
+883,Amphoe Nam Som,อำเภอน้ำโสม,74
+884,Amphoe Non Sa-at,อำเภอโนนสะอาด,74
+885,Amphoe Nong Han,อำเภอหนองหาน,74
+886,Amphoe Nong Saeng,อำเภอหนองแสง,74
+887,Amphoe Nong Wua So,อำเภอหนองวัวซอ,74
+888,Amphoe Phen,อำเภอเพ็ญ,74
+889,Amphoe Phibun Rak,อำเภอพิบูลย์รักษ์,74
+890,Amphoe Prachaksinlapakhom,อำเภอประจักษ์ศิลปาคม,74
+891,Amphoe Sang Khom,อำเภอสร้างคอม,74
+892,Amphoe Si That,อำเภอศรีธาตุ,74
+893,Amphoe Thung Fon,อำเภอทุ่งฝน,74
+894,Amphoe Wang Sam Mo,อำเภอวังสามหมอ,74
+895,Amphoe Mueang Uthai Thani,อำเภอเมืองอุทัยธานี,76
+896,Amphoe Ban Rai,อำเภอบ้านไร่,76
+897,Amphoe Huai Khot,อำเภอห้วยคต,76
+898,Amphoe Lan Sak,อำเภอลานสัก,76
+899,Amphoe Nong Chang,อำเภอหนองฉาง,76
+900,Amphoe Nong Khayang,อำเภอหนองขาหย่าง,76
+901,Amphoe Sawang Arom,อำเภอสว่างอารมณ์,76
+902,Amphoe Thap Than,อำเภอทัพทัน,76
+903,Amphoe Mueang Uttaradit,อำเภอเมืองอุตรดิตถ์,75
+904,Amphoe Ban Khok,อำเภอบ้านโคก,75
+905,Amphoe Fak Tha,อำเภอฟากท่า,75
+906,Amphoe Laplae,อำเภอลับแล,75
+907,Amphoe Nam Pat,อำเภอน้ำปาด,75
+908,Amphoe Phichai,อำเภอพิชัย,75
+909,Amphoe Tha Pla,อำเภอท่าปลา,75
+910,Amphoe Thong Saen Khan,อำเภอทองแสนขัน,75
+911,Amphoe Tron,อำเภอตรอน,75
+912,Amphoe Mueang Yala,อำเภอเมืองยะลา,47
+913,Amphoe Bannang Sata,อำเภอบันนังสตา,47
+914,Amphoe Betong,อำเภอเบตง,47
+915,Amphoe Kabang,อำเภอกาบัง,47
+916,Amphoe Krong Pinang,อำเภอกรงปินัง,47
+917,Amphoe Raman,อำเภอรามัน,47
+918,Amphoe Than To,อำเภอธารโต,47
+919,Amphoe Yaha,อำเภอยะหา,47
+920,Amphoe Mueang Yasothon,อำเภอเมืองยโสธร,46
+921,Amphoe Kham Khuean Kaeo,อำเภอคำเขื่อนแก้ว,46
+922,Amphoe Kho Wang,อำเภอค้อวัง,46
+923,Amphoe Kut Chum,อำเภอกุดชุม,46
+924,Amphoe Loeng Nok Tha,อำเภอเลิงนกทา,46
+925,Amphoe Maha Chana Chai,อำเภอมหาชนะชัย,46
+926,Amphoe Pa Tio,อำเภอป่าติ้ว,46
+927,Amphoe Sai Mun,อำเภอทรายมูล,46
+928,Amphoe Thai Charoen,อำเภอไทยเจริญ,46
