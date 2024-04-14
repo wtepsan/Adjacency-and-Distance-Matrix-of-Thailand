@@ -1,6 +1,6 @@
 # Identifying Product Growth Poles through Analysis of Transportation and Production Data: A Case Study of Longan in the Upper Northern Region of Thailand
 
-![Case Study Area](images/transporationnetwork.png "Case Study Area")
+![Case Study Area](images/districtnetwork.png.png "Case Study Area")
 
 ## Abstract
 

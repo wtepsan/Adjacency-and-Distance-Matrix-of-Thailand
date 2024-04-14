@@ -5,8 +5,8 @@ authors:
     given-names: Worawit
     affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
     email: worawit.tepsan@cmu.ac.th
-title: "Comparative Analysis of Adaptive ROI Approaches in Human Action Recognition"
-url: "https://github.com/wtepsan/ROI-Approaches-in-HAR/"
+title: "Adjacency Matrices for Thailand Districts: A Comprehensive Dataset"
+url: "https://github.com/wtepsan/Adjacency-and-Distance-Matrix-of-Thailand"
 date-released: 2024-06-30
 preferred-citation:
   type: article
@@ -20,7 +20,7 @@ preferred-citation:
   month: 9
   start: 1 # First page number
   end: 6 # Last page number
-  title: "Comparative Analysis of Adaptive ROI Approaches in Human Action Recognition"
+  title: "Adjacency Matrices for Thailand Districts: A Comprehensive Dataset"
   issue: 1
   volume: 1
   year: 2024
