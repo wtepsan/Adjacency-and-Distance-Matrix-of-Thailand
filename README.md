@@ -9,7 +9,7 @@ This study presents a comprehensive dataset of adjacency and distance matrices f
 
 
 ```bibtex
-@article{GrowthPoleAnalysis,
+@article{AdjacencyDistrict,
   author = {Tepsan, Worawit},
   doi = {00.0000/00000},
   journal = {Journal Title},
