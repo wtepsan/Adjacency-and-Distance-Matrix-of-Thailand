@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tepsan
+    given-names: Worawit
+    affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+    email: worawit.tepsan@cmu.ac.th
+title: "Comparative Analysis of Adaptive ROI Approaches in Human Action Recognition"
+url: "https://github.com/wtepsan/ROI-Approaches-in-HAR/"
+date-released: 2024-06-30
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Tepsan
+    given-names: Worawit
+    affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+    email: worawit.tepsan@cmu.ac.th
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 6 # Last page number
+  title: "Comparative Analysis of Adaptive ROI Approaches in Human Action Recognition"
+  issue: 1
+  volume: 1
+  year: 2024
