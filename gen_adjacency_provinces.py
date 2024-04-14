@@ -58,12 +58,12 @@ def checktwoprovincenexttoeachother(province1, province2, distance_threshold=0.0
     
     return False
 
-with open('data/allprovinces.txt', 'r', encoding='utf-8') as file:
+with open('data_gen/allprovincesTH.txt', 'r', encoding='utf-8') as file:
     allprovinces = []
     for line in file:
         allprovinces.append(line.strip())
 
-provinces = gpd.read_file('./data/query.geojson') 
+provinces = gpd.read_file('data_base/query.geojson') 
 
 provinces_provinceboundaries = getboundaryofprovincefromregion(provinces) 
 all_provinceboundaries = {**provinces_provinceboundaries}
@@ -71,7 +71,7 @@ all_provinces = list(provinces_provinceboundaries.keys())
 
 if __name__ == "__main__":
 
-    savefolder = "gen_data_adjacency_provinces2/"
+    savefolder = "data_gen_adjacency_provinces/"
     if not os.path.exists(savefolder):
         os.makedirs(savefolder) 
 
