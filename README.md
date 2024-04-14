@@ -1,4 +1,4 @@
-# Adjacency Matrices for Thailand Districts: A Comprehensive Dataset
+# A Comprehensive Dataset for Thailand’s Districts: District Adjacency and Distance Matrices
 
 <p align="center">
   <img src="images/districtnetwork.png" alt="Adjacency District Network" title="Adjacency District Network">
@@ -16,7 +16,7 @@ This study presents a comprehensive dataset of adjacency and distance matrices f
   month = sep,
   number = {1},
   pages = {1--6},
-  title = {{{Adjacency Matrices for Thailand Districts: A Comprehensive Dataset}},
+  title = {{{A Comprehensive Dataset for Thailand’s Districts: District Adjacency and Distance Matrices}},
   volume = {1},
   year = {2024}
 }

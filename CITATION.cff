@@ -5,7 +5,7 @@ authors:
     given-names: Worawit
     affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
     email: worawit.tepsan@cmu.ac.th
-title: "Adjacency Matrices for Thailand Districts: A Comprehensive Dataset"
+title: "A Comprehensive Dataset for Thailand’s Districts: District Adjacency and Distance Matrices"
 url: "https://github.com/wtepsan/Adjacency-and-Distance-Matrix-of-Thailand"
 date-released: 2024-06-30
 preferred-citation:
@@ -20,7 +20,7 @@ preferred-citation:
   month: 9
   start: 1 # First page number
   end: 6 # Last page number
-  title: "Adjacency Matrices for Thailand Districts: A Comprehensive Dataset"
+  title: "A Comprehensive Dataset for Thailand’s Districts: District Adjacency and Distance Matrices"
   issue: 1
   volume: 1
   year: 2024
