@@ -1,0 +1,1075 @@
+,Origin,Destination,Distance
+0,Bangkok,Samut Prakan,25.4 km
+1,Bangkok,Nonthaburi,15.6 km
+2,Bangkok,Pathum Thani,37.5 km
+3,Bangkok,Chachoengsao,70.1 km
+4,Bangkok,Nakhon Nayok,107 km
+5,Bangkok,Nakhon Pathom,58.8 km
+6,Bangkok,Samut Sakhon,46.8 km
+7,Samut Prakan,Bangkok,24.4 km
+8,Samut Prakan,Chachoengsao,71.6 km
+9,Nonthaburi,Bangkok,15.4 km
+10,Nonthaburi,Pathum Thani,27.8 km
+11,Nonthaburi,Phra Nakhon Si Ayutthaya,68.3 km
+12,Nonthaburi,Nakhon Pathom,60.1 km
+13,Pathum Thani,Bangkok,38.1 km
+14,Pathum Thani,Nonthaburi,30.5 km
+15,Pathum Thani,Phra Nakhon Si Ayutthaya,51.3 km
+16,Pathum Thani,Saraburi,87.4 km
+17,Pathum Thani,Chachoengsao,87.8 km
+18,Pathum Thani,Nakhon Nayok,90.1 km
+19,Phra Nakhon Si Ayutthaya,Nonthaburi,71.0 km
+20,Phra Nakhon Si Ayutthaya,Pathum Thani,48.4 km
+21,Phra Nakhon Si Ayutthaya,Ang Thong,37.2 km
+22,Phra Nakhon Si Ayutthaya,Lopburi,76.4 km
+23,Phra Nakhon Si Ayutthaya,Saraburi,48.0 km
+24,Phra Nakhon Si Ayutthaya,Suphan Buri,62.8 km
+25,Bangkok,Samut Prakan,25.4 km
+26,Bangkok,Nonthaburi,15.6 km
+27,Bangkok,Pathum Thani,37.5 km
+28,Bangkok,Chachoengsao,70.1 km
+29,Bangkok,Nakhon Nayok,107 km
+30,Bangkok,Nakhon Pathom,58.8 km
+31,Bangkok,Samut Sakhon,46.8 km
+32,Samut Prakan,Bangkok,24.4 km
+33,Samut Prakan,Chachoengsao,71.6 km
+34,Nonthaburi,Bangkok,15.4 km
+35,Nonthaburi,Pathum Thani,27.8 km
+36,Nonthaburi,Phra Nakhon Si Ayutthaya,68.3 km
+37,Nonthaburi,Nakhon Pathom,60.1 km
+38,Pathum Thani,Bangkok,38.1 km
+39,Pathum Thani,Nonthaburi,30.5 km
+40,Pathum Thani,Phra Nakhon Si Ayutthaya,51.3 km
+41,Pathum Thani,Saraburi,87.4 km
+42,Pathum Thani,Chachoengsao,87.8 km
+43,Pathum Thani,Nakhon Nayok,90.1 km
+44,Phra Nakhon Si Ayutthaya,Nonthaburi,71.0 km
+45,Phra Nakhon Si Ayutthaya,Pathum Thani,48.4 km
+46,Phra Nakhon Si Ayutthaya,Ang Thong,37.2 km
+47,Phra Nakhon Si Ayutthaya,Lopburi,76.4 km
+48,Phra Nakhon Si Ayutthaya,Saraburi,48.0 km
+49,Phra Nakhon Si Ayutthaya,Suphan Buri,62.8 km
+50,Phra Nakhon Si Ayutthaya,Nakhon Pathom,119 km
+51,Ang Thong,Phra Nakhon Si Ayutthaya,35.1 km
+52,Ang Thong,Lopburi,44.5 km
+53,Ang Thong,Sing Buri,41.0 km
+54,Ang Thong,Suphan Buri,50.4 km
+55,Lopburi,Phra Nakhon Si Ayutthaya,73.2 km
+56,Lopburi,Ang Thong,43.4 km
+57,Lopburi,Sing Buri,34.1 km
+58,Lopburi,Saraburi,46.5 km
+59,Lopburi,Nakhon Ratchasima,194 km
+60,Lopburi,Chaiyaphum,229 km
+61,Lopburi,Nakhon Sawan,131 km
+62,Lopburi,Phetchabun,238 km
+63,Sing Buri,Ang Thong,41.3 km
+64,Sing Buri,Lopburi,33.2 km
+65,Sing Buri,Chai Nat,58.4 km
+66,Sing Buri,Nakhon Sawan,104 km
+67,Sing Buri,Suphan Buri,73.6 km
+68,Chai Nat,Sing Buri,59.5 km
+69,Chai Nat,Nakhon Sawan,63.1 km
+70,Chai Nat,Uthai Thani,28.9 km
+71,Chai Nat,Suphan Buri,96.2 km
+72,Saraburi,Pathum Thani,80.5 km
+73,Saraburi,Phra Nakhon Si Ayutthaya,48.7 km
+74,Saraburi,Lopburi,46.1 km
+75,Saraburi,Nakhon Nayok,58.7 km
+76,Saraburi,Nakhon Ratchasima,153 km
+77,Chonburi,Rayong,97.9 km
+78,Chonburi,Chanthaburi,165 km
+79,Chonburi,Chachoengsao,45.2 km
+80,Rayong,Chonburi,96.6 km
+81,Rayong,Chanthaburi,111 km
+82,Rayong,Chachoengsao,141 km
+83,Chanthaburi,Chonburi,165 km
+84,Chanthaburi,Rayong,111 km
+85,Chanthaburi,Trat,70.1 km
+86,Chanthaburi,Chachoengsao,190 km
+87,Chanthaburi,Sa Kaeo,157 km
+88,Trat,Chanthaburi,69.9 km
+89,Chachoengsao,Bangkok,68.8 km
+90,Chachoengsao,Samut Prakan,74.1 km
+91,Chachoengsao,Pathum Thani,88.0 km
+92,Chachoengsao,Chonburi,43.1 km
+93,Chachoengsao,Rayong,137 km
+94,Chachoengsao,Chanthaburi,190 km
+95,Chachoengsao,Prachin Buri,76.3 km
+96,Chachoengsao,Nakhon Nayok,74.1 km
+97,Chachoengsao,Sa Kaeo,124 km
+98,Prachin Buri,Chachoengsao,76.3 km
+99,Prachin Buri,Nakhon Nayok,25.4 km
+100,Prachin Buri,Sa Kaeo,89.6 km
+101,Prachin Buri,Nakhon Ratchasima,189 km
+102,Nakhon Nayok,Bangkok,107 km
+103,Nakhon Nayok,Pathum Thani,90.3 km
+104,Nakhon Nayok,Saraburi,59.3 km
+105,Nakhon Nayok,Chachoengsao,74.2 km
+106,Nakhon Nayok,Prachin Buri,26.1 km
+107,Nakhon Nayok,Nakhon Ratchasima,198 km
+108,Sa Kaeo,Chanthaburi,157 km
+109,Sa Kaeo,Chachoengsao,121 km
+110,Sa Kaeo,Prachin Buri,88.6 km
+111,Sa Kaeo,Nakhon Ratchasima,174 km
+112,Sa Kaeo,Buri Ram,222 km
+113,Nakhon Ratchasima,Lopburi,198 km
+114,Nakhon Ratchasima,Saraburi,155 km
+115,Nakhon Ratchasima,Prachin Buri,187 km
+116,Nakhon Ratchasima,Nakhon Nayok,200 km
+117,Nakhon Ratchasima,Sa Kaeo,169 km
+118,Nakhon Ratchasima,Buri Ram,125 km
+119,Nakhon Ratchasima,Chaiyaphum,124 km
+120,Nakhon Ratchasima,Khon Kaen,193 km
+121,Buri Ram,Sa Kaeo,222 km
+122,Buri Ram,Nakhon Ratchasima,127 km
+123,Buri Ram,Surin,52.4 km
+124,Buri Ram,Khon Kaen,195 km
+125,Buri Ram,Maha Sarakham,153 km
+126,Surin,Buri Ram,53.2 km
+127,Surin,Si Sa Ket,106 km
+128,Surin,Maha Sarakham,176 km
+129,Surin,Roi Et,146 km
+130,Si Sa Ket,Surin,105 km
+131,Si Sa Ket,Ubon Ratchathani,64.1 km
+132,Si Sa Ket,Yasothon,104 km
+133,Si Sa Ket,Roi Et,147 km
+134,Ubon Ratchathani,Si Sa Ket,65.8 km
+135,Ubon Ratchathani,Yasothon,104 km
+136,Ubon Ratchathani,Amnat Charoen,77.9 km
+137,Yasothon,Si Sa Ket,99.3 km
+138,Yasothon,Ubon Ratchathani,104 km
+139,Yasothon,Amnat Charoen,57.5 km
+140,Yasothon,Roi Et,67.3 km
+141,Yasothon,Mukdahan,114 km
+142,Chaiyaphum,Lopburi,229 km
+143,Chaiyaphum,Nakhon Ratchasima,110 km
+144,Chaiyaphum,Khon Kaen,126 km
+145,Chaiyaphum,Phetchabun,202 km
+146,Amnat Charoen,Ubon Ratchathani,76.4 km
+147,Amnat Charoen,Yasothon,62.0 km
+148,Amnat Charoen,Mukdahan,89.7 km
+149,Bueng Kan,Nong Khai,138 km
+150,Bueng Kan,Sakon Nakhon,179 km
+151,Bueng Kan,Nakhon Phanom,184 km
+152,Nong Bua Lamphu,Khon Kaen,113 km
+153,Nong Bua Lamphu,Udon Thani,47.6 km
+154,Nong Bua Lamphu,Loei,102 km
+155,Khon Kaen,Nakhon Ratchasima,194 km
+156,Khon Kaen,Buri Ram,196 km
+157,Khon Kaen,Chaiyaphum,126 km
+158,Khon Kaen,Nong Bua Lamphu,113 km
+159,Khon Kaen,Udon Thani,121 km
+160,Khon Kaen,Loei,208 km
+161,Khon Kaen,Maha Sarakham,77.7 km
+162,Khon Kaen,Kalasin,82.4 km
+163,Khon Kaen,Phetchabun,235 km
+164,Udon Thani,Nong Bua Lamphu,47.4 km
+165,Udon Thani,Khon Kaen,120 km
+166,Udon Thani,Loei,148 km
+167,Udon Thani,Nong Khai,53.5 km
+168,Udon Thani,Kalasin,165 km
+169,Udon Thani,Sakon Nakhon,163 km
+170,Loei,Nong Bua Lamphu,102 km
+171,Loei,Khon Kaen,207 km
+172,Loei,Udon Thani,149 km
+173,Loei,Nong Khai,182 km
+174,Loei,Phitsanulok,228 km
+175,Loei,Phetchabun,190 km
+176,Nong Khai,Bueng Kan,137 km
+177,Nong Khai,Udon Thani,54.0 km
+178,Nong Khai,Loei,181 km
+179,Nong Khai,Sakon Nakhon,216 km
+180,Maha Sarakham,Buri Ram,154 km
+181,Maha Sarakham,Surin,173 km
+182,Maha Sarakham,Khon Kaen,68.9 km
+183,Maha Sarakham,Roi Et,41.6 km
+184,Maha Sarakham,Kalasin,49.8 km
+185,Roi Et,Surin,145 km
+186,Roi Et,Si Sa Ket,146 km
+187,Roi Et,Yasothon,67.5 km
+188,Roi Et,Maha Sarakham,41.3 km
+189,Roi Et,Kalasin,50.9 km
+190,Roi Et,Mukdahan,153 km
+191,Kalasin,Khon Kaen,83.6 km
+192,Kalasin,Udon Thani,166 km
+193,Kalasin,Maha Sarakham,51.0 km
+194,Kalasin,Roi Et,52.0 km
+195,Kalasin,Sakon Nakhon,125 km
+196,Kalasin,Mukdahan,143 km
+197,Sakon Nakhon,Bueng Kan,184 km
+198,Sakon Nakhon,Udon Thani,164 km
+199,Sakon Nakhon,Nong Khai,216 km
+200,Sakon Nakhon,Kalasin,126 km
+201,Sakon Nakhon,Nakhon Phanom,91.8 km
+202,Sakon Nakhon,Mukdahan,117 km
+203,Nakhon Phanom,Bueng Kan,185 km
+204,Nakhon Phanom,Sakon Nakhon,91.4 km
+205,Nakhon Phanom,Mukdahan,107 km
+206,Mukdahan,Yasothon,115 km
+207,Mukdahan,Amnat Charoen,89.6 km
+208,Mukdahan,Roi Et,153 km
+209,Mukdahan,Kalasin,145 km
+210,Mukdahan,Sakon Nakhon,117 km
+211,Mukdahan,Nakhon Phanom,108 km
+212,Chiang Mai,Lamphun,36.4 km
+213,Chiang Mai,Lampang,107 km
+214,Chiang Mai,Chiang Rai,194 km
+215,Chiang Mai,Mae Hong Son,230 km
+216,Chiang Mai,Tak,281 km
+217,Lamphun,Chiang Mai,37.7 km
+218,Lamphun,Lampang,74.8 km
+219,Lamphun,Tak,248 km
+220,Lampang,Chiang Mai,107 km
+221,Lampang,Lamphun,75.3 km
+222,Lampang,Phrae,102 km
+223,Lampang,Phayao,137 km
+224,Lampang,Chiang Rai,231 km
+225,Lampang,Tak,183 km
+226,Lampang,Sukhothai,210 km
+227,Uttaradit,Phrae,75.3 km
+228,Uttaradit,Nan,195 km
+229,Uttaradit,Sukhothai,88.5 km
+230,Uttaradit,Phitsanulok,110 km
+231,Phrae,Lampang,103 km
+232,Phrae,Uttaradit,75.5 km
+233,Phrae,Nan,121 km
+234,Phrae,Phayao,149 km
+235,Phrae,Sukhothai,164 km
+236,Nan,Uttaradit,195 km
+237,Nan,Phrae,121 km
+238,Nan,Phayao,147 km
+239,Phayao,Lampang,137 km
+240,Phayao,Phrae,149 km
+241,Phayao,Nan,147 km
+242,Phayao,Chiang Rai,94.8 km
+243,Chiang Rai,Chiang Mai,194 km
+244,Chiang Rai,Lampang,231 km
+245,Chiang Rai,Phayao,94.4 km
+246,Mae Hong Son,Chiang Mai,231 km
+247,Mae Hong Son,Tak,476 km
+248,Nakhon Sawan,Lopburi,131 km
+249,Nakhon Sawan,Sing Buri,104 km
+250,Nakhon Sawan,Chai Nat,63.4 km
+251,Nakhon Sawan,Uthai Thani,44.4 km
+252,Nakhon Sawan,Kamphaeng Phet,122 km
+253,Nakhon Sawan,Tak,186 km
+254,Nakhon Sawan,Phichit,109 km
+255,Nakhon Sawan,Phetchabun,194 km
+256,Uthai Thani,Chai Nat,29.1 km
+257,Uthai Thani,Nakhon Sawan,44.5 km
+258,Uthai Thani,Tak,221 km
+259,Uthai Thani,Kanchanaburi,187 km
+260,Uthai Thani,Suphan Buri,123 km
+261,Kamphaeng Phet,Nakhon Sawan,123 km
+262,Kamphaeng Phet,Tak,71.5 km
+263,Kamphaeng Phet,Sukhothai,79.3 km
+264,Kamphaeng Phet,Phitsanulok,108 km
+265,Kamphaeng Phet,Phichit,94.1 km
+266,Tak,Chiang Mai,272 km
+267,Tak,Lamphun,240 km
+268,Tak,Lampang,183 km
+269,Tak,Mae Hong Son,459 km
+270,Tak,Nakhon Sawan,187 km
+271,Tak,Uthai Thani,221 km
+272,Tak,Kamphaeng Phet,71.4 km
+273,Tak,Sukhothai,84.7 km
+274,Tak,Kanchanaburi,411 km
+275,Sukhothai,Lampang,210 km
+276,Sukhothai,Uttaradit,89.4 km
+277,Sukhothai,Phrae,164 km
+278,Sukhothai,Kamphaeng Phet,79.1 km
+279,Sukhothai,Tak,84.5 km
+280,Sukhothai,Phitsanulok,58.1 km
+281,Phitsanulok,Loei,227 km
+282,Phitsanulok,Uttaradit,110 km
+283,Phitsanulok,Kamphaeng Phet,108 km
+284,Phitsanulok,Sukhothai,58.1 km
+285,Phitsanulok,Phichit,66.4 km
+286,Phitsanulok,Phetchabun,161 km
+287,Phichit,Nakhon Sawan,105 km
+288,Phichit,Kamphaeng Phet,94.4 km
+289,Phichit,Phitsanulok,66.5 km
+290,Phichit,Phetchabun,132 km
+291,Phetchabun,Lopburi,239 km
+292,Phetchabun,Chaiyaphum,202 km
+293,Phetchabun,Khon Kaen,234 km
+294,Phetchabun,Loei,186 km
+295,Phetchabun,Nakhon Sawan,195 km
+296,Phetchabun,Phitsanulok,160 km
+297,Phetchabun,Phichit,133 km
+298,Ratchaburi,Kanchanaburi,75.3 km
+299,Ratchaburi,Nakhon Pathom,49.6 km
+300,Ratchaburi,Samut Sakhon,81.9 km
+301,Ratchaburi,Samut Songkhram,46.3 km
+302,Ratchaburi,Phetchaburi,57.0 km
+303,Kanchanaburi,Uthai Thani,185 km
+304,Kanchanaburi,Tak,421 km
+305,Kanchanaburi,Ratchaburi,74.0 km
+306,Kanchanaburi,Suphan Buri,93.2 km
+307,Kanchanaburi,Nakhon Pathom,72.2 km
+308,Suphan Buri,Phra Nakhon Si Ayutthaya,62.4 km
+309,Suphan Buri,Ang Thong,44.8 km
+310,Suphan Buri,Sing Buri,71.2 km
+311,Suphan Buri,Chai Nat,96.8 km
+312,Suphan Buri,Uthai Thani,124 km
+313,Suphan Buri,Kanchanaburi,94.1 km
+314,Suphan Buri,Nakhon Pathom,92.2 km
+315,Nakhon Pathom,Bangkok,55.8 km
+316,Nakhon Pathom,Nonthaburi,64.8 km
+317,Nakhon Pathom,Phra Nakhon Si Ayutthaya,118 km
+318,Nakhon Pathom,Ratchaburi,49.4 km
+319,Nakhon Pathom,Kanchanaburi,70.3 km
+320,Nakhon Pathom,Suphan Buri,89.2 km
+321,Nakhon Pathom,Samut Sakhon,54.2 km
+322,Samut Sakhon,Bangkok,46.8 km
+323,Samut Sakhon,Ratchaburi,80.5 km
+324,Samut Sakhon,Nakhon Pathom,53.8 km
+325,Samut Sakhon,Samut Songkhram,37.8 km
+326,Samut Songkhram,Ratchaburi,48.2 km
+327,Samut Songkhram,Samut Sakhon,38.7 km
+328,Samut Songkhram,Phetchaburi,57.6 km
+329,Phetchaburi,Ratchaburi,57.2 km
+330,Phetchaburi,Samut Songkhram,56.9 km
+331,Phetchaburi,Prachuap Khiri Khan,158 km
+332,Prachuap Khiri Khan,Phetchaburi,159 km
+333,Prachuap Khiri Khan,Chumphon,180 km
+334,Nakhon Si Thammarat,Krabi,161 km
+335,Nakhon Si Thammarat,Surat Thani,138 km
+336,Nakhon Si Thammarat,Songkhla,176 km
+337,Nakhon Si Thammarat,Trang,138 km
+338,Nakhon Si Thammarat,Phatthalung,116 km
+339,Krabi,Nakhon Si Thammarat,163 km
+340,Krabi,Phang Nga,81.1 km
+341,Krabi,Surat Thani,160 km
+342,Krabi,Trang,129 km
+343,Phang Nga,Krabi,80.6 km
+344,Phang Nga,Phuket,84.7 km
+345,Phang Nga,Surat Thani,154 km
+346,Phang Nga,Ranong,229 km
+347,Phuket,Phang Nga,86.1 km
+348,Surat Thani,Nakhon Si Thammarat,135 km
+349,Surat Thani,Krabi,160 km
+350,Surat Thani,Phang Nga,159 km
+351,Surat Thani,Ranong,206 km
+352,Surat Thani,Chumphon,178 km
+353,Ranong,Phang Nga,229 km
+354,Ranong,Surat Thani,208 km
+355,Ranong,Chumphon,122 km
+356,Chumphon,Prachuap Khiri Khan,179 km
+357,Chumphon,Surat Thani,181 km
+358,Chumphon,Ranong,122 km
+359,Songkhla,Nakhon Si Thammarat,174 km
+360,Songkhla,Satun,124 km
+361,Songkhla,Phatthalung,103 km
+362,Songkhla,Pattani,106 km
+363,Songkhla,Yala,131 km
+364,Satun,Songkhla,125 km
+365,Satun,Trang,141 km
+366,Satun,Phatthalung,137 km
+367,Trang,Nakhon Si Thammarat,139 km
+368,Trang,Krabi,128 km
+369,Trang,Satun,136 km
+370,Trang,Phatthalung,58.8 km
+371,Phatthalung,Nakhon Si Thammarat,118 km
+372,Phatthalung,Songkhla,103 km
+373,Phatthalung,Satun,142 km
+374,Phatthalung,Trang,58.9 km
+375,Pattani,Songkhla,105 km
+376,Pattani,Yala,42.4 km
+377,Pattani,Narathiwat,94.5 km
+378,Yala,Songkhla,131 km
+379,Yala,Pattani,43.3 km
+380,Yala,Narathiwat,75.6 km
+381,Narathiwat,Pattani,95.9 km
+382,Narathiwat,Yala,76.1 km
+383,Bangkok,Samut Prakan,25.4 km
+384,Bangkok,Nonthaburi,15.6 km
+385,Bangkok,Pathum Thani,37.5 km
+386,Bangkok,Chachoengsao,70.1 km
+387,Bangkok,Nakhon Nayok,107 km
+388,Bangkok,Nakhon Pathom,58.8 km
+389,Bangkok,Samut Sakhon,46.8 km
+390,Samut Prakan,Bangkok,24.4 km
+391,Samut Prakan,Chachoengsao,71.6 km
+392,Nonthaburi,Bangkok,15.4 km
+393,Nonthaburi,Pathum Thani,27.8 km
+394,Nonthaburi,Phra Nakhon Si Ayutthaya,68.3 km
+395,Nonthaburi,Nakhon Pathom,60.1 km
+396,Pathum Thani,Bangkok,38.1 km
+397,Pathum Thani,Nonthaburi,30.5 km
+398,Pathum Thani,Phra Nakhon Si Ayutthaya,51.3 km
+399,Pathum Thani,Saraburi,87.4 km
+400,Pathum Thani,Chachoengsao,87.8 km
+401,Pathum Thani,Nakhon Nayok,90.1 km
+402,Phra Nakhon Si Ayutthaya,Nonthaburi,71.0 km
+403,Phra Nakhon Si Ayutthaya,Pathum Thani,48.4 km
+404,Phra Nakhon Si Ayutthaya,Ang Thong,37.2 km
+405,Phra Nakhon Si Ayutthaya,Lopburi,76.4 km
+406,Phra Nakhon Si Ayutthaya,Saraburi,48.0 km
+407,Phra Nakhon Si Ayutthaya,Suphan Buri,62.8 km
+408,Phra Nakhon Si Ayutthaya,Nakhon Pathom,119 km
+409,Ang Thong,Phra Nakhon Si Ayutthaya,35.1 km
+410,Ang Thong,Lopburi,44.5 km
+411,Ang Thong,Sing Buri,41.0 km
+412,Ang Thong,Suphan Buri,50.4 km
+413,Lopburi,Phra Nakhon Si Ayutthaya,73.2 km
+414,Lopburi,Ang Thong,43.4 km
+415,Lopburi,Sing Buri,34.1 km
+416,Lopburi,Saraburi,46.5 km
+417,Lopburi,Nakhon Ratchasima,194 km
+418,Lopburi,Chaiyaphum,229 km
+419,Lopburi,Nakhon Sawan,131 km
+420,Lopburi,Phetchabun,238 km
+421,Sing Buri,Ang Thong,41.3 km
+422,Sing Buri,Lopburi,33.2 km
+423,Sing Buri,Chai Nat,58.4 km
+424,Sing Buri,Nakhon Sawan,104 km
+425,Sing Buri,Suphan Buri,73.6 km
+426,Chai Nat,Sing Buri,59.5 km
+427,Chai Nat,Nakhon Sawan,63.1 km
+428,Chai Nat,Uthai Thani,28.9 km
+429,Chai Nat,Suphan Buri,96.2 km
+430,Saraburi,Pathum Thani,80.5 km
+431,Saraburi,Phra Nakhon Si Ayutthaya,48.7 km
+432,Saraburi,Lopburi,46.1 km
+433,Saraburi,Nakhon Nayok,58.7 km
+434,Saraburi,Nakhon Ratchasima,153 km
+435,Chonburi,Rayong,97.9 km
+436,Chonburi,Chanthaburi,165 km
+437,Chonburi,Chachoengsao,45.2 km
+438,Rayong,Chonburi,96.6 km
+439,Rayong,Chanthaburi,111 km
+440,Rayong,Chachoengsao,141 km
+441,Chanthaburi,Chonburi,165 km
+442,Chanthaburi,Rayong,111 km
+443,Chanthaburi,Trat,70.1 km
+444,Chanthaburi,Chachoengsao,190 km
+445,Chanthaburi,Sa Kaeo,157 km
+446,Trat,Chanthaburi,69.9 km
+447,Chachoengsao,Bangkok,68.8 km
+448,Chachoengsao,Samut Prakan,74.1 km
+449,Chachoengsao,Pathum Thani,88.0 km
+450,Chachoengsao,Chonburi,43.1 km
+451,Chachoengsao,Rayong,137 km
+452,Chachoengsao,Chanthaburi,190 km
+453,Chachoengsao,Prachin Buri,76.3 km
+454,Chachoengsao,Nakhon Nayok,74.1 km
+455,Chachoengsao,Sa Kaeo,124 km
+456,Prachin Buri,Chachoengsao,76.3 km
+457,Prachin Buri,Nakhon Nayok,25.4 km
+458,Prachin Buri,Sa Kaeo,89.6 km
+459,Prachin Buri,Nakhon Ratchasima,189 km
+460,Nakhon Nayok,Bangkok,107 km
+461,Nakhon Nayok,Pathum Thani,90.3 km
+462,Nakhon Nayok,Saraburi,59.3 km
+463,Nakhon Nayok,Chachoengsao,74.2 km
+464,Nakhon Nayok,Prachin Buri,26.1 km
+465,Nakhon Nayok,Nakhon Ratchasima,198 km
+466,Sa Kaeo,Chanthaburi,157 km
+467,Sa Kaeo,Chachoengsao,121 km
+468,Sa Kaeo,Prachin Buri,88.6 km
+469,Sa Kaeo,Nakhon Ratchasima,174 km
+470,Sa Kaeo,Buri Ram,222 km
+471,Nakhon Ratchasima,Lopburi,198 km
+472,Nakhon Ratchasima,Saraburi,155 km
+473,Nakhon Ratchasima,Prachin Buri,187 km
+474,Nakhon Ratchasima,Nakhon Nayok,200 km
+475,Nakhon Ratchasima,Sa Kaeo,169 km
+476,Nakhon Ratchasima,Buri Ram,125 km
+477,Nakhon Ratchasima,Chaiyaphum,124 km
+478,Nakhon Ratchasima,Khon Kaen,193 km
+479,Buri Ram,Sa Kaeo,222 km
+480,Buri Ram,Nakhon Ratchasima,127 km
+481,Buri Ram,Surin,52.4 km
+482,Buri Ram,Khon Kaen,195 km
+483,Buri Ram,Maha Sarakham,153 km
+484,Surin,Buri Ram,53.2 km
+485,Surin,Si Sa Ket,106 km
+486,Surin,Maha Sarakham,176 km
+487,Surin,Roi Et,146 km
+488,Si Sa Ket,Surin,105 km
+489,Si Sa Ket,Ubon Ratchathani,64.1 km
+490,Si Sa Ket,Yasothon,104 km
+491,Si Sa Ket,Roi Et,147 km
+492,Ubon Ratchathani,Si Sa Ket,65.8 km
+493,Ubon Ratchathani,Yasothon,104 km
+494,Ubon Ratchathani,Amnat Charoen,77.9 km
+495,Yasothon,Si Sa Ket,99.3 km
+496,Yasothon,Ubon Ratchathani,104 km
+497,Yasothon,Amnat Charoen,57.5 km
+498,Yasothon,Roi Et,67.3 km
+499,Yasothon,Mukdahan,114 km
+500,Chaiyaphum,Lopburi,229 km
+501,Chaiyaphum,Nakhon Ratchasima,110 km
+502,Chaiyaphum,Khon Kaen,126 km
+503,Chaiyaphum,Phetchabun,202 km
+504,Amnat Charoen,Ubon Ratchathani,76.4 km
+505,Amnat Charoen,Yasothon,62.0 km
+506,Amnat Charoen,Mukdahan,89.7 km
+507,Bueng Kan,Nong Khai,138 km
+508,Bueng Kan,Sakon Nakhon,179 km
+509,Bueng Kan,Nakhon Phanom,184 km
+510,Nong Bua Lamphu,Khon Kaen,113 km
+511,Nong Bua Lamphu,Udon Thani,47.6 km
+512,Nong Bua Lamphu,Loei,102 km
+513,Khon Kaen,Nakhon Ratchasima,194 km
+514,Khon Kaen,Buri Ram,196 km
+515,Khon Kaen,Chaiyaphum,126 km
+516,Khon Kaen,Nong Bua Lamphu,113 km
+517,Khon Kaen,Udon Thani,121 km
+518,Khon Kaen,Loei,208 km
+519,Khon Kaen,Maha Sarakham,77.7 km
+520,Khon Kaen,Kalasin,82.4 km
+521,Khon Kaen,Phetchabun,235 km
+522,Udon Thani,Nong Bua Lamphu,47.4 km
+523,Udon Thani,Khon Kaen,120 km
+524,Udon Thani,Loei,148 km
+525,Udon Thani,Nong Khai,53.5 km
+526,Udon Thani,Kalasin,165 km
+527,Udon Thani,Sakon Nakhon,163 km
+528,Loei,Nong Bua Lamphu,102 km
+529,Loei,Khon Kaen,207 km
+530,Loei,Udon Thani,149 km
+531,Loei,Nong Khai,182 km
+532,Loei,Phitsanulok,228 km
+533,Loei,Phetchabun,190 km
+534,Nong Khai,Bueng Kan,137 km
+535,Nong Khai,Udon Thani,54.0 km
+536,Nong Khai,Loei,181 km
+537,Nong Khai,Sakon Nakhon,216 km
+538,Maha Sarakham,Buri Ram,154 km
+539,Maha Sarakham,Surin,173 km
+540,Maha Sarakham,Khon Kaen,68.9 km
+541,Maha Sarakham,Roi Et,41.6 km
+542,Maha Sarakham,Kalasin,49.8 km
+543,Roi Et,Surin,145 km
+544,Roi Et,Si Sa Ket,146 km
+545,Roi Et,Yasothon,67.5 km
+546,Roi Et,Maha Sarakham,41.3 km
+547,Roi Et,Kalasin,50.9 km
+548,Roi Et,Mukdahan,153 km
+549,Kalasin,Khon Kaen,83.6 km
+550,Kalasin,Udon Thani,166 km
+551,Kalasin,Maha Sarakham,51.0 km
+552,Kalasin,Roi Et,52.0 km
+553,Kalasin,Sakon Nakhon,125 km
+554,Kalasin,Mukdahan,143 km
+555,Sakon Nakhon,Bueng Kan,184 km
+556,Sakon Nakhon,Udon Thani,164 km
+557,Sakon Nakhon,Nong Khai,216 km
+558,Sakon Nakhon,Kalasin,126 km
+559,Sakon Nakhon,Nakhon Phanom,91.8 km
+560,Sakon Nakhon,Mukdahan,117 km
+561,Nakhon Phanom,Bueng Kan,185 km
+562,Nakhon Phanom,Sakon Nakhon,91.4 km
+563,Nakhon Phanom,Mukdahan,107 km
+564,Mukdahan,Yasothon,115 km
+565,Mukdahan,Amnat Charoen,89.6 km
+566,Mukdahan,Roi Et,153 km
+567,Mukdahan,Kalasin,145 km
+568,Mukdahan,Sakon Nakhon,117 km
+569,Mukdahan,Nakhon Phanom,108 km
+570,Chiang Mai,Lamphun,36.4 km
+571,Chiang Mai,Lampang,107 km
+572,Chiang Mai,Chiang Rai,194 km
+573,Chiang Mai,Mae Hong Son,230 km
+574,Chiang Mai,Tak,281 km
+575,Lamphun,Chiang Mai,37.7 km
+576,Lamphun,Lampang,74.8 km
+577,Lamphun,Tak,248 km
+578,Lampang,Chiang Mai,107 km
+579,Lampang,Lamphun,75.3 km
+580,Lampang,Phrae,102 km
+581,Lampang,Phayao,137 km
+582,Lampang,Chiang Rai,231 km
+583,Lampang,Tak,183 km
+584,Lampang,Sukhothai,210 km
+585,Uttaradit,Phrae,75.3 km
+586,Uttaradit,Nan,195 km
+587,Uttaradit,Sukhothai,88.5 km
+588,Uttaradit,Phitsanulok,110 km
+589,Phrae,Lampang,103 km
+590,Phrae,Uttaradit,75.5 km
+591,Phrae,Nan,121 km
+592,Phrae,Phayao,149 km
+593,Phrae,Sukhothai,164 km
+594,Nan,Uttaradit,195 km
+595,Nan,Phrae,121 km
+596,Nan,Phayao,147 km
+597,Phayao,Lampang,137 km
+598,Phayao,Phrae,149 km
+599,Phayao,Nan,147 km
+600,Phayao,Chiang Rai,94.8 km
+601,Chiang Rai,Chiang Mai,194 km
+602,Chiang Rai,Lampang,231 km
+603,Chiang Rai,Phayao,94.4 km
+604,Mae Hong Son,Chiang Mai,231 km
+605,Mae Hong Son,Tak,476 km
+606,Nakhon Sawan,Lopburi,131 km
+607,Nakhon Sawan,Sing Buri,104 km
+608,Nakhon Sawan,Chai Nat,63.4 km
+609,Nakhon Sawan,Uthai Thani,44.4 km
+610,Nakhon Sawan,Kamphaeng Phet,122 km
+611,Nakhon Sawan,Tak,186 km
+612,Nakhon Sawan,Phichit,109 km
+613,Nakhon Sawan,Phetchabun,194 km
+614,Uthai Thani,Chai Nat,29.1 km
+615,Uthai Thani,Nakhon Sawan,44.5 km
+616,Uthai Thani,Tak,221 km
+617,Uthai Thani,Kanchanaburi,187 km
+618,Uthai Thani,Suphan Buri,123 km
+619,Kamphaeng Phet,Nakhon Sawan,123 km
+620,Kamphaeng Phet,Tak,71.5 km
+621,Kamphaeng Phet,Sukhothai,79.3 km
+622,Kamphaeng Phet,Phitsanulok,108 km
+623,Kamphaeng Phet,Phichit,94.1 km
+624,Tak,Chiang Mai,272 km
+625,Tak,Lamphun,240 km
+626,Tak,Lampang,183 km
+627,Tak,Mae Hong Son,459 km
+628,Tak,Nakhon Sawan,187 km
+629,Tak,Uthai Thani,221 km
+630,Tak,Kamphaeng Phet,71.4 km
+631,Tak,Sukhothai,84.7 km
+632,Tak,Kanchanaburi,411 km
+633,Sukhothai,Lampang,210 km
+634,Sukhothai,Uttaradit,89.4 km
+635,Sukhothai,Phrae,164 km
+636,Sukhothai,Kamphaeng Phet,79.1 km
+637,Sukhothai,Tak,84.5 km
+638,Sukhothai,Phitsanulok,58.1 km
+639,Phitsanulok,Loei,227 km
+640,Phitsanulok,Uttaradit,110 km
+641,Phitsanulok,Kamphaeng Phet,108 km
+642,Phitsanulok,Sukhothai,58.1 km
+643,Phitsanulok,Phichit,66.4 km
+644,Phitsanulok,Phetchabun,161 km
+645,Phichit,Nakhon Sawan,105 km
+646,Phichit,Kamphaeng Phet,94.4 km
+647,Phichit,Phitsanulok,66.5 km
+648,Phichit,Phetchabun,132 km
+649,Phetchabun,Lopburi,239 km
+650,Phetchabun,Chaiyaphum,202 km
+651,Phetchabun,Khon Kaen,234 km
+652,Phetchabun,Loei,186 km
+653,Phetchabun,Nakhon Sawan,195 km
+654,Phetchabun,Phitsanulok,160 km
+655,Phetchabun,Phichit,133 km
+656,Ratchaburi,Kanchanaburi,75.3 km
+657,Ratchaburi,Nakhon Pathom,49.6 km
+658,Ratchaburi,Samut Sakhon,81.9 km
+659,Ratchaburi,Samut Songkhram,46.3 km
+660,Ratchaburi,Phetchaburi,57.0 km
+661,Kanchanaburi,Uthai Thani,185 km
+662,Kanchanaburi,Tak,421 km
+663,Kanchanaburi,Ratchaburi,74.0 km
+664,Kanchanaburi,Suphan Buri,93.2 km
+665,Kanchanaburi,Nakhon Pathom,72.2 km
+666,Suphan Buri,Phra Nakhon Si Ayutthaya,62.4 km
+667,Suphan Buri,Ang Thong,44.8 km
+668,Suphan Buri,Sing Buri,71.2 km
+669,Suphan Buri,Chai Nat,96.8 km
+670,Suphan Buri,Uthai Thani,124 km
+671,Suphan Buri,Kanchanaburi,94.1 km
+672,Suphan Buri,Nakhon Pathom,92.2 km
+673,Nakhon Pathom,Bangkok,55.8 km
+674,Nakhon Pathom,Nonthaburi,64.8 km
+675,Nakhon Pathom,Phra Nakhon Si Ayutthaya,118 km
+676,Nakhon Pathom,Ratchaburi,49.4 km
+677,Nakhon Pathom,Kanchanaburi,70.3 km
+678,Nakhon Pathom,Suphan Buri,89.2 km
+679,Nakhon Pathom,Samut Sakhon,54.2 km
+680,Samut Sakhon,Bangkok,46.8 km
+681,Samut Sakhon,Ratchaburi,80.5 km
+682,Samut Sakhon,Nakhon Pathom,53.8 km
+683,Samut Sakhon,Samut Songkhram,37.8 km
+684,Samut Songkhram,Ratchaburi,48.2 km
+685,Samut Songkhram,Samut Sakhon,38.7 km
+686,Samut Songkhram,Phetchaburi,57.6 km
+687,Phetchaburi,Ratchaburi,57.2 km
+688,Phetchaburi,Samut Songkhram,56.9 km
+689,Phetchaburi,Prachuap Khiri Khan,158 km
+690,Prachuap Khiri Khan,Phetchaburi,159 km
+691,Prachuap Khiri Khan,Chumphon,180 km
+692,Nakhon Si Thammarat,Krabi,161 km
+693,Nakhon Si Thammarat,Surat Thani,138 km
+694,Nakhon Si Thammarat,Songkhla,176 km
+695,Nakhon Si Thammarat,Trang,138 km
+696,Nakhon Si Thammarat,Phatthalung,116 km
+697,Krabi,Nakhon Si Thammarat,163 km
+698,Krabi,Phang Nga,81.1 km
+699,Krabi,Surat Thani,160 km
+700,Krabi,Trang,129 km
+701,Phang Nga,Krabi,80.6 km
+702,Phang Nga,Phuket,84.7 km
+703,Phang Nga,Surat Thani,154 km
+704,Phang Nga,Ranong,229 km
+705,Phuket,Phang Nga,86.1 km
+706,Surat Thani,Nakhon Si Thammarat,135 km
+707,Surat Thani,Krabi,160 km
+708,Surat Thani,Phang Nga,159 km
+709,Surat Thani,Ranong,206 km
+710,Surat Thani,Chumphon,178 km
+711,Ranong,Phang Nga,229 km
+712,Ranong,Surat Thani,208 km
+713,Ranong,Chumphon,122 km
+714,Chumphon,Prachuap Khiri Khan,179 km
+715,Chumphon,Surat Thani,181 km
+716,Chumphon,Ranong,122 km
+717,Songkhla,Nakhon Si Thammarat,174 km
+718,Songkhla,Satun,124 km
+719,Songkhla,Phatthalung,103 km
+720,Songkhla,Pattani,106 km
+721,Songkhla,Yala,131 km
+722,Satun,Songkhla,125 km
+723,Satun,Trang,141 km
+724,Satun,Phatthalung,137 km
+725,Trang,Nakhon Si Thammarat,139 km
+726,Trang,Krabi,128 km
+727,Trang,Satun,136 km
+728,Trang,Phatthalung,58.8 km
+729,Phatthalung,Nakhon Si Thammarat,118 km
+730,Phatthalung,Songkhla,103 km
+731,Phatthalung,Satun,142 km
+732,Phatthalung,Trang,58.9 km
+733,Pattani,Songkhla,105 km
+734,Pattani,Yala,42.4 km
+735,Pattani,Narathiwat,94.5 km
+736,Yala,Songkhla,131 km
+737,Yala,Pattani,43.3 km
+738,Yala,Narathiwat,75.6 km
+739,Narathiwat,Pattani,95.9 km
+740,Narathiwat,Yala,76.1 km
+741,Phra Nakhon Si Ayutthaya,Nakhon Pathom,119 km
+742,Ang Thong,Phra Nakhon Si Ayutthaya,35.1 km
+743,Ang Thong,Lopburi,44.5 km
+744,Ang Thong,Sing Buri,41.0 km
+745,Ang Thong,Suphan Buri,50.4 km
+746,Lopburi,Phra Nakhon Si Ayutthaya,73.2 km
+747,Lopburi,Ang Thong,43.4 km
+748,Lopburi,Sing Buri,34.1 km
+749,Lopburi,Saraburi,46.5 km
+750,Lopburi,Nakhon Ratchasima,194 km
+751,Lopburi,Chaiyaphum,229 km
+752,Lopburi,Nakhon Sawan,131 km
+753,Lopburi,Phetchabun,238 km
+754,Sing Buri,Ang Thong,41.3 km
+755,Sing Buri,Lopburi,33.2 km
+756,Sing Buri,Chai Nat,58.4 km
+757,Sing Buri,Nakhon Sawan,104 km
+758,Sing Buri,Suphan Buri,73.6 km
+759,Chai Nat,Sing Buri,59.5 km
+760,Chai Nat,Nakhon Sawan,63.1 km
+761,Chai Nat,Uthai Thani,28.9 km
+762,Chai Nat,Suphan Buri,96.2 km
+763,Saraburi,Pathum Thani,80.5 km
+764,Saraburi,Phra Nakhon Si Ayutthaya,48.7 km
+765,Saraburi,Lopburi,46.1 km
+766,Buri Ram,Maha Sarakham,153 km
+767,Surin,Buri Ram,53.2 km
+768,Surin,Si Sa Ket,106 km
+769,Surin,Maha Sarakham,176 km
+770,Surin,Roi Et,146 km
+771,Si Sa Ket,Surin,105 km
+772,Si Sa Ket,Ubon Ratchathani,64.1 km
+773,Si Sa Ket,Yasothon,104 km
+774,Si Sa Ket,Roi Et,147 km
+775,Ubon Ratchathani,Si Sa Ket,65.8 km
+776,Ubon Ratchathani,Yasothon,104 km
+777,Ubon Ratchathani,Amnat Charoen,77.9 km
+778,Yasothon,Si Sa Ket,99.3 km
+779,Yasothon,Ubon Ratchathani,104 km
+780,Yasothon,Amnat Charoen,57.5 km
+781,Yasothon,Roi Et,67.3 km
+782,Yasothon,Mukdahan,114 km
+783,Chaiyaphum,Lopburi,229 km
+784,Chaiyaphum,Nakhon Ratchasima,110 km
+785,Chaiyaphum,Khon Kaen,126 km
+786,Chaiyaphum,Phetchabun,202 km
+787,Amnat Charoen,Ubon Ratchathani,76.4 km
+788,Amnat Charoen,Yasothon,62.0 km
+789,Amnat Charoen,Mukdahan,89.7 km
+790,Bueng Kan,Nong Khai,138 km
+791,Bueng Kan,Sakon Nakhon,179 km
+792,Bueng Kan,Nakhon Phanom,184 km
+793,Nong Bua Lamphu,Khon Kaen,113 km
+794,Nong Bua Lamphu,Udon Thani,47.6 km
+795,Nong Bua Lamphu,Loei,102 km
+796,Khon Kaen,Nakhon Ratchasima,194 km
+797,Khon Kaen,Buri Ram,196 km
+798,Khon Kaen,Chaiyaphum,126 km
+799,Khon Kaen,Nong Bua Lamphu,113 km
+800,Khon Kaen,Udon Thani,121 km
+801,Khon Kaen,Loei,208 km
+802,Khon Kaen,Maha Sarakham,77.7 km
+803,Khon Kaen,Kalasin,82.4 km
+804,Khon Kaen,Phetchabun,235 km
+805,Udon Thani,Nong Bua Lamphu,47.4 km
+806,Udon Thani,Khon Kaen,120 km
+807,Udon Thani,Loei,148 km
+808,Udon Thani,Nong Khai,53.5 km
+809,Udon Thani,Kalasin,165 km
+810,Udon Thani,Sakon Nakhon,163 km
+811,Loei,Nong Bua Lamphu,102 km
+812,Loei,Khon Kaen,207 km
+813,Loei,Udon Thani,149 km
+814,Loei,Nong Khai,182 km
+815,Loei,Phitsanulok,228 km
+816,Loei,Phetchabun,190 km
+817,Nong Khai,Bueng Kan,137 km
+818,Nong Khai,Udon Thani,54.0 km
+819,Nong Khai,Loei,181 km
+820,Nong Khai,Sakon Nakhon,216 km
+821,Maha Sarakham,Buri Ram,154 km
+822,Maha Sarakham,Surin,173 km
+823,Maha Sarakham,Khon Kaen,68.9 km
+824,Maha Sarakham,Roi Et,41.6 km
+825,Maha Sarakham,Kalasin,49.8 km
+826,Roi Et,Surin,145 km
+827,Roi Et,Si Sa Ket,146 km
+828,Roi Et,Yasothon,67.5 km
+829,Roi Et,Maha Sarakham,41.3 km
+830,Roi Et,Kalasin,50.9 km
+831,Roi Et,Mukdahan,153 km
+832,Kalasin,Khon Kaen,83.6 km
+833,Kalasin,Udon Thani,166 km
+834,Kalasin,Maha Sarakham,51.0 km
+835,Kalasin,Roi Et,52.0 km
+836,Kalasin,Sakon Nakhon,125 km
+837,Kalasin,Mukdahan,143 km
+838,Sakon Nakhon,Bueng Kan,184 km
+839,Sakon Nakhon,Udon Thani,164 km
+840,Sakon Nakhon,Nong Khai,216 km
+841,Sakon Nakhon,Kalasin,126 km
+842,Sakon Nakhon,Nakhon Phanom,91.8 km
+843,Sakon Nakhon,Mukdahan,117 km
+844,Nakhon Phanom,Bueng Kan,185 km
+845,Nakhon Phanom,Sakon Nakhon,91.4 km
+846,Nakhon Phanom,Mukdahan,107 km
+847,Mukdahan,Yasothon,115 km
+848,Mukdahan,Amnat Charoen,89.6 km
+849,Mukdahan,Roi Et,153 km
+850,Mukdahan,Kalasin,145 km
+851,Mukdahan,Sakon Nakhon,117 km
+852,Mukdahan,Nakhon Phanom,108 km
+853,Chiang Mai,Lamphun,36.4 km
+854,Chiang Mai,Lampang,107 km
+855,Chiang Mai,Chiang Rai,194 km
+856,Chiang Mai,Mae Hong Son,230 km
+857,Chiang Mai,Tak,281 km
+858,Lamphun,Chiang Mai,37.7 km
+859,Lamphun,Lampang,74.8 km
+860,Lamphun,Tak,248 km
+861,Lampang,Chiang Mai,107 km
+862,Lampang,Lamphun,75.3 km
+863,Lampang,Phrae,102 km
+864,Lampang,Phayao,137 km
+865,Lampang,Chiang Rai,231 km
+866,Lampang,Tak,183 km
+867,Lampang,Sukhothai,210 km
+868,Uttaradit,Phrae,75.3 km
+869,Uttaradit,Nan,195 km
+870,Uttaradit,Sukhothai,88.5 km
+871,Uttaradit,Phitsanulok,110 km
+872,Phrae,Lampang,103 km
+873,Phrae,Uttaradit,75.5 km
+874,Phrae,Nan,121 km
+875,Phrae,Phayao,149 km
+876,Phrae,Sukhothai,164 km
+877,Nan,Uttaradit,195 km
+878,Nan,Phrae,121 km
+879,Nan,Phayao,147 km
+880,Phayao,Lampang,137 km
+881,Phayao,Phrae,149 km
+882,Phayao,Nan,147 km
+883,Phayao,Chiang Rai,94.8 km
+884,Chiang Rai,Chiang Mai,194 km
+885,Chiang Rai,Lampang,231 km
+886,Chiang Rai,Phayao,94.4 km
+887,Mae Hong Son,Chiang Mai,231 km
+888,Mae Hong Son,Tak,476 km
+889,Nakhon Sawan,Lopburi,131 km
+890,Nakhon Sawan,Sing Buri,104 km
+891,Nakhon Sawan,Chai Nat,63.4 km
+892,Nakhon Sawan,Uthai Thani,44.4 km
+893,Nakhon Sawan,Kamphaeng Phet,122 km
+894,Nakhon Sawan,Tak,186 km
+895,Nakhon Sawan,Phichit,109 km
+896,Nakhon Sawan,Phetchabun,194 km
+897,Uthai Thani,Chai Nat,29.1 km
+898,Uthai Thani,Nakhon Sawan,44.5 km
+899,Uthai Thani,Tak,221 km
+900,Uthai Thani,Kanchanaburi,187 km
+901,Uthai Thani,Suphan Buri,123 km
+902,Kamphaeng Phet,Nakhon Sawan,123 km
+903,Kamphaeng Phet,Tak,71.5 km
+904,Kamphaeng Phet,Sukhothai,79.3 km
+905,Kamphaeng Phet,Phitsanulok,108 km
+906,Kamphaeng Phet,Phichit,94.1 km
+907,Tak,Chiang Mai,272 km
+908,Tak,Lamphun,240 km
+909,Tak,Lampang,183 km
+910,Tak,Mae Hong Son,459 km
+911,Tak,Nakhon Sawan,187 km
+912,Tak,Uthai Thani,221 km
+913,Tak,Kamphaeng Phet,71.4 km
+914,Tak,Sukhothai,84.7 km
+915,Tak,Kanchanaburi,411 km
+916,Sukhothai,Lampang,210 km
+917,Sukhothai,Uttaradit,89.4 km
+918,Sukhothai,Phrae,164 km
+919,Sukhothai,Kamphaeng Phet,79.1 km
+920,Sukhothai,Tak,84.5 km
+921,Sukhothai,Phitsanulok,58.1 km
+922,Phitsanulok,Loei,227 km
+923,Phitsanulok,Uttaradit,110 km
+924,Phitsanulok,Kamphaeng Phet,108 km
+925,Phitsanulok,Sukhothai,58.1 km
+926,Phitsanulok,Phichit,66.4 km
+927,Phitsanulok,Phetchabun,161 km
+928,Phichit,Nakhon Sawan,105 km
+929,Phichit,Kamphaeng Phet,94.4 km
+930,Phichit,Phitsanulok,66.5 km
+931,Phichit,Phetchabun,132 km
+932,Phetchabun,Lopburi,239 km
+933,Phetchabun,Chaiyaphum,202 km
+934,Phetchabun,Khon Kaen,234 km
+935,Phetchabun,Loei,186 km
+936,Phetchabun,Nakhon Sawan,195 km
+937,Phetchabun,Phitsanulok,160 km
+938,Phetchabun,Phichit,133 km
+939,Ratchaburi,Kanchanaburi,75.3 km
+940,Ratchaburi,Nakhon Pathom,49.6 km
+941,Ratchaburi,Samut Sakhon,81.9 km
+942,Ratchaburi,Samut Songkhram,46.3 km
+943,Ratchaburi,Phetchaburi,57.0 km
+944,Kanchanaburi,Uthai Thani,185 km
+945,Kanchanaburi,Tak,421 km
+946,Kanchanaburi,Ratchaburi,74.0 km
+947,Kanchanaburi,Suphan Buri,93.2 km
+948,Kanchanaburi,Nakhon Pathom,72.2 km
+949,Suphan Buri,Phra Nakhon Si Ayutthaya,62.4 km
+950,Suphan Buri,Ang Thong,44.8 km
+951,Suphan Buri,Sing Buri,71.2 km
+952,Suphan Buri,Chai Nat,96.8 km
+953,Suphan Buri,Uthai Thani,124 km
+954,Suphan Buri,Kanchanaburi,94.1 km
+955,Suphan Buri,Nakhon Pathom,92.2 km
+956,Nakhon Pathom,Bangkok,55.8 km
+957,Nakhon Pathom,Nonthaburi,64.8 km
+958,Nakhon Pathom,Phra Nakhon Si Ayutthaya,118 km
+959,Nakhon Pathom,Ratchaburi,49.4 km
+960,Nakhon Pathom,Kanchanaburi,70.3 km
+961,Nakhon Pathom,Suphan Buri,89.2 km
+962,Nakhon Pathom,Samut Sakhon,54.2 km
+963,Samut Sakhon,Bangkok,46.8 km
+964,Samut Sakhon,Ratchaburi,80.5 km
+965,Samut Sakhon,Nakhon Pathom,53.8 km
+966,Samut Sakhon,Samut Songkhram,37.8 km
+967,Samut Songkhram,Ratchaburi,48.2 km
+968,Samut Songkhram,Samut Sakhon,38.7 km
+969,Samut Songkhram,Phetchaburi,57.6 km
+970,Phetchaburi,Ratchaburi,57.2 km
+971,Phetchaburi,Samut Songkhram,56.9 km
+972,Phetchaburi,Prachuap Khiri Khan,158 km
+973,Prachuap Khiri Khan,Phetchaburi,159 km
+974,Prachuap Khiri Khan,Chumphon,180 km
+975,Nakhon Si Thammarat,Krabi,161 km
+976,Nakhon Si Thammarat,Surat Thani,138 km
+977,Nakhon Si Thammarat,Songkhla,176 km
+978,Nakhon Si Thammarat,Trang,138 km
+979,Nakhon Si Thammarat,Phatthalung,116 km
+980,Krabi,Nakhon Si Thammarat,163 km
+981,Krabi,Phang Nga,81.1 km
+982,Krabi,Surat Thani,160 km
+983,Krabi,Trang,129 km
+984,Phang Nga,Krabi,80.6 km
+985,Phang Nga,Phuket,84.7 km
+986,Phang Nga,Surat Thani,154 km
+987,Phang Nga,Ranong,229 km
+988,Phuket,Phang Nga,86.1 km
+989,Surat Thani,Nakhon Si Thammarat,135 km
+990,Surat Thani,Krabi,160 km
+991,Surat Thani,Phang Nga,159 km
+992,Surat Thani,Ranong,206 km
+993,Surat Thani,Chumphon,178 km
+994,Ranong,Phang Nga,229 km
+995,Ranong,Surat Thani,208 km
+996,Ranong,Chumphon,122 km
+997,Chumphon,Prachuap Khiri Khan,179 km
+998,Chumphon,Surat Thani,181 km
+999,Chumphon,Ranong,122 km
+1000,Songkhla,Nakhon Si Thammarat,174 km
+1001,Songkhla,Satun,124 km
+1002,Songkhla,Phatthalung,103 km
+1003,Songkhla,Pattani,106 km
+1004,Songkhla,Yala,131 km
+1005,Satun,Songkhla,125 km
+1006,Satun,Trang,141 km
+1007,Satun,Phatthalung,137 km
+1008,Trang,Nakhon Si Thammarat,139 km
+1009,Trang,Krabi,128 km
+1010,Trang,Satun,136 km
+1011,Trang,Phatthalung,58.8 km
+1012,Phatthalung,Nakhon Si Thammarat,118 km
+1013,Phatthalung,Songkhla,103 km
+1014,Phatthalung,Satun,142 km
+1015,Phatthalung,Trang,58.9 km
+1016,Pattani,Songkhla,105 km
+1017,Pattani,Yala,42.4 km
+1018,Pattani,Narathiwat,94.5 km
+1019,Yala,Songkhla,131 km
+1020,Yala,Pattani,43.3 km
+1021,Yala,Narathiwat,75.6 km
+1022,Narathiwat,Pattani,95.9 km
+1023,Narathiwat,Yala,76.1 km
+1024,Saraburi,Nakhon Nayok,58.7 km
+1025,Saraburi,Nakhon Ratchasima,153 km
+1026,Chonburi,Rayong,97.9 km
+1027,Chonburi,Chanthaburi,165 km
+1028,Chonburi,Chachoengsao,45.2 km
+1029,Rayong,Chonburi,96.6 km
+1030,Rayong,Chanthaburi,111 km
+1031,Rayong,Chachoengsao,141 km
+1032,Chanthaburi,Chonburi,165 km
+1033,Chanthaburi,Rayong,111 km
+1034,Chanthaburi,Trat,70.1 km
+1035,Chanthaburi,Chachoengsao,190 km
+1036,Chanthaburi,Sa Kaeo,157 km
+1037,Trat,Chanthaburi,69.9 km
+1038,Chachoengsao,Bangkok,68.8 km
+1039,Chachoengsao,Samut Prakan,74.1 km
+1040,Chachoengsao,Pathum Thani,88.0 km
+1041,Chachoengsao,Chonburi,43.1 km
+1042,Chachoengsao,Rayong,137 km
+1043,Chachoengsao,Chanthaburi,190 km
+1044,Chachoengsao,Prachin Buri,76.3 km
+1045,Chachoengsao,Nakhon Nayok,74.1 km
+1046,Chachoengsao,Sa Kaeo,124 km
+1047,Prachin Buri,Chachoengsao,76.3 km
+1048,Prachin Buri,Nakhon Nayok,25.4 km
+1049,Prachin Buri,Sa Kaeo,89.6 km
+1050,Prachin Buri,Nakhon Ratchasima,189 km
+1051,Nakhon Nayok,Bangkok,107 km
+1052,Nakhon Nayok,Pathum Thani,90.3 km
+1053,Nakhon Nayok,Saraburi,59.3 km
+1054,Nakhon Nayok,Chachoengsao,74.2 km
+1055,Nakhon Nayok,Prachin Buri,26.1 km
+1056,Nakhon Nayok,Nakhon Ratchasima,198 km
+1057,Sa Kaeo,Chanthaburi,157 km
+1058,Sa Kaeo,Chachoengsao,121 km
+1059,Sa Kaeo,Prachin Buri,88.6 km
+1060,Sa Kaeo,Nakhon Ratchasima,174 km
+1061,Sa Kaeo,Buri Ram,222 km
+1062,Nakhon Ratchasima,Lopburi,198 km
+1063,Nakhon Ratchasima,Saraburi,155 km
+1064,Nakhon Ratchasima,Prachin Buri,187 km
+1065,Nakhon Ratchasima,Nakhon Nayok,200 km
+1066,Nakhon Ratchasima,Sa Kaeo,169 km
+1067,Nakhon Ratchasima,Buri Ram,125 km
+1068,Nakhon Ratchasima,Chaiyaphum,124 km
+1069,Nakhon Ratchasima,Khon Kaen,193 km
+1070,Buri Ram,Sa Kaeo,222 km
+1071,Buri Ram,Nakhon Ratchasima,127 km
+1072,Buri Ram,Surin,52.4 km
+1073,Buri Ram,Khon Kaen,195 km
