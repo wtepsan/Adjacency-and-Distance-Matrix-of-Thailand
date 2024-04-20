@@ -58,32 +58,66 @@ def checktwoprovincenexttoeachother(province1, province2, distance_threshold=0.0
     
     return False
 
-with open('data_gen/allprovincesTH.txt', 'r', encoding='utf-8') as file:
+with open('data/allprovinces.txt', 'r', encoding='utf-8') as file:
     allprovinces = []
     for line in file:
         allprovinces.append(line.strip())
 
-provinces = gpd.read_file('data_base/query.geojson') 
+provinces = gpd.read_file('./data/query.geojson') 
 
 provinces_provinceboundaries = getboundaryofprovincefromregion(provinces) 
 all_provinceboundaries = {**provinces_provinceboundaries}
 all_provinces = list(provinces_provinceboundaries.keys())
 
+
 if __name__ == "__main__":
 
-    savefolder = "data_gen_adjacency_provinces/"
+    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser.add_argument('begin', type=int, help='The beginning index for slicing provinces.')
+    parser.add_argument('end', type=int, help='The ending index for slicing provinces.')
+    args = parser.parse_args()
+
+    begin = int(args.begin)
+    end = int(args.end)
+    
+    province1lists = all_provinces[begin:end]
+    
+    savefolder = "gen_data_adjacency_provinces_update/"
     if not os.path.exists(savefolder):
         os.makedirs(savefolder) 
 
-    save_file_path = savefolder+"adjacency_provinces.csv"
-
-    with open(save_file_path, 'w', newline='', encoding='utf-8-sig') as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(['province1', 'province2', 'Adjacent'])
-
-        for province1 in tqdm(all_provinces):
+    province_index_now = begin 
+    for province1 in tqdm(province1lists):
+        print(f"NOW GEN {province1}")
+        file_name = str(province_index_now)+"_adjacency_province_" + province1 + ".csv"
+        save_file_path = savefolder + file_name
+        with open(save_file_path, 'w', newline='', encoding='utf-8-sig') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow(['province1', 'province2', 'Adjacent'])
+        
             for province2 in tqdm(all_provinces): 
                 if province1 != province2:
                     checkvalue = checktwoprovincenexttoeachother(province1, province2)
                     if checkvalue:
                         csvwriter.writerow([province1, province2, 1])
+
+
+# python3 gen_adjacency_provinces2.py 0 5
+# python3 gen_adjacency_provinces2.py 5 10
+# python3 gen_adjacency_provinces2.py 10 15
+# python3 gen_adjacency_provinces2.py 15 20
+# python3 gen_adjacency_provinces2.py 20 25
+# python3 gen_adjacency_provinces2.py 25 30
+# python3 gen_adjacency_provinces2.py 30 35
+# python3 gen_adjacency_provinces2.py 35 40
+# python3 gen_adjacency_provinces2.py 40 45
+# python3 gen_adjacency_provinces2.py 45 50
+# python3 gen_adjacency_provinces2.py 50 55
+# python3 gen_adjacency_provinces2.py 55 60
+# python3 gen_adjacency_provinces2.py 60 65
+# python3 gen_adjacency_provinces2.py 65 70
+# python3 gen_adjacency_provinces2.py 70 75
+# python3 gen_adjacency_provinces2.py 75 80
+
+
+

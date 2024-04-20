@@ -1,0 +1,1075 @@
+Order,Origin,Destination
+0,Bangkok,Samut Prakan
+1,Bangkok,Nonthaburi
+2,Bangkok,Pathum Thani
+3,Bangkok,Chachoengsao
+4,Bangkok,Nakhon Nayok
+5,Bangkok,Nakhon Pathom
+6,Bangkok,Samut Sakhon
+7,Samut Prakan,Bangkok
+8,Samut Prakan,Chachoengsao
+9,Nonthaburi,Bangkok
+10,Nonthaburi,Pathum Thani
+11,Nonthaburi,Phra Nakhon Si Ayutthaya
+12,Nonthaburi,Nakhon Pathom
+13,Pathum Thani,Bangkok
+14,Pathum Thani,Nonthaburi
+15,Pathum Thani,Phra Nakhon Si Ayutthaya
+16,Pathum Thani,Saraburi
+17,Pathum Thani,Chachoengsao
+18,Pathum Thani,Nakhon Nayok
+19,Phra Nakhon Si Ayutthaya,Nonthaburi
+20,Phra Nakhon Si Ayutthaya,Pathum Thani
+21,Phra Nakhon Si Ayutthaya,Ang Thong
+22,Phra Nakhon Si Ayutthaya,Lopburi
+23,Phra Nakhon Si Ayutthaya,Saraburi
+24,Phra Nakhon Si Ayutthaya,Suphan Buri
+25,Bangkok,Samut Prakan
+26,Bangkok,Nonthaburi
+27,Bangkok,Pathum Thani
+28,Bangkok,Chachoengsao
+29,Bangkok,Nakhon Nayok
+30,Bangkok,Nakhon Pathom
+31,Bangkok,Samut Sakhon
+32,Samut Prakan,Bangkok
+33,Samut Prakan,Chachoengsao
+34,Nonthaburi,Bangkok
+35,Nonthaburi,Pathum Thani
+36,Nonthaburi,Phra Nakhon Si Ayutthaya
+37,Nonthaburi,Nakhon Pathom
+38,Pathum Thani,Bangkok
+39,Pathum Thani,Nonthaburi
+40,Pathum Thani,Phra Nakhon Si Ayutthaya
+41,Pathum Thani,Saraburi
+42,Pathum Thani,Chachoengsao
+43,Pathum Thani,Nakhon Nayok
+44,Phra Nakhon Si Ayutthaya,Nonthaburi
+45,Phra Nakhon Si Ayutthaya,Pathum Thani
+46,Phra Nakhon Si Ayutthaya,Ang Thong
+47,Phra Nakhon Si Ayutthaya,Lopburi
+48,Phra Nakhon Si Ayutthaya,Saraburi
+49,Phra Nakhon Si Ayutthaya,Suphan Buri
+50,Phra Nakhon Si Ayutthaya,Nakhon Pathom
+51,Ang Thong,Phra Nakhon Si Ayutthaya
+52,Ang Thong,Lopburi
+53,Ang Thong,Sing Buri
+54,Ang Thong,Suphan Buri
+55,Lopburi,Phra Nakhon Si Ayutthaya
+56,Lopburi,Ang Thong
+57,Lopburi,Sing Buri
+58,Lopburi,Saraburi
+59,Lopburi,Nakhon Ratchasima
+60,Lopburi,Chaiyaphum
+61,Lopburi,Nakhon Sawan
+62,Lopburi,Phetchabun
+63,Sing Buri,Ang Thong
+64,Sing Buri,Lopburi
+65,Sing Buri,Chai Nat
+66,Sing Buri,Nakhon Sawan
+67,Sing Buri,Suphan Buri
+68,Chai Nat,Sing Buri
+69,Chai Nat,Nakhon Sawan
+70,Chai Nat,Uthai Thani
+71,Chai Nat,Suphan Buri
+72,Saraburi,Pathum Thani
+73,Saraburi,Phra Nakhon Si Ayutthaya
+74,Saraburi,Lopburi
+75,Saraburi,Nakhon Nayok
+76,Saraburi,Nakhon Ratchasima
+77,Chonburi,Rayong
+78,Chonburi,Chanthaburi
+79,Chonburi,Chachoengsao
+80,Rayong,Chonburi
+81,Rayong,Chanthaburi
+82,Rayong,Chachoengsao
+83,Chanthaburi,Chonburi
+84,Chanthaburi,Rayong
+85,Chanthaburi,Trat
+86,Chanthaburi,Chachoengsao
+87,Chanthaburi,Sa Kaeo
+88,Trat,Chanthaburi
+89,Chachoengsao,Bangkok
+90,Chachoengsao,Samut Prakan
+91,Chachoengsao,Pathum Thani
+92,Chachoengsao,Chonburi
+93,Chachoengsao,Rayong
+94,Chachoengsao,Chanthaburi
+95,Chachoengsao,Prachin Buri
+96,Chachoengsao,Nakhon Nayok
+97,Chachoengsao,Sa Kaeo
+98,Prachin Buri,Chachoengsao
+99,Prachin Buri,Nakhon Nayok
+100,Prachin Buri,Sa Kaeo
+101,Prachin Buri,Nakhon Ratchasima
+102,Nakhon Nayok,Bangkok
+103,Nakhon Nayok,Pathum Thani
+104,Nakhon Nayok,Saraburi
+105,Nakhon Nayok,Chachoengsao
+106,Nakhon Nayok,Prachin Buri
+107,Nakhon Nayok,Nakhon Ratchasima
+108,Sa Kaeo,Chanthaburi
+109,Sa Kaeo,Chachoengsao
+110,Sa Kaeo,Prachin Buri
+111,Sa Kaeo,Nakhon Ratchasima
+112,Sa Kaeo,Buri Ram
+113,Nakhon Ratchasima,Lopburi
+114,Nakhon Ratchasima,Saraburi
+115,Nakhon Ratchasima,Prachin Buri
+116,Nakhon Ratchasima,Nakhon Nayok
+117,Nakhon Ratchasima,Sa Kaeo
+118,Nakhon Ratchasima,Buri Ram
+119,Nakhon Ratchasima,Chaiyaphum
+120,Nakhon Ratchasima,Khon Kaen
+121,Buri Ram,Sa Kaeo
+122,Buri Ram,Nakhon Ratchasima
+123,Buri Ram,Surin
+124,Buri Ram,Khon Kaen
+125,Buri Ram,Maha Sarakham
+126,Surin,Buri Ram
+127,Surin,Si Sa Ket
+128,Surin,Maha Sarakham
+129,Surin,Roi Et
+130,Si Sa Ket,Surin
+131,Si Sa Ket,Ubon Ratchathani
+132,Si Sa Ket,Yasothon
+133,Si Sa Ket,Roi Et
+134,Ubon Ratchathani,Si Sa Ket
+135,Ubon Ratchathani,Yasothon
+136,Ubon Ratchathani,Amnat Charoen
+137,Yasothon,Si Sa Ket
+138,Yasothon,Ubon Ratchathani
+139,Yasothon,Amnat Charoen
+140,Yasothon,Roi Et
+141,Yasothon,Mukdahan
+142,Chaiyaphum,Lopburi
+143,Chaiyaphum,Nakhon Ratchasima
+144,Chaiyaphum,Khon Kaen
+145,Chaiyaphum,Phetchabun
+146,Amnat Charoen,Ubon Ratchathani
+147,Amnat Charoen,Yasothon
+148,Amnat Charoen,Mukdahan
+149,Bueng Kan,Nong Khai
+150,Bueng Kan,Sakon Nakhon
+151,Bueng Kan,Nakhon Phanom
+152,Nong Bua Lamphu,Khon Kaen
+153,Nong Bua Lamphu,Udon Thani
+154,Nong Bua Lamphu,Loei
+155,Khon Kaen,Nakhon Ratchasima
+156,Khon Kaen,Buri Ram
+157,Khon Kaen,Chaiyaphum
+158,Khon Kaen,Nong Bua Lamphu
+159,Khon Kaen,Udon Thani
+160,Khon Kaen,Loei
+161,Khon Kaen,Maha Sarakham
+162,Khon Kaen,Kalasin
+163,Khon Kaen,Phetchabun
+164,Udon Thani,Nong Bua Lamphu
+165,Udon Thani,Khon Kaen
+166,Udon Thani,Loei
+167,Udon Thani,Nong Khai
+168,Udon Thani,Kalasin
+169,Udon Thani,Sakon Nakhon
+170,Loei,Nong Bua Lamphu
+171,Loei,Khon Kaen
+172,Loei,Udon Thani
+173,Loei,Nong Khai
+174,Loei,Phitsanulok
+175,Loei,Phetchabun
+176,Nong Khai,Bueng Kan
+177,Nong Khai,Udon Thani
+178,Nong Khai,Loei
+179,Nong Khai,Sakon Nakhon
+180,Maha Sarakham,Buri Ram
+181,Maha Sarakham,Surin
+182,Maha Sarakham,Khon Kaen
+183,Maha Sarakham,Roi Et
+184,Maha Sarakham,Kalasin
+185,Roi Et,Surin
+186,Roi Et,Si Sa Ket
+187,Roi Et,Yasothon
+188,Roi Et,Maha Sarakham
+189,Roi Et,Kalasin
+190,Roi Et,Mukdahan
+191,Kalasin,Khon Kaen
+192,Kalasin,Udon Thani
+193,Kalasin,Maha Sarakham
+194,Kalasin,Roi Et
+195,Kalasin,Sakon Nakhon
+196,Kalasin,Mukdahan
+197,Sakon Nakhon,Bueng Kan
+198,Sakon Nakhon,Udon Thani
+199,Sakon Nakhon,Nong Khai
+200,Sakon Nakhon,Kalasin
+201,Sakon Nakhon,Nakhon Phanom
+202,Sakon Nakhon,Mukdahan
+203,Nakhon Phanom,Bueng Kan
+204,Nakhon Phanom,Sakon Nakhon
+205,Nakhon Phanom,Mukdahan
+206,Mukdahan,Yasothon
+207,Mukdahan,Amnat Charoen
+208,Mukdahan,Roi Et
+209,Mukdahan,Kalasin
+210,Mukdahan,Sakon Nakhon
+211,Mukdahan,Nakhon Phanom
+212,Chiang Mai,Lamphun
+213,Chiang Mai,Lampang
+214,Chiang Mai,Chiang Rai
+215,Chiang Mai,Mae Hong Son
+216,Chiang Mai,Tak
+217,Lamphun,Chiang Mai
+218,Lamphun,Lampang
+219,Lamphun,Tak
+220,Lampang,Chiang Mai
+221,Lampang,Lamphun
+222,Lampang,Phrae
+223,Lampang,Phayao
+224,Lampang,Chiang Rai
+225,Lampang,Tak
+226,Lampang,Sukhothai
+227,Uttaradit,Phrae
+228,Uttaradit,Nan
+229,Uttaradit,Sukhothai
+230,Uttaradit,Phitsanulok
+231,Phrae,Lampang
+232,Phrae,Uttaradit
+233,Phrae,Nan
+234,Phrae,Phayao
+235,Phrae,Sukhothai
+236,Nan,Uttaradit
+237,Nan,Phrae
+238,Nan,Phayao
+239,Phayao,Lampang
+240,Phayao,Phrae
+241,Phayao,Nan
+242,Phayao,Chiang Rai
+243,Chiang Rai,Chiang Mai
+244,Chiang Rai,Lampang
+245,Chiang Rai,Phayao
+246,Mae Hong Son,Chiang Mai
+247,Mae Hong Son,Tak
+248,Nakhon Sawan,Lopburi
+249,Nakhon Sawan,Sing Buri
+250,Nakhon Sawan,Chai Nat
+251,Nakhon Sawan,Uthai Thani
+252,Nakhon Sawan,Kamphaeng Phet
+253,Nakhon Sawan,Tak
+254,Nakhon Sawan,Phichit
+255,Nakhon Sawan,Phetchabun
+256,Uthai Thani,Chai Nat
+257,Uthai Thani,Nakhon Sawan
+258,Uthai Thani,Tak
+259,Uthai Thani,Kanchanaburi
+260,Uthai Thani,Suphan Buri
+261,Kamphaeng Phet,Nakhon Sawan
+262,Kamphaeng Phet,Tak
+263,Kamphaeng Phet,Sukhothai
+264,Kamphaeng Phet,Phitsanulok
+265,Kamphaeng Phet,Phichit
+266,Tak,Chiang Mai
+267,Tak,Lamphun
+268,Tak,Lampang
+269,Tak,Mae Hong Son
+270,Tak,Nakhon Sawan
+271,Tak,Uthai Thani
+272,Tak,Kamphaeng Phet
+273,Tak,Sukhothai
+274,Tak,Kanchanaburi
+275,Sukhothai,Lampang
+276,Sukhothai,Uttaradit
+277,Sukhothai,Phrae
+278,Sukhothai,Kamphaeng Phet
+279,Sukhothai,Tak
+280,Sukhothai,Phitsanulok
+281,Phitsanulok,Loei
+282,Phitsanulok,Uttaradit
+283,Phitsanulok,Kamphaeng Phet
+284,Phitsanulok,Sukhothai
+285,Phitsanulok,Phichit
+286,Phitsanulok,Phetchabun
+287,Phichit,Nakhon Sawan
+288,Phichit,Kamphaeng Phet
+289,Phichit,Phitsanulok
+290,Phichit,Phetchabun
+291,Phetchabun,Lopburi
+292,Phetchabun,Chaiyaphum
+293,Phetchabun,Khon Kaen
+294,Phetchabun,Loei
+295,Phetchabun,Nakhon Sawan
+296,Phetchabun,Phitsanulok
+297,Phetchabun,Phichit
+298,Ratchaburi,Kanchanaburi
+299,Ratchaburi,Nakhon Pathom
+300,Ratchaburi,Samut Sakhon
+301,Ratchaburi,Samut Songkhram
+302,Ratchaburi,Phetchaburi
+303,Kanchanaburi,Uthai Thani
+304,Kanchanaburi,Tak
+305,Kanchanaburi,Ratchaburi
+306,Kanchanaburi,Suphan Buri
+307,Kanchanaburi,Nakhon Pathom
+308,Suphan Buri,Phra Nakhon Si Ayutthaya
+309,Suphan Buri,Ang Thong
+310,Suphan Buri,Sing Buri
+311,Suphan Buri,Chai Nat
+312,Suphan Buri,Uthai Thani
+313,Suphan Buri,Kanchanaburi
+314,Suphan Buri,Nakhon Pathom
+315,Nakhon Pathom,Bangkok
+316,Nakhon Pathom,Nonthaburi
+317,Nakhon Pathom,Phra Nakhon Si Ayutthaya
+318,Nakhon Pathom,Ratchaburi
+319,Nakhon Pathom,Kanchanaburi
+320,Nakhon Pathom,Suphan Buri
+321,Nakhon Pathom,Samut Sakhon
+322,Samut Sakhon,Bangkok
+323,Samut Sakhon,Ratchaburi
+324,Samut Sakhon,Nakhon Pathom
+325,Samut Sakhon,Samut Songkhram
+326,Samut Songkhram,Ratchaburi
+327,Samut Songkhram,Samut Sakhon
+328,Samut Songkhram,Phetchaburi
+329,Phetchaburi,Ratchaburi
+330,Phetchaburi,Samut Songkhram
+331,Phetchaburi,Prachuap Khiri Khan
+332,Prachuap Khiri Khan,Phetchaburi
+333,Prachuap Khiri Khan,Chumphon
+334,Nakhon Si Thammarat,Krabi
+335,Nakhon Si Thammarat,Surat Thani
+336,Nakhon Si Thammarat,Songkhla
+337,Nakhon Si Thammarat,Trang
+338,Nakhon Si Thammarat,Phatthalung
+339,Krabi,Nakhon Si Thammarat
+340,Krabi,Phang Nga
+341,Krabi,Surat Thani
+342,Krabi,Trang
+343,Phang Nga,Krabi
+344,Phang Nga,Phuket
+345,Phang Nga,Surat Thani
+346,Phang Nga,Ranong
+347,Phuket,Phang Nga
+348,Surat Thani,Nakhon Si Thammarat
+349,Surat Thani,Krabi
+350,Surat Thani,Phang Nga
+351,Surat Thani,Ranong
+352,Surat Thani,Chumphon
+353,Ranong,Phang Nga
+354,Ranong,Surat Thani
+355,Ranong,Chumphon
+356,Chumphon,Prachuap Khiri Khan
+357,Chumphon,Surat Thani
+358,Chumphon,Ranong
+359,Songkhla,Nakhon Si Thammarat
+360,Songkhla,Satun
+361,Songkhla,Phatthalung
+362,Songkhla,Pattani
+363,Songkhla,Yala
+364,Satun,Songkhla
+365,Satun,Trang
+366,Satun,Phatthalung
+367,Trang,Nakhon Si Thammarat
+368,Trang,Krabi
+369,Trang,Satun
+370,Trang,Phatthalung
+371,Phatthalung,Nakhon Si Thammarat
+372,Phatthalung,Songkhla
+373,Phatthalung,Satun
+374,Phatthalung,Trang
+375,Pattani,Songkhla
+376,Pattani,Yala
+377,Pattani,Narathiwat
+378,Yala,Songkhla
+379,Yala,Pattani
+380,Yala,Narathiwat
+381,Narathiwat,Pattani
+382,Narathiwat,Yala
+383,Bangkok,Samut Prakan
+384,Bangkok,Nonthaburi
+385,Bangkok,Pathum Thani
+386,Bangkok,Chachoengsao
+387,Bangkok,Nakhon Nayok
+388,Bangkok,Nakhon Pathom
+389,Bangkok,Samut Sakhon
+390,Samut Prakan,Bangkok
+391,Samut Prakan,Chachoengsao
+392,Nonthaburi,Bangkok
+393,Nonthaburi,Pathum Thani
+394,Nonthaburi,Phra Nakhon Si Ayutthaya
+395,Nonthaburi,Nakhon Pathom
+396,Pathum Thani,Bangkok
+397,Pathum Thani,Nonthaburi
+398,Pathum Thani,Phra Nakhon Si Ayutthaya
+399,Pathum Thani,Saraburi
+400,Pathum Thani,Chachoengsao
+401,Pathum Thani,Nakhon Nayok
+402,Phra Nakhon Si Ayutthaya,Nonthaburi
+403,Phra Nakhon Si Ayutthaya,Pathum Thani
+404,Phra Nakhon Si Ayutthaya,Ang Thong
+405,Phra Nakhon Si Ayutthaya,Lopburi
+406,Phra Nakhon Si Ayutthaya,Saraburi
+407,Phra Nakhon Si Ayutthaya,Suphan Buri
+408,Phra Nakhon Si Ayutthaya,Nakhon Pathom
+409,Ang Thong,Phra Nakhon Si Ayutthaya
+410,Ang Thong,Lopburi
+411,Ang Thong,Sing Buri
+412,Ang Thong,Suphan Buri
+413,Lopburi,Phra Nakhon Si Ayutthaya
+414,Lopburi,Ang Thong
+415,Lopburi,Sing Buri
+416,Lopburi,Saraburi
+417,Lopburi,Nakhon Ratchasima
+418,Lopburi,Chaiyaphum
+419,Lopburi,Nakhon Sawan
+420,Lopburi,Phetchabun
+421,Sing Buri,Ang Thong
+422,Sing Buri,Lopburi
+423,Sing Buri,Chai Nat
+424,Sing Buri,Nakhon Sawan
+425,Sing Buri,Suphan Buri
+426,Chai Nat,Sing Buri
+427,Chai Nat,Nakhon Sawan
+428,Chai Nat,Uthai Thani
+429,Chai Nat,Suphan Buri
+430,Saraburi,Pathum Thani
+431,Saraburi,Phra Nakhon Si Ayutthaya
+432,Saraburi,Lopburi
+433,Saraburi,Nakhon Nayok
+434,Saraburi,Nakhon Ratchasima
+435,Chonburi,Rayong
+436,Chonburi,Chanthaburi
+437,Chonburi,Chachoengsao
+438,Rayong,Chonburi
+439,Rayong,Chanthaburi
+440,Rayong,Chachoengsao
+441,Chanthaburi,Chonburi
+442,Chanthaburi,Rayong
+443,Chanthaburi,Trat
+444,Chanthaburi,Chachoengsao
+445,Chanthaburi,Sa Kaeo
+446,Trat,Chanthaburi
+447,Chachoengsao,Bangkok
+448,Chachoengsao,Samut Prakan
+449,Chachoengsao,Pathum Thani
+450,Chachoengsao,Chonburi
+451,Chachoengsao,Rayong
+452,Chachoengsao,Chanthaburi
+453,Chachoengsao,Prachin Buri
+454,Chachoengsao,Nakhon Nayok
+455,Chachoengsao,Sa Kaeo
+456,Prachin Buri,Chachoengsao
+457,Prachin Buri,Nakhon Nayok
+458,Prachin Buri,Sa Kaeo
+459,Prachin Buri,Nakhon Ratchasima
+460,Nakhon Nayok,Bangkok
+461,Nakhon Nayok,Pathum Thani
+462,Nakhon Nayok,Saraburi
+463,Nakhon Nayok,Chachoengsao
+464,Nakhon Nayok,Prachin Buri
+465,Nakhon Nayok,Nakhon Ratchasima
+466,Sa Kaeo,Chanthaburi
+467,Sa Kaeo,Chachoengsao
+468,Sa Kaeo,Prachin Buri
+469,Sa Kaeo,Nakhon Ratchasima
+470,Sa Kaeo,Buri Ram
+471,Nakhon Ratchasima,Lopburi
+472,Nakhon Ratchasima,Saraburi
+473,Nakhon Ratchasima,Prachin Buri
+474,Nakhon Ratchasima,Nakhon Nayok
+475,Nakhon Ratchasima,Sa Kaeo
+476,Nakhon Ratchasima,Buri Ram
+477,Nakhon Ratchasima,Chaiyaphum
+478,Nakhon Ratchasima,Khon Kaen
+479,Buri Ram,Sa Kaeo
+480,Buri Ram,Nakhon Ratchasima
+481,Buri Ram,Surin
+482,Buri Ram,Khon Kaen
+483,Buri Ram,Maha Sarakham
+484,Surin,Buri Ram
+485,Surin,Si Sa Ket
+486,Surin,Maha Sarakham
+487,Surin,Roi Et
+488,Si Sa Ket,Surin
+489,Si Sa Ket,Ubon Ratchathani
+490,Si Sa Ket,Yasothon
+491,Si Sa Ket,Roi Et
+492,Ubon Ratchathani,Si Sa Ket
+493,Ubon Ratchathani,Yasothon
+494,Ubon Ratchathani,Amnat Charoen
+495,Yasothon,Si Sa Ket
+496,Yasothon,Ubon Ratchathani
+497,Yasothon,Amnat Charoen
+498,Yasothon,Roi Et
+499,Yasothon,Mukdahan
+500,Chaiyaphum,Lopburi
+501,Chaiyaphum,Nakhon Ratchasima
+502,Chaiyaphum,Khon Kaen
+503,Chaiyaphum,Phetchabun
+504,Amnat Charoen,Ubon Ratchathani
+505,Amnat Charoen,Yasothon
+506,Amnat Charoen,Mukdahan
+507,Bueng Kan,Nong Khai
+508,Bueng Kan,Sakon Nakhon
+509,Bueng Kan,Nakhon Phanom
+510,Nong Bua Lamphu,Khon Kaen
+511,Nong Bua Lamphu,Udon Thani
+512,Nong Bua Lamphu,Loei
+513,Khon Kaen,Nakhon Ratchasima
+514,Khon Kaen,Buri Ram
+515,Khon Kaen,Chaiyaphum
+516,Khon Kaen,Nong Bua Lamphu
+517,Khon Kaen,Udon Thani
+518,Khon Kaen,Loei
+519,Khon Kaen,Maha Sarakham
+520,Khon Kaen,Kalasin
+521,Khon Kaen,Phetchabun
+522,Udon Thani,Nong Bua Lamphu
+523,Udon Thani,Khon Kaen
+524,Udon Thani,Loei
+525,Udon Thani,Nong Khai
+526,Udon Thani,Kalasin
+527,Udon Thani,Sakon Nakhon
+528,Loei,Nong Bua Lamphu
+529,Loei,Khon Kaen
+530,Loei,Udon Thani
+531,Loei,Nong Khai
+532,Loei,Phitsanulok
+533,Loei,Phetchabun
+534,Nong Khai,Bueng Kan
+535,Nong Khai,Udon Thani
+536,Nong Khai,Loei
+537,Nong Khai,Sakon Nakhon
+538,Maha Sarakham,Buri Ram
+539,Maha Sarakham,Surin
+540,Maha Sarakham,Khon Kaen
+541,Maha Sarakham,Roi Et
+542,Maha Sarakham,Kalasin
+543,Roi Et,Surin
+544,Roi Et,Si Sa Ket
+545,Roi Et,Yasothon
+546,Roi Et,Maha Sarakham
+547,Roi Et,Kalasin
+548,Roi Et,Mukdahan
+549,Kalasin,Khon Kaen
+550,Kalasin,Udon Thani
+551,Kalasin,Maha Sarakham
+552,Kalasin,Roi Et
+553,Kalasin,Sakon Nakhon
+554,Kalasin,Mukdahan
+555,Sakon Nakhon,Bueng Kan
+556,Sakon Nakhon,Udon Thani
+557,Sakon Nakhon,Nong Khai
+558,Sakon Nakhon,Kalasin
+559,Sakon Nakhon,Nakhon Phanom
+560,Sakon Nakhon,Mukdahan
+561,Nakhon Phanom,Bueng Kan
+562,Nakhon Phanom,Sakon Nakhon
+563,Nakhon Phanom,Mukdahan
+564,Mukdahan,Yasothon
+565,Mukdahan,Amnat Charoen
+566,Mukdahan,Roi Et
+567,Mukdahan,Kalasin
+568,Mukdahan,Sakon Nakhon
+569,Mukdahan,Nakhon Phanom
+570,Chiang Mai,Lamphun
+571,Chiang Mai,Lampang
+572,Chiang Mai,Chiang Rai
+573,Chiang Mai,Mae Hong Son
+574,Chiang Mai,Tak
+575,Lamphun,Chiang Mai
+576,Lamphun,Lampang
+577,Lamphun,Tak
+578,Lampang,Chiang Mai
+579,Lampang,Lamphun
+580,Lampang,Phrae
+581,Lampang,Phayao
+582,Lampang,Chiang Rai
+583,Lampang,Tak
+584,Lampang,Sukhothai
+585,Uttaradit,Phrae
+586,Uttaradit,Nan
+587,Uttaradit,Sukhothai
+588,Uttaradit,Phitsanulok
+589,Phrae,Lampang
+590,Phrae,Uttaradit
+591,Phrae,Nan
+592,Phrae,Phayao
+593,Phrae,Sukhothai
+594,Nan,Uttaradit
+595,Nan,Phrae
+596,Nan,Phayao
+597,Phayao,Lampang
+598,Phayao,Phrae
+599,Phayao,Nan
+600,Phayao,Chiang Rai
+601,Chiang Rai,Chiang Mai
+602,Chiang Rai,Lampang
+603,Chiang Rai,Phayao
+604,Mae Hong Son,Chiang Mai
+605,Mae Hong Son,Tak
+606,Nakhon Sawan,Lopburi
+607,Nakhon Sawan,Sing Buri
+608,Nakhon Sawan,Chai Nat
+609,Nakhon Sawan,Uthai Thani
+610,Nakhon Sawan,Kamphaeng Phet
+611,Nakhon Sawan,Tak
+612,Nakhon Sawan,Phichit
+613,Nakhon Sawan,Phetchabun
+614,Uthai Thani,Chai Nat
+615,Uthai Thani,Nakhon Sawan
+616,Uthai Thani,Tak
+617,Uthai Thani,Kanchanaburi
+618,Uthai Thani,Suphan Buri
+619,Kamphaeng Phet,Nakhon Sawan
+620,Kamphaeng Phet,Tak
+621,Kamphaeng Phet,Sukhothai
+622,Kamphaeng Phet,Phitsanulok
+623,Kamphaeng Phet,Phichit
+624,Tak,Chiang Mai
+625,Tak,Lamphun
+626,Tak,Lampang
+627,Tak,Mae Hong Son
+628,Tak,Nakhon Sawan
+629,Tak,Uthai Thani
+630,Tak,Kamphaeng Phet
+631,Tak,Sukhothai
+632,Tak,Kanchanaburi
+633,Sukhothai,Lampang
+634,Sukhothai,Uttaradit
+635,Sukhothai,Phrae
+636,Sukhothai,Kamphaeng Phet
+637,Sukhothai,Tak
+638,Sukhothai,Phitsanulok
+639,Phitsanulok,Loei
+640,Phitsanulok,Uttaradit
+641,Phitsanulok,Kamphaeng Phet
+642,Phitsanulok,Sukhothai
+643,Phitsanulok,Phichit
+644,Phitsanulok,Phetchabun
+645,Phichit,Nakhon Sawan
+646,Phichit,Kamphaeng Phet
+647,Phichit,Phitsanulok
+648,Phichit,Phetchabun
+649,Phetchabun,Lopburi
+650,Phetchabun,Chaiyaphum
+651,Phetchabun,Khon Kaen
+652,Phetchabun,Loei
+653,Phetchabun,Nakhon Sawan
+654,Phetchabun,Phitsanulok
+655,Phetchabun,Phichit
+656,Ratchaburi,Kanchanaburi
+657,Ratchaburi,Nakhon Pathom
+658,Ratchaburi,Samut Sakhon
+659,Ratchaburi,Samut Songkhram
+660,Ratchaburi,Phetchaburi
+661,Kanchanaburi,Uthai Thani
+662,Kanchanaburi,Tak
+663,Kanchanaburi,Ratchaburi
+664,Kanchanaburi,Suphan Buri
+665,Kanchanaburi,Nakhon Pathom
+666,Suphan Buri,Phra Nakhon Si Ayutthaya
+667,Suphan Buri,Ang Thong
+668,Suphan Buri,Sing Buri
+669,Suphan Buri,Chai Nat
+670,Suphan Buri,Uthai Thani
+671,Suphan Buri,Kanchanaburi
+672,Suphan Buri,Nakhon Pathom
+673,Nakhon Pathom,Bangkok
+674,Nakhon Pathom,Nonthaburi
+675,Nakhon Pathom,Phra Nakhon Si Ayutthaya
+676,Nakhon Pathom,Ratchaburi
+677,Nakhon Pathom,Kanchanaburi
+678,Nakhon Pathom,Suphan Buri
+679,Nakhon Pathom,Samut Sakhon
+680,Samut Sakhon,Bangkok
+681,Samut Sakhon,Ratchaburi
+682,Samut Sakhon,Nakhon Pathom
+683,Samut Sakhon,Samut Songkhram
+684,Samut Songkhram,Ratchaburi
+685,Samut Songkhram,Samut Sakhon
+686,Samut Songkhram,Phetchaburi
+687,Phetchaburi,Ratchaburi
+688,Phetchaburi,Samut Songkhram
+689,Phetchaburi,Prachuap Khiri Khan
+690,Prachuap Khiri Khan,Phetchaburi
+691,Prachuap Khiri Khan,Chumphon
+692,Nakhon Si Thammarat,Krabi
+693,Nakhon Si Thammarat,Surat Thani
+694,Nakhon Si Thammarat,Songkhla
+695,Nakhon Si Thammarat,Trang
+696,Nakhon Si Thammarat,Phatthalung
+697,Krabi,Nakhon Si Thammarat
+698,Krabi,Phang Nga
+699,Krabi,Surat Thani
+700,Krabi,Trang
+701,Phang Nga,Krabi
+702,Phang Nga,Phuket
+703,Phang Nga,Surat Thani
+704,Phang Nga,Ranong
+705,Phuket,Phang Nga
+706,Surat Thani,Nakhon Si Thammarat
+707,Surat Thani,Krabi
+708,Surat Thani,Phang Nga
+709,Surat Thani,Ranong
+710,Surat Thani,Chumphon
+711,Ranong,Phang Nga
+712,Ranong,Surat Thani
+713,Ranong,Chumphon
+714,Chumphon,Prachuap Khiri Khan
+715,Chumphon,Surat Thani
+716,Chumphon,Ranong
+717,Songkhla,Nakhon Si Thammarat
+718,Songkhla,Satun
+719,Songkhla,Phatthalung
+720,Songkhla,Pattani
+721,Songkhla,Yala
+722,Satun,Songkhla
+723,Satun,Trang
+724,Satun,Phatthalung
+725,Trang,Nakhon Si Thammarat
+726,Trang,Krabi
+727,Trang,Satun
+728,Trang,Phatthalung
+729,Phatthalung,Nakhon Si Thammarat
+730,Phatthalung,Songkhla
+731,Phatthalung,Satun
+732,Phatthalung,Trang
+733,Pattani,Songkhla
+734,Pattani,Yala
+735,Pattani,Narathiwat
+736,Yala,Songkhla
+737,Yala,Pattani
+738,Yala,Narathiwat
+739,Narathiwat,Pattani
+740,Narathiwat,Yala
+741,Phra Nakhon Si Ayutthaya,Nakhon Pathom
+742,Ang Thong,Phra Nakhon Si Ayutthaya
+743,Ang Thong,Lopburi
+744,Ang Thong,Sing Buri
+745,Ang Thong,Suphan Buri
+746,Lopburi,Phra Nakhon Si Ayutthaya
+747,Lopburi,Ang Thong
+748,Lopburi,Sing Buri
+749,Lopburi,Saraburi
+750,Lopburi,Nakhon Ratchasima
+751,Lopburi,Chaiyaphum
+752,Lopburi,Nakhon Sawan
+753,Lopburi,Phetchabun
+754,Sing Buri,Ang Thong
+755,Sing Buri,Lopburi
+756,Sing Buri,Chai Nat
+757,Sing Buri,Nakhon Sawan
+758,Sing Buri,Suphan Buri
+759,Chai Nat,Sing Buri
+760,Chai Nat,Nakhon Sawan
+761,Chai Nat,Uthai Thani
+762,Chai Nat,Suphan Buri
+763,Saraburi,Pathum Thani
+764,Saraburi,Phra Nakhon Si Ayutthaya
+765,Saraburi,Lopburi
+766,Buri Ram,Maha Sarakham
+767,Surin,Buri Ram
+768,Surin,Si Sa Ket
+769,Surin,Maha Sarakham
+770,Surin,Roi Et
+771,Si Sa Ket,Surin
+772,Si Sa Ket,Ubon Ratchathani
+773,Si Sa Ket,Yasothon
+774,Si Sa Ket,Roi Et
+775,Ubon Ratchathani,Si Sa Ket
+776,Ubon Ratchathani,Yasothon
+777,Ubon Ratchathani,Amnat Charoen
+778,Yasothon,Si Sa Ket
+779,Yasothon,Ubon Ratchathani
+780,Yasothon,Amnat Charoen
+781,Yasothon,Roi Et
+782,Yasothon,Mukdahan
+783,Chaiyaphum,Lopburi
+784,Chaiyaphum,Nakhon Ratchasima
+785,Chaiyaphum,Khon Kaen
+786,Chaiyaphum,Phetchabun
+787,Amnat Charoen,Ubon Ratchathani
+788,Amnat Charoen,Yasothon
+789,Amnat Charoen,Mukdahan
+790,Bueng Kan,Nong Khai
+791,Bueng Kan,Sakon Nakhon
+792,Bueng Kan,Nakhon Phanom
+793,Nong Bua Lamphu,Khon Kaen
+794,Nong Bua Lamphu,Udon Thani
+795,Nong Bua Lamphu,Loei
+796,Khon Kaen,Nakhon Ratchasima
+797,Khon Kaen,Buri Ram
+798,Khon Kaen,Chaiyaphum
+799,Khon Kaen,Nong Bua Lamphu
+800,Khon Kaen,Udon Thani
+801,Khon Kaen,Loei
+802,Khon Kaen,Maha Sarakham
+803,Khon Kaen,Kalasin
+804,Khon Kaen,Phetchabun
+805,Udon Thani,Nong Bua Lamphu
+806,Udon Thani,Khon Kaen
+807,Udon Thani,Loei
+808,Udon Thani,Nong Khai
+809,Udon Thani,Kalasin
+810,Udon Thani,Sakon Nakhon
+811,Loei,Nong Bua Lamphu
+812,Loei,Khon Kaen
+813,Loei,Udon Thani
+814,Loei,Nong Khai
+815,Loei,Phitsanulok
+816,Loei,Phetchabun
+817,Nong Khai,Bueng Kan
+818,Nong Khai,Udon Thani
+819,Nong Khai,Loei
+820,Nong Khai,Sakon Nakhon
+821,Maha Sarakham,Buri Ram
+822,Maha Sarakham,Surin
+823,Maha Sarakham,Khon Kaen
+824,Maha Sarakham,Roi Et
+825,Maha Sarakham,Kalasin
+826,Roi Et,Surin
+827,Roi Et,Si Sa Ket
+828,Roi Et,Yasothon
+829,Roi Et,Maha Sarakham
+830,Roi Et,Kalasin
+831,Roi Et,Mukdahan
+832,Kalasin,Khon Kaen
+833,Kalasin,Udon Thani
+834,Kalasin,Maha Sarakham
+835,Kalasin,Roi Et
+836,Kalasin,Sakon Nakhon
+837,Kalasin,Mukdahan
+838,Sakon Nakhon,Bueng Kan
+839,Sakon Nakhon,Udon Thani
+840,Sakon Nakhon,Nong Khai
+841,Sakon Nakhon,Kalasin
+842,Sakon Nakhon,Nakhon Phanom
+843,Sakon Nakhon,Mukdahan
+844,Nakhon Phanom,Bueng Kan
+845,Nakhon Phanom,Sakon Nakhon
+846,Nakhon Phanom,Mukdahan
+847,Mukdahan,Yasothon
+848,Mukdahan,Amnat Charoen
+849,Mukdahan,Roi Et
+850,Mukdahan,Kalasin
+851,Mukdahan,Sakon Nakhon
+852,Mukdahan,Nakhon Phanom
+853,Chiang Mai,Lamphun
+854,Chiang Mai,Lampang
+855,Chiang Mai,Chiang Rai
+856,Chiang Mai,Mae Hong Son
+857,Chiang Mai,Tak
+858,Lamphun,Chiang Mai
+859,Lamphun,Lampang
+860,Lamphun,Tak
+861,Lampang,Chiang Mai
+862,Lampang,Lamphun
+863,Lampang,Phrae
+864,Lampang,Phayao
+865,Lampang,Chiang Rai
+866,Lampang,Tak
+867,Lampang,Sukhothai
+868,Uttaradit,Phrae
+869,Uttaradit,Nan
+870,Uttaradit,Sukhothai
+871,Uttaradit,Phitsanulok
+872,Phrae,Lampang
+873,Phrae,Uttaradit
+874,Phrae,Nan
+875,Phrae,Phayao
+876,Phrae,Sukhothai
+877,Nan,Uttaradit
+878,Nan,Phrae
+879,Nan,Phayao
+880,Phayao,Lampang
+881,Phayao,Phrae
+882,Phayao,Nan
+883,Phayao,Chiang Rai
+884,Chiang Rai,Chiang Mai
+885,Chiang Rai,Lampang
+886,Chiang Rai,Phayao
+887,Mae Hong Son,Chiang Mai
+888,Mae Hong Son,Tak
+889,Nakhon Sawan,Lopburi
+890,Nakhon Sawan,Sing Buri
+891,Nakhon Sawan,Chai Nat
+892,Nakhon Sawan,Uthai Thani
+893,Nakhon Sawan,Kamphaeng Phet
+894,Nakhon Sawan,Tak
+895,Nakhon Sawan,Phichit
+896,Nakhon Sawan,Phetchabun
+897,Uthai Thani,Chai Nat
+898,Uthai Thani,Nakhon Sawan
+899,Uthai Thani,Tak
+900,Uthai Thani,Kanchanaburi
+901,Uthai Thani,Suphan Buri
+902,Kamphaeng Phet,Nakhon Sawan
+903,Kamphaeng Phet,Tak
+904,Kamphaeng Phet,Sukhothai
+905,Kamphaeng Phet,Phitsanulok
+906,Kamphaeng Phet,Phichit
+907,Tak,Chiang Mai
+908,Tak,Lamphun
+909,Tak,Lampang
+910,Tak,Mae Hong Son
+911,Tak,Nakhon Sawan
+912,Tak,Uthai Thani
+913,Tak,Kamphaeng Phet
+914,Tak,Sukhothai
+915,Tak,Kanchanaburi
+916,Sukhothai,Lampang
+917,Sukhothai,Uttaradit
+918,Sukhothai,Phrae
+919,Sukhothai,Kamphaeng Phet
+920,Sukhothai,Tak
+921,Sukhothai,Phitsanulok
+922,Phitsanulok,Loei
+923,Phitsanulok,Uttaradit
+924,Phitsanulok,Kamphaeng Phet
+925,Phitsanulok,Sukhothai
+926,Phitsanulok,Phichit
+927,Phitsanulok,Phetchabun
+928,Phichit,Nakhon Sawan
+929,Phichit,Kamphaeng Phet
+930,Phichit,Phitsanulok
+931,Phichit,Phetchabun
+932,Phetchabun,Lopburi
+933,Phetchabun,Chaiyaphum
+934,Phetchabun,Khon Kaen
+935,Phetchabun,Loei
+936,Phetchabun,Nakhon Sawan
+937,Phetchabun,Phitsanulok
+938,Phetchabun,Phichit
+939,Ratchaburi,Kanchanaburi
+940,Ratchaburi,Nakhon Pathom
+941,Ratchaburi,Samut Sakhon
+942,Ratchaburi,Samut Songkhram
+943,Ratchaburi,Phetchaburi
+944,Kanchanaburi,Uthai Thani
+945,Kanchanaburi,Tak
+946,Kanchanaburi,Ratchaburi
+947,Kanchanaburi,Suphan Buri
+948,Kanchanaburi,Nakhon Pathom
+949,Suphan Buri,Phra Nakhon Si Ayutthaya
+950,Suphan Buri,Ang Thong
+951,Suphan Buri,Sing Buri
+952,Suphan Buri,Chai Nat
+953,Suphan Buri,Uthai Thani
+954,Suphan Buri,Kanchanaburi
+955,Suphan Buri,Nakhon Pathom
+956,Nakhon Pathom,Bangkok
+957,Nakhon Pathom,Nonthaburi
+958,Nakhon Pathom,Phra Nakhon Si Ayutthaya
+959,Nakhon Pathom,Ratchaburi
+960,Nakhon Pathom,Kanchanaburi
+961,Nakhon Pathom,Suphan Buri
+962,Nakhon Pathom,Samut Sakhon
+963,Samut Sakhon,Bangkok
+964,Samut Sakhon,Ratchaburi
+965,Samut Sakhon,Nakhon Pathom
+966,Samut Sakhon,Samut Songkhram
+967,Samut Songkhram,Ratchaburi
+968,Samut Songkhram,Samut Sakhon
+969,Samut Songkhram,Phetchaburi
+970,Phetchaburi,Ratchaburi
+971,Phetchaburi,Samut Songkhram
+972,Phetchaburi,Prachuap Khiri Khan
+973,Prachuap Khiri Khan,Phetchaburi
+974,Prachuap Khiri Khan,Chumphon
+975,Nakhon Si Thammarat,Krabi
+976,Nakhon Si Thammarat,Surat Thani
+977,Nakhon Si Thammarat,Songkhla
+978,Nakhon Si Thammarat,Trang
+979,Nakhon Si Thammarat,Phatthalung
+980,Krabi,Nakhon Si Thammarat
+981,Krabi,Phang Nga
+982,Krabi,Surat Thani
+983,Krabi,Trang
+984,Phang Nga,Krabi
+985,Phang Nga,Phuket
+986,Phang Nga,Surat Thani
+987,Phang Nga,Ranong
+988,Phuket,Phang Nga
+989,Surat Thani,Nakhon Si Thammarat
+990,Surat Thani,Krabi
+991,Surat Thani,Phang Nga
+992,Surat Thani,Ranong
+993,Surat Thani,Chumphon
+994,Ranong,Phang Nga
+995,Ranong,Surat Thani
+996,Ranong,Chumphon
+997,Chumphon,Prachuap Khiri Khan
+998,Chumphon,Surat Thani
+999,Chumphon,Ranong
+1000,Songkhla,Nakhon Si Thammarat
+1001,Songkhla,Satun
+1002,Songkhla,Phatthalung
+1003,Songkhla,Pattani
+1004,Songkhla,Yala
+1005,Satun,Songkhla
+1006,Satun,Trang
+1007,Satun,Phatthalung
+1008,Trang,Nakhon Si Thammarat
+1009,Trang,Krabi
+1010,Trang,Satun
+1011,Trang,Phatthalung
+1012,Phatthalung,Nakhon Si Thammarat
+1013,Phatthalung,Songkhla
+1014,Phatthalung,Satun
+1015,Phatthalung,Trang
+1016,Pattani,Songkhla
+1017,Pattani,Yala
+1018,Pattani,Narathiwat
+1019,Yala,Songkhla
+1020,Yala,Pattani
+1021,Yala,Narathiwat
+1022,Narathiwat,Pattani
+1023,Narathiwat,Yala
+1024,Saraburi,Nakhon Nayok
+1025,Saraburi,Nakhon Ratchasima
+1026,Chonburi,Rayong
+1027,Chonburi,Chanthaburi
+1028,Chonburi,Chachoengsao
+1029,Rayong,Chonburi
+1030,Rayong,Chanthaburi
+1031,Rayong,Chachoengsao
+1032,Chanthaburi,Chonburi
+1033,Chanthaburi,Rayong
+1034,Chanthaburi,Trat
+1035,Chanthaburi,Chachoengsao
+1036,Chanthaburi,Sa Kaeo
+1037,Trat,Chanthaburi
+1038,Chachoengsao,Bangkok
+1039,Chachoengsao,Samut Prakan
+1040,Chachoengsao,Pathum Thani
+1041,Chachoengsao,Chonburi
+1042,Chachoengsao,Rayong
+1043,Chachoengsao,Chanthaburi
+1044,Chachoengsao,Prachin Buri
+1045,Chachoengsao,Nakhon Nayok
+1046,Chachoengsao,Sa Kaeo
+1047,Prachin Buri,Chachoengsao
+1048,Prachin Buri,Nakhon Nayok
+1049,Prachin Buri,Sa Kaeo
+1050,Prachin Buri,Nakhon Ratchasima
+1051,Nakhon Nayok,Bangkok
+1052,Nakhon Nayok,Pathum Thani
+1053,Nakhon Nayok,Saraburi
+1054,Nakhon Nayok,Chachoengsao
+1055,Nakhon Nayok,Prachin Buri
+1056,Nakhon Nayok,Nakhon Ratchasima
+1057,Sa Kaeo,Chanthaburi
+1058,Sa Kaeo,Chachoengsao
+1059,Sa Kaeo,Prachin Buri
+1060,Sa Kaeo,Nakhon Ratchasima
+1061,Sa Kaeo,Buri Ram
+1062,Nakhon Ratchasima,Lopburi
+1063,Nakhon Ratchasima,Saraburi
+1064,Nakhon Ratchasima,Prachin Buri
+1065,Nakhon Ratchasima,Nakhon Nayok
+1066,Nakhon Ratchasima,Sa Kaeo
+1067,Nakhon Ratchasima,Buri Ram
+1068,Nakhon Ratchasima,Chaiyaphum
+1069,Nakhon Ratchasima,Khon Kaen
+1070,Buri Ram,Sa Kaeo
+1071,Buri Ram,Nakhon Ratchasima
+1072,Buri Ram,Surin
+1073,Buri Ram,Khon Kaen
