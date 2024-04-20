@@ -3,8 +3,8 @@
 <p align="center">
   <img src="images/district_adjacency2.png" alt="Adjacency District Network" title="Adjacency District Network">
 </p>
-## Abstract
 
+## Abstract
 This study introduces a geospatial dataset comprising adjacency and distance matrices for Thailand's 77 provinces and 928 districts. Designed to enhance spatial analysis and support urban and regional planning initiatives, this dataset maps connections based on boundary proximity and precise distance measurements. It serves as a valuable tool for Geographic Information Systems (GIS), network analysis, and strategic planning efforts.
 
 ```bibtex
