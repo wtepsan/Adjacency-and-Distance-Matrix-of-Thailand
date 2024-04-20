@@ -1,7 +1,7 @@
 # Spatial Connectivity of Districts in Thailand: A Comprehensive Dataset of District Adjacency and Distance Matrices
 
 <p align="center">
-  <img src="images/districtnetwork.png" alt="Adjacency District Network" title="Adjacency District Network">
+  <img src="images/district_adjacency2.png" alt="Adjacency District Network" title="Adjacency District Network">
 </p>
 ## Abstract
 
