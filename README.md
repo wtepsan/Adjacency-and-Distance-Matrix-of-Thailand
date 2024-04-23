@@ -1,11 +1,11 @@
-# A Geospatial Dataset of Adjacency and Distance of Districts and Provinces of Thailand
+# Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand’s Administrative Divisions
 
 <p align="center">
   <img src="images/district_adjacency2.png" alt="Adjacency District Network" title="Adjacency District Network">
 </p>
 
 ## Abstract
-This study introduces a geospatial dataset comprising adjacency and distance matrices for Thailand's 77 provinces and 928 districts. Designed to enhance spatial analysis and support urban and regional planning initiatives, this dataset maps connections based on boundary proximity and precise distance measurements. It serves as a valuable tool for Geographic Information Systems (GIS), network analysis, and strategic planning efforts.
+This study introduces a novel method for generating adjacency and distance matrices from regional boundary data, specifically applied to Thailand’s 77 provinces and 928 districts. In alignment with emerging needs for robust data in sustainable transport systems, we developed a geospatial dataset that leverages these matrices to enhance urban and transportation planning. This dataset enables detailed spatial analysis, crucial for optimizing transport networks and advancing sustainable city development through strategic initiatives. By facilitating the integration, processing, and visualization of large-scale transport data, our approach addresses key challenges in managing and analyzing high-dimensional geospatial information. We demonstrate practical applications of this dataset in urban planning, including community detection and centrality measurement, which are pivotal in assessing transport equity, accessibility, and resilience in response to dynamic urban challenges. This research contributes to the advancement of geospatial data applications in transport systems, providing policymakers and planners with essential tools to foster more connected and sustainable urban environments, thereby supporting global sustainability goals.
 
 ## Data Availability
 
