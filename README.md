@@ -25,8 +25,8 @@ Additionally, the foundational public datasets used as the basis for generating 
   journal = {Journal Title},
   month = sep,
   number = {1},
-  pages = {1--6},
-  title = {{{Spatial Connectivity of Districts in Thailand: A Comprehensive Dataset of District Adjacency and Distance Matrices}},
+  pages = {1--9},
+  title = {{{Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand’s Administrative Divisions}},
   volume = {1},
   year = {2024}
 }
