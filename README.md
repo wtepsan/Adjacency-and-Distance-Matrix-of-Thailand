@@ -20,13 +20,15 @@ Additionally, the foundational public datasets used as the basis for generating 
 
 ```bibtex
 @article{AdjacencyDistrict,
-  author = {Tepsan, Worawit},
-  doi = {00.0000/00000},
-  journal = {Journal Title},
-  month = sep,
-  number = {1},
-  pages = {1--9},
-  title = {{{Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand’s Administrative Divisions}},
-  volume = {1},
-  year = {2024}
+  author    = {Tepsan, Worawit},
+  title     = {Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand's Administrative Divisions},
+  journal   = {Journal Title},
+  year      = {2024},
+  volume    = {1},
+  number    = {1},
+  pages     = {1-9},
+  month     = {sep},
+  doi       = {00.0000/00000}
 }
+```
+
