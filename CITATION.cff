@@ -5,7 +5,7 @@ authors:
     given-names: Worawit
     affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
     email: worawit.tepsan@cmu.ac.th
-title: "Spatial Connectivity of Districts in Thailand: A Comprehensive Dataset of District Adjacency and Distance Matrices"
+title: "Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand’s Administrative Divisions"
 url: "https://github.com/wtepsan/Adjacency-and-Distance-Matrix-of-Thailand"
 date-released: 2024-06-30
 preferred-citation:
@@ -15,12 +15,12 @@ preferred-citation:
     given-names: Worawit
     affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
     email: worawit.tepsan@cmu.ac.th
-  doi: "10.0000/00000"
+  doi: "00.0000/00000"
   journal: "Journal Title"
   month: 9
   start: 1 # First page number
-  end: 6 # Last page number
-  title: "Spatial Connectivity of Districts in Thailand: A Comprehensive Dataset of District Adjacency and Distance Matrices"
+  end: 9 # Last page number
+  title: "Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand’s Administrative Divisions"
   issue: 1
   volume: 1
   year: 2024
