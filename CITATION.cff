@@ -1,26 +1,46 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 authors:
   - family-names: Tepsan
     given-names: Worawit
     affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
     email: worawit.tepsan@cmu.ac.th
+  - family-names: Harnporncha
+    given-names: Napat
+    affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+  - family-names: Phaphuangwittayakul
+    given-names: Aniwat
+    affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+
 title: "Spatial Connectivity of Districts in Thailand: A Comprehensive Dataset of District Adjacency and Distance Matrices"
 url: "https://github.com/wtepsan/Adjacency-and-Distance-Matrix-of-Thailand"
 date-released: 2024-06-30
+version: "1.0.0"
+keywords:
+  - "Thailand"
+  - "Spatial Networks"
+  - "Adjacency Matrix"
+  - "Distance Matrix"
+  - "Complex Networks"
+
 preferred-citation:
   type: article
   authors:
-  - family-names: Tepsan
-    given-names: Worawit
-    affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
-    email: worawit.tepsan@cmu.ac.th
+    - family-names: Tepsan
+      given-names: Worawit
+      affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+      email: worawit.tepsan@cmu.ac.th
+    - family-names: Harnporncha
+      given-names: Napat
+      affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+    - family-names: Phaphuangwittayakul
+      given-names: Aniwat
+      affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
   doi: "10.0000/00000"
   journal: "Journal Title"
   month: 9
-  start: 1 # First page number
-  end: 6 # Last page number
-  title: "Spatial Connectivity of Districts in Thailand: A Comprehensive Dataset of District Adjacency and Distance Matrices"
-  issue: 1
-  volume: 1
   year: 2024
+  title: "Identifying Vital Hubs in Transportation Network Using Multiple Perspectives of Complex Networks"
+  volume: 1
+  issue: 1
+  pages: "1-6"
