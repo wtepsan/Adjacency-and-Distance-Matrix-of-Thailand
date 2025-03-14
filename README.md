@@ -1,4 +1,4 @@
-# Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand’s Administrative Divisions
+# Identifying Vital Hubs in Transportation Network Using Multiple Perspectives of Complex Networks
 
 <p align="center">
   <img src="images/district_adjacency2.png" alt="Adjacency District Network" title="Adjacency District Network">
@@ -20,8 +20,8 @@ Additionally, the foundational public datasets used as the basis for generating 
 
 ```bibtex
 @article{AdjacencyDistrict,
-  author    = {Tepsan, Worawit},
-  title     = {Developing Geospatial Datasets for Urban Network Analysis: Adjacency and Distance Matrices of Thailand's Administrative Divisions},
+  author    = {Tepsan, Worawit; Napat Harnporncha; Aniwat Phaphuangwittayakul^*},
+  title     = {Identifying Vital Hubs in Transportation Network Using Multiple Perspectives of Complex Networks},
   journal   = {Journal Title},
   year      = {2024},
   volume    = {1},
@@ -30,5 +30,3 @@ Additionally, the foundational public datasets used as the basis for generating 
   month     = {sep},
   doi       = {00.0000/00000}
 }
-```
-
