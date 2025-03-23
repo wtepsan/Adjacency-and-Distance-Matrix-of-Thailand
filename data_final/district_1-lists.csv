@@ -80,7 +80,7 @@
 78,78,"('Lat Bua Luang', 'Phra Nakhon Si Ayutthaya')",14.165325,100.308178
 79,79,"('Wang Noi', 'Phra Nakhon Si Ayutthaya')",14.226741,100.715623
 80,80,"('Sena', 'Phra Nakhon Si Ayutthaya')",14.32731,100.404473
-81,81,"('Bang Sai', 'Phra Nakhon Si Ayutthaya')",14.319422,100.300192
+81,81,"('Bang Zai', 'Phra Nakhon Si Ayutthaya')",14.319422,100.300192
 82,82,"('Uthai', 'Phra Nakhon Si Ayutthaya')",14.33225,100.662848
 83,83,"('Maha Rat', 'Phra Nakhon Si Ayutthaya')",14.534358,100.527259
 84,84,"('Ban Phraek', 'Phra Nakhon Si Ayutthaya')",14.647895,100.58244
@@ -242,7 +242,7 @@
 240,240,"('Nong Hong', 'Buri Ram')",14.850283,102.687885
 241,241,"('Phlapphla Chai', 'Buri Ram')",14.729983,103.167188
 242,242,"('Huai Rat', 'Buri Ram')",14.960548,103.18894
-243,243,"('Non Din Daeng', 'Buri Ram')",14.577726,102.598974
+243,243,"('Non Suwan', 'Buri Ram')",14.577726,102.598974
 244,244,"('Chamni', 'Buri Ram')",14.788292,102.842402
 245,245,"('Ban Mai Chaiyaphot', 'Buri Ram')",15.572594,102.832906
 246,246,"('Non Din Daeng', 'Buri Ram')",14.315895,102.743574
@@ -394,7 +394,7 @@
 392,392,"('Nong Wua So', 'Udon Thani')",17.162315,102.572861
 393,393,"('Kumphawapi', 'Udon Thani')",17.113838,103.018688
 394,394,"('Non Sa-at', 'Udon Thani')",16.97868,102.893873
-395,395,"('Nong Saeng', 'Udon Thani')",17.360552,103.105577
+395,395,"('Nong Han', 'Udon Thani')",17.360552,103.105577
 396,396,"('Thung Fon', 'Udon Thani')",17.471423,103.260214
 397,397,"('Chai Wan', 'Udon Thani')",17.285225,103.222363
 398,398,"('Si That', 'Udon Thani')",16.972994,103.216829
@@ -516,7 +516,7 @@
 514,514,"('Mueang Mukdahan', 'Mukdahan')",16.538161,104.714848
 515,515,"('Nikhom Kham Soi', 'Mukdahan')",16.371882,104.550664
 516,516,"('Don Tan', 'Mukdahan')",16.316569,104.92016
-517,517,"('Don Tan', 'Mukdahan')",16.815463,104.537261
+517,517,"('Dong Luang', 'Mukdahan')",16.815463,104.537261
 518,518,"('Khamcha-i', 'Mukdahan')",16.577189,104.4194
 519,519,"('Wan Yai', 'Mukdahan')",16.727654,104.738917
 520,520,"('Nong Sung', 'Mukdahan')",16.486839,104.344161
@@ -576,7 +576,7 @@
 574,574,"('Laplae', 'Uttaradit')",17.651357,100.039037
 575,575,"('Thong Saen Khan', 'Uttaradit')",17.475135,100.333404
 576,576,"('Mueang Phrae', 'Phrae')",18.145434,100.141364
-577,577,"('Mueang Phrae', 'Phrae')",18.339747,100.317376
+577,577,"('Rong Kwang', 'Phrae')",18.339747,100.317376
 578,578,"('Long', 'Phrae')",18.075645,99.832354
 579,579,"('Sung Men', 'Phrae')",18.051986,100.111611
 580,580,"('Den Chai', 'Phrae')",17.97858,100.058343
@@ -836,7 +836,7 @@
 834,834,"('Phrasaeng', 'Surat Thani')",8.568265,99.247637
 835,835,"('Phunphin', 'Surat Thani')",9.110799,99.231619
 836,836,"('Chai Buri', 'Surat Thani')",8.463787,99.075456
-837,837,"('Chai Buri', 'Surat Thani')",9.238965,98.978502
+837,837,"('Vibhavadi', 'Surat Thani')",9.238965,98.978502
 838,838,"('Mueang Ranong', 'Ranong')",9.956735,98.637618
 839,839,"('La-un', 'Ranong')",10.115361,98.750436
 840,840,"('Papoe', 'Ranong')",9.585244,98.596056
@@ -916,7 +916,7 @@
 914,914,"('Krong Pinang', 'Yala')",6.411092,101.273354
 915,915,"('Mueang Narathiwat', 'Narathiwat')",6.425175,101.823515
 916,916,"('Tak Bai', 'Narathiwat')",6.259053,102.055139
-917,917,"('Tak Bai', 'Narathiwat')",6.517122,101.652119
+917,917,"('Bacho', 'Narathiwat')",6.517122,101.652119
 918,918,"('Yi-ngo', 'Narathiwat')",6.403024,101.70652
 919,919,"('Ra-ngae', 'Narathiwat')",6.296453,101.72876
 920,920,"('Rueso', 'Narathiwat')",6.3947,101.518329
