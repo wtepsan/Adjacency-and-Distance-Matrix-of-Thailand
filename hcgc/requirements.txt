@@ -1,0 +1,10 @@
+Python==3.13.2
+EoN==1.2
+networkx==3.4.2
+numpy==2.2.4
+python_igraph==0.11.8
+python_louvain==0.16
+scipy==1.15.2
+matplotlib==3.10.1
+igraph==0.11.8
+pandas==2.2.3

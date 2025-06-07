@@ -1,0 +1,359 @@
+Origin,Destination,OriginID,DestinationID
+Bangkok,Samut Prakan,0,1
+Bangkok,Nonthaburi,0,2
+Bangkok,Pathum Thani,0,3
+Bangkok,Chachoengsao,0,14
+Bangkok,Nakhon Nayok,0,16
+Bangkok,Nakhon Pathom,0,58
+Bangkok,Samut Sakhon,0,59
+Samut Prakan,Bangkok,1,0
+Samut Prakan,Chachoengsao,1,14
+Nonthaburi,Bangkok,2,0
+Nonthaburi,Pathum Thani,2,3
+Nonthaburi,Phra Nakhon Si Ayutthaya,2,4
+Nonthaburi,Nakhon Pathom,2,58
+Pathum Thani,Bangkok,3,0
+Pathum Thani,Nonthaburi,3,2
+Pathum Thani,Phra Nakhon Si Ayutthaya,3,4
+Pathum Thani,Saraburi,3,9
+Pathum Thani,Chachoengsao,3,14
+Pathum Thani,Nakhon Nayok,3,16
+Phra Nakhon Si Ayutthaya,Nonthaburi,4,2
+Phra Nakhon Si Ayutthaya,Pathum Thani,4,3
+Phra Nakhon Si Ayutthaya,Ang Thong,4,5
+Phra Nakhon Si Ayutthaya,Lopburi,4,6
+Phra Nakhon Si Ayutthaya,Saraburi,4,9
+Phra Nakhon Si Ayutthaya,Suphan Buri,4,57
+Phra Nakhon Si Ayutthaya,Nakhon Pathom,4,58
+Ang Thong,Phra Nakhon Si Ayutthaya,5,4
+Ang Thong,Lopburi,5,6
+Ang Thong,Sing Buri,5,7
+Ang Thong,Suphan Buri,5,57
+Lopburi,Phra Nakhon Si Ayutthaya,6,4
+Lopburi,Ang Thong,6,5
+Lopburi,Sing Buri,6,7
+Lopburi,Saraburi,6,9
+Lopburi,Nakhon Ratchasima,6,18
+Lopburi,Chaiyaphum,6,24
+Lopburi,Nakhon Sawan,6,47
+Lopburi,Phetchabun,6,54
+Sing Buri,Ang Thong,7,5
+Sing Buri,Lopburi,7,6
+Sing Buri,Chai Nat,7,8
+Sing Buri,Nakhon Sawan,7,47
+Sing Buri,Suphan Buri,7,57
+Chai Nat,Sing Buri,8,7
+Chai Nat,Nakhon Sawan,8,47
+Chai Nat,Uthai Thani,8,48
+Chai Nat,Suphan Buri,8,57
+Saraburi,Pathum Thani,9,3
+Saraburi,Phra Nakhon Si Ayutthaya,9,4
+Saraburi,Lopburi,9,6
+Saraburi,Nakhon Nayok,9,16
+Saraburi,Nakhon Ratchasima,9,18
+Chonburi,Rayong,10,11
+Chonburi,Chanthaburi,10,12
+Chonburi,Chachoengsao,10,14
+Rayong,Chonburi,11,10
+Rayong,Chanthaburi,11,12
+Rayong,Chachoengsao,11,14
+Chanthaburi,Chonburi,12,10
+Chanthaburi,Rayong,12,11
+Chanthaburi,Trat,12,13
+Chanthaburi,Chachoengsao,12,14
+Chanthaburi,Sa Kaeo,12,17
+Trat,Chanthaburi,13,12
+Chachoengsao,Bangkok,14,0
+Chachoengsao,Samut Prakan,14,1
+Chachoengsao,Pathum Thani,14,3
+Chachoengsao,Chonburi,14,10
+Chachoengsao,Rayong,14,11
+Chachoengsao,Chanthaburi,14,12
+Chachoengsao,Prachin Buri,14,15
+Chachoengsao,Nakhon Nayok,14,16
+Chachoengsao,Sa Kaeo,14,17
+Prachin Buri,Chachoengsao,15,14
+Prachin Buri,Nakhon Nayok,15,16
+Prachin Buri,Sa Kaeo,15,17
+Prachin Buri,Nakhon Ratchasima,15,18
+Nakhon Nayok,Bangkok,16,0
+Nakhon Nayok,Pathum Thani,16,3
+Nakhon Nayok,Saraburi,16,9
+Nakhon Nayok,Chachoengsao,16,14
+Nakhon Nayok,Prachin Buri,16,15
+Nakhon Nayok,Nakhon Ratchasima,16,18
+Sa Kaeo,Chanthaburi,17,12
+Sa Kaeo,Chachoengsao,17,14
+Sa Kaeo,Prachin Buri,17,15
+Sa Kaeo,Nakhon Ratchasima,17,18
+Sa Kaeo,Buri Ram,17,19
+Nakhon Ratchasima,Lopburi,18,6
+Nakhon Ratchasima,Saraburi,18,9
+Nakhon Ratchasima,Prachin Buri,18,15
+Nakhon Ratchasima,Nakhon Nayok,18,16
+Nakhon Ratchasima,Sa Kaeo,18,17
+Nakhon Ratchasima,Buri Ram,18,19
+Nakhon Ratchasima,Chaiyaphum,18,24
+Nakhon Ratchasima,Khon Kaen,18,28
+Buri Ram,Sa Kaeo,19,17
+Buri Ram,Nakhon Ratchasima,19,18
+Buri Ram,Surin,19,20
+Buri Ram,Khon Kaen,19,28
+Buri Ram,Maha Sarakham,19,32
+Surin,Buri Ram,20,19
+Surin,Si Sa Ket,20,21
+Surin,Maha Sarakham,20,32
+Surin,Roi Et,20,33
+Si Sa Ket,Surin,21,20
+Si Sa Ket,Ubon Ratchathani,21,22
+Si Sa Ket,Yasothon,21,23
+Si Sa Ket,Roi Et,21,33
+Ubon Ratchathani,Si Sa Ket,22,21
+Ubon Ratchathani,Yasothon,22,23
+Ubon Ratchathani,Amnat Charoen,22,25
+Yasothon,Si Sa Ket,23,21
+Yasothon,Ubon Ratchathani,23,22
+Yasothon,Amnat Charoen,23,25
+Yasothon,Roi Et,23,33
+Yasothon,Mukdahan,23,37
+Chaiyaphum,Lopburi,24,6
+Chaiyaphum,Nakhon Ratchasima,24,18
+Chaiyaphum,Khon Kaen,24,28
+Chaiyaphum,Phetchabun,24,54
+Amnat Charoen,Ubon Ratchathani,25,22
+Amnat Charoen,Yasothon,25,23
+Amnat Charoen,Mukdahan,25,37
+Bueng Kan,Nong Khai,26,31
+Bueng Kan,Sakon Nakhon,26,35
+Bueng Kan,Nakhon Phanom,26,36
+Nong Bua Lamphu,Khon Kaen,27,28
+Nong Bua Lamphu,Udon Thani,27,29
+Nong Bua Lamphu,Loei,27,30
+Khon Kaen,Nakhon Ratchasima,28,18
+Khon Kaen,Buri Ram,28,19
+Khon Kaen,Chaiyaphum,28,24
+Khon Kaen,Nong Bua Lamphu,28,27
+Khon Kaen,Udon Thani,28,29
+Khon Kaen,Loei,28,30
+Khon Kaen,Maha Sarakham,28,32
+Khon Kaen,Kalasin,28,34
+Khon Kaen,Phetchabun,28,54
+Udon Thani,Nong Bua Lamphu,29,27
+Udon Thani,Khon Kaen,29,28
+Udon Thani,Loei,29,30
+Udon Thani,Nong Khai,29,31
+Udon Thani,Kalasin,29,34
+Udon Thani,Sakon Nakhon,29,35
+Loei,Nong Bua Lamphu,30,27
+Loei,Khon Kaen,30,28
+Loei,Udon Thani,30,29
+Loei,Nong Khai,30,31
+Loei,Phitsanulok,30,52
+Loei,Phetchabun,30,54
+Nong Khai,Bueng Kan,31,26
+Nong Khai,Udon Thani,31,29
+Nong Khai,Loei,31,30
+Nong Khai,Sakon Nakhon,31,35
+Maha Sarakham,Buri Ram,32,19
+Maha Sarakham,Surin,32,20
+Maha Sarakham,Khon Kaen,32,28
+Maha Sarakham,Roi Et,32,33
+Maha Sarakham,Kalasin,32,34
+Roi Et,Surin,33,20
+Roi Et,Si Sa Ket,33,21
+Roi Et,Yasothon,33,23
+Roi Et,Maha Sarakham,33,32
+Roi Et,Kalasin,33,34
+Roi Et,Mukdahan,33,37
+Kalasin,Khon Kaen,34,28
+Kalasin,Udon Thani,34,29
+Kalasin,Maha Sarakham,34,32
+Kalasin,Roi Et,34,33
+Kalasin,Sakon Nakhon,34,35
+Kalasin,Mukdahan,34,37
+Sakon Nakhon,Bueng Kan,35,26
+Sakon Nakhon,Udon Thani,35,29
+Sakon Nakhon,Nong Khai,35,31
+Sakon Nakhon,Kalasin,35,34
+Sakon Nakhon,Nakhon Phanom,35,36
+Sakon Nakhon,Mukdahan,35,37
+Nakhon Phanom,Bueng Kan,36,26
+Nakhon Phanom,Sakon Nakhon,36,35
+Nakhon Phanom,Mukdahan,36,37
+Mukdahan,Yasothon,37,23
+Mukdahan,Amnat Charoen,37,25
+Mukdahan,Roi Et,37,33
+Mukdahan,Kalasin,37,34
+Mukdahan,Sakon Nakhon,37,35
+Mukdahan,Nakhon Phanom,37,36
+Chiang Mai,Lamphun,38,39
+Chiang Mai,Lampang,38,40
+Chiang Mai,Chiang Rai,38,45
+Chiang Mai,Mae Hong Son,38,46
+Chiang Mai,Tak,38,50
+Lamphun,Chiang Mai,39,38
+Lamphun,Lampang,39,40
+Lamphun,Tak,39,50
+Lampang,Chiang Mai,40,38
+Lampang,Lamphun,40,39
+Lampang,Phrae,40,42
+Lampang,Phayao,40,44
+Lampang,Chiang Rai,40,45
+Lampang,Tak,40,50
+Lampang,Sukhothai,40,51
+Uttaradit,Phrae,41,42
+Uttaradit,Nan,41,43
+Uttaradit,Sukhothai,41,51
+Uttaradit,Phitsanulok,41,52
+Phrae,Lampang,42,40
+Phrae,Uttaradit,42,41
+Phrae,Nan,42,43
+Phrae,Phayao,42,44
+Phrae,Sukhothai,42,51
+Nan,Uttaradit,43,41
+Nan,Phrae,43,42
+Nan,Phayao,43,44
+Phayao,Lampang,44,40
+Phayao,Phrae,44,42
+Phayao,Nan,44,43
+Phayao,Chiang Rai,44,45
+Chiang Rai,Chiang Mai,45,38
+Chiang Rai,Lampang,45,40
+Chiang Rai,Phayao,45,44
+Mae Hong Son,Chiang Mai,46,38
+Mae Hong Son,Tak,46,50
+Nakhon Sawan,Lopburi,47,6
+Nakhon Sawan,Sing Buri,47,7
+Nakhon Sawan,Chai Nat,47,8
+Nakhon Sawan,Uthai Thani,47,48
+Nakhon Sawan,Kamphaeng Phet,47,49
+Nakhon Sawan,Tak,47,50
+Nakhon Sawan,Phichit,47,53
+Nakhon Sawan,Phetchabun,47,54
+Uthai Thani,Chai Nat,48,8
+Uthai Thani,Nakhon Sawan,48,47
+Uthai Thani,Tak,48,50
+Uthai Thani,Kanchanaburi,48,56
+Uthai Thani,Suphan Buri,48,57
+Kamphaeng Phet,Nakhon Sawan,49,47
+Kamphaeng Phet,Tak,49,50
+Kamphaeng Phet,Sukhothai,49,51
+Kamphaeng Phet,Phitsanulok,49,52
+Kamphaeng Phet,Phichit,49,53
+Tak,Chiang Mai,50,38
+Tak,Lamphun,50,39
+Tak,Lampang,50,40
+Tak,Mae Hong Son,50,46
+Tak,Nakhon Sawan,50,47
+Tak,Uthai Thani,50,48
+Tak,Kamphaeng Phet,50,49
+Tak,Sukhothai,50,51
+Tak,Kanchanaburi,50,56
+Sukhothai,Lampang,51,40
+Sukhothai,Uttaradit,51,41
+Sukhothai,Phrae,51,42
+Sukhothai,Kamphaeng Phet,51,49
+Sukhothai,Tak,51,50
+Sukhothai,Phitsanulok,51,52
+Phitsanulok,Loei,52,30
+Phitsanulok,Uttaradit,52,41
+Phitsanulok,Kamphaeng Phet,52,49
+Phitsanulok,Sukhothai,52,51
+Phitsanulok,Phichit,52,53
+Phitsanulok,Phetchabun,52,54
+Phichit,Nakhon Sawan,53,47
+Phichit,Kamphaeng Phet,53,49
+Phichit,Phitsanulok,53,52
+Phichit,Phetchabun,53,54
+Phetchabun,Lopburi,54,6
+Phetchabun,Chaiyaphum,54,24
+Phetchabun,Khon Kaen,54,28
+Phetchabun,Loei,54,30
+Phetchabun,Nakhon Sawan,54,47
+Phetchabun,Phitsanulok,54,52
+Phetchabun,Phichit,54,53
+Ratchaburi,Kanchanaburi,55,56
+Ratchaburi,Nakhon Pathom,55,58
+Ratchaburi,Samut Sakhon,55,59
+Ratchaburi,Samut Songkhram,55,60
+Ratchaburi,Phetchaburi,55,61
+Kanchanaburi,Uthai Thani,56,48
+Kanchanaburi,Tak,56,50
+Kanchanaburi,Ratchaburi,56,55
+Kanchanaburi,Suphan Buri,56,57
+Kanchanaburi,Nakhon Pathom,56,58
+Suphan Buri,Phra Nakhon Si Ayutthaya,57,4
+Suphan Buri,Ang Thong,57,5
+Suphan Buri,Sing Buri,57,7
+Suphan Buri,Chai Nat,57,8
+Suphan Buri,Uthai Thani,57,48
+Suphan Buri,Kanchanaburi,57,56
+Suphan Buri,Nakhon Pathom,57,58
+Nakhon Pathom,Bangkok,58,0
+Nakhon Pathom,Nonthaburi,58,2
+Nakhon Pathom,Phra Nakhon Si Ayutthaya,58,4
+Nakhon Pathom,Ratchaburi,58,55
+Nakhon Pathom,Kanchanaburi,58,56
+Nakhon Pathom,Suphan Buri,58,57
+Nakhon Pathom,Samut Sakhon,58,59
+Samut Sakhon,Bangkok,59,0
+Samut Sakhon,Ratchaburi,59,55
+Samut Sakhon,Nakhon Pathom,59,58
+Samut Sakhon,Samut Songkhram,59,60
+Samut Songkhram,Ratchaburi,60,55
+Samut Songkhram,Samut Sakhon,60,59
+Samut Songkhram,Phetchaburi,60,61
+Phetchaburi,Ratchaburi,61,55
+Phetchaburi,Samut Songkhram,61,60
+Phetchaburi,Prachuap Khiri Khan,61,62
+Prachuap Khiri Khan,Phetchaburi,62,61
+Prachuap Khiri Khan,Chumphon,62,69
+Nakhon Si Thammarat,Krabi,63,64
+Nakhon Si Thammarat,Surat Thani,63,67
+Nakhon Si Thammarat,Songkhla,63,70
+Nakhon Si Thammarat,Trang,63,72
+Nakhon Si Thammarat,Phatthalung,63,73
+Krabi,Nakhon Si Thammarat,64,63
+Krabi,Phang Nga,64,65
+Krabi,Surat Thani,64,67
+Krabi,Trang,64,72
+Phang Nga,Krabi,65,64
+Phang Nga,Phuket,65,66
+Phang Nga,Surat Thani,65,67
+Phang Nga,Ranong,65,68
+Phuket,Phang Nga,66,65
+Surat Thani,Nakhon Si Thammarat,67,63
+Surat Thani,Krabi,67,64
+Surat Thani,Phang Nga,67,65
+Surat Thani,Ranong,67,68
+Surat Thani,Chumphon,67,69
+Ranong,Phang Nga,68,65
+Ranong,Surat Thani,68,67
+Ranong,Chumphon,68,69
+Chumphon,Prachuap Khiri Khan,69,62
+Chumphon,Surat Thani,69,67
+Chumphon,Ranong,69,68
+Songkhla,Nakhon Si Thammarat,70,63
+Songkhla,Satun,70,71
+Songkhla,Phatthalung,70,73
+Songkhla,Pattani,70,74
+Songkhla,Yala,70,75
+Satun,Songkhla,71,70
+Satun,Trang,71,72
+Satun,Phatthalung,71,73
+Trang,Nakhon Si Thammarat,72,63
+Trang,Krabi,72,64
+Trang,Satun,72,71
+Trang,Phatthalung,72,73
+Phatthalung,Nakhon Si Thammarat,73,63
+Phatthalung,Songkhla,73,70
+Phatthalung,Satun,73,71
+Phatthalung,Trang,73,72
+Pattani,Songkhla,74,70
+Pattani,Yala,74,75
+Pattani,Narathiwat,74,76
+Yala,Songkhla,75,70
+Yala,Pattani,75,74
+Yala,Narathiwat,75,76
+Narathiwat,Pattani,76,74
+Narathiwat,Yala,76,75
