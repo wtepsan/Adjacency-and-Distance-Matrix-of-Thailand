@@ -20,17 +20,16 @@ Additionally, the foundational public datasets used as the basis for generating 
 2. **Thailand District Lists**: Available at [data.go.th - District View](https://data.go.th/dataset/view_district) or [data.go.th - District Information](https://data.go.th/th/dataset/item_f9a9a9dd-d23d-4b86-89ae-e34820d4f3dc).
 3. Network datasets used for our model evaluation and comparison include [NETWORKREPOSITORY](https://networkrepository.com/networks.php) and [KONECT](http://konect.cc/networks/).
 
-
-
 ```bibtex
 @article{AdjacencyDistrict,
-  author    = {Tepsan, Worawit; Napat Harnporncha; Aniwat Phaphuangwittayakul^*},
-  title     = {Identifying Vital Hubs in Transportation Network Using Multiple Perspectives of Complex Networks},
+  author    = {Tepsan, Worawit and Phaphuangwittayakul, Aniwat and Sokantika, Saronsad and Harnpornchai, Napat},
+  title     = {Identifying Vital Hubs in Transportation Networks Using Multiple Perspectives of Complex Networks},
   journal   = {Journal Title},
   year      = {2024},
   volume    = {1},
   number    = {1},
-  pages     = {1-9},
+  pages     = {1--9},
   month     = {sep},
   doi       = {00.0000/00000}
+}
 }
