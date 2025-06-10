@@ -1,0 +1,103 @@
+{
+  "author": {
+    "email": "-@onde.go.th",
+    "name": "-"
+  },
+  "description": "> ชุดข้อมูลนี้ประกอบไปด้วยหัวข้อย่อยที่สำคัญ ดังต่อไปนี้\r\n\r\n+ ### **แนวเขตการปกครองประเทศไทย **(ระดับจังหวัด)\r\n+ ### **แนวเขตการปกครองประเทศไทย **(ระดับอำเภอ)\r\n+ *Source Spatial Reference: EPSG:3857 (non-simplified)*\r\n",
+  "keywords": [
+    "ขอบเขตจังหวัด",
+    "ขอบเขตประเทศ"
+  ],
+  "license": {
+    "title": "ogl",
+    "type": "ogl"
+  },
+  "name": "8-administrative-boundaries",
+  "resources": [
+    {
+      "format": "GEOJSON",
+      "name": "ekhtkaarpkkhr-ngradabcchanghwad",
+      "path": "ekhtkaarpkkhr-ngradabcchanghwad.geojson",
+      "sources": [
+        {
+          "path": "http://gistdaportal.gistda.or.th/arcgis/rest/services/Hosted/L05_Province_GISTDA_50k_Y2013/FeatureServer/0/query?where=OBJECTID>%3D0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Meter&relationParam=&outFields=pv_tn%2Cre_royin&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&sqlFormat=none&resultType=&datumTransformation=&f=geojson",
+          "title": "เขตการปกครองระดับจังหวัด"
+        }
+      ],
+      "title": "เขตการปกครองระดับจังหวัด"
+    },
+    {
+      "format": "GEOJSON",
+      "name": "ekhtkaarpkkhr-ngradab-ameph-phaakhklaang",
+      "path": "ekhtkaarpkkhr-ngradab-ameph-phaakhklaang.geojson",
+      "sources": [
+        {
+          "path": "http://gistdaportal.gistda.or.th/arcgis/rest/services/Hosted/L05_Amphoe_GISTDA_50k_Y2013/FeatureServer/0/query?where=re_royin%3D%27Central%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Meter&relationParam=&outFields=ap_tn%2Cpv_tn%2Cre_royin&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&sqlFormat=none&resultType=&datumTransformation=&f=geojson",
+          "title": "เขตการปกครองระดับอำเภอ (ภาคกลาง)"
+        }
+      ],
+      "title": "เขตการปกครองระดับอำเภอ (ภาคกลาง)"
+    },
+    {
+      "format": "GEOJSON",
+      "name": "ekhtkaarpkkhr-ngradab-ameph-phaakhtawan-k",
+      "path": "ekhtkaarpkkhr-ngradab-ameph-phaakhtawan-k.geojson",
+      "sources": [
+        {
+          "path": "http://gistdaportal.gistda.or.th/arcgis/rest/services/Hosted/L05_Amphoe_GISTDA_50k_Y2013/FeatureServer/0/query?where=re_royin%3D%27East%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Meter&relationParam=&outFields=ap_tn%2Cpv_tn%2Cre_royin&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&sqlFormat=none&resultType=&datumTransformation=&f=geojson",
+          "title": "เขตการปกครองระดับอำเภอ (ภาคตะวันออก)"
+        }
+      ],
+      "title": "เขตการปกครองระดับอำเภอ (ภาคตะวันออก)"
+    },
+    {
+      "format": "GEOJSON",
+      "name": "ekhtkaarpkkhr-ngradab-ameph-phaakhehnuue",
+      "path": "ekhtkaarpkkhr-ngradab-ameph-phaakhehnuue.geojson",
+      "sources": [
+        {
+          "path": "http://gistdaportal.gistda.or.th/arcgis/rest/services/Hosted/L05_Amphoe_GISTDA_50k_Y2013/FeatureServer/0/query?where=re_royin%3D%27North%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Meter&relationParam=&outFields=ap_tn%2Cpv_tn%2Cre_royin&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&sqlFormat=none&resultType=&datumTransformation=&f=geojson",
+          "title": "เขตการปกครองระดับอำเภอ (ภาคเหนือ)"
+        }
+      ],
+      "title": "เขตการปกครองระดับอำเภอ (ภาคเหนือ)"
+    },
+    {
+      "format": "GEOJSON",
+      "name": "ekhtkaarpkkhr-ngradab-ameph-phaakhtawan-kechiiyngehnuue",
+      "path": "ekhtkaarpkkhr-ngradab-ameph-phaakhtawan-kechiiyngehnuue.geojson",
+      "sources": [
+        {
+          "path": "http://gistdaportal.gistda.or.th/arcgis/rest/services/Hosted/L05_Amphoe_GISTDA_50k_Y2013/FeatureServer/0/query?where=re_royin%3D%27Northeast%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Meter&relationParam=&outFields=ap_tn%2Cpv_tn%2Cre_royin&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&sqlFormat=none&resultType=&datumTransformation=&f=geojson",
+          "title": "เขตการปกครองระดับอำเภอ (ภาคตะวันออกเฉียงเหนือ)"
+        }
+      ],
+      "title": "เขตการปกครองระดับอำเภอ (ภาคตะวันออกเฉียงเหนือ)"
+    },
+    {
+      "format": "GEOJSON",
+      "name": "ekhtkaarpkkhr-ngradab-ameph-phaakhait",
+      "path": "ekhtkaarpkkhr-ngradab-ameph-phaakhait.geojson",
+      "sources": [
+        {
+          "path": "http://gistdaportal.gistda.or.th/arcgis/rest/services/Hosted/L05_Amphoe_GISTDA_50k_Y2013/FeatureServer/0/query?where=re_royin%3D%27South%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Meter&relationParam=&outFields=ap_tn%2Cpv_tn%2Cre_royin&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&sqlFormat=none&resultType=&datumTransformation=&f=geojson",
+          "title": "เขตการปกครองระดับอำเภอ (ภาคใต้)"
+        }
+      ],
+      "title": "เขตการปกครองระดับอำเภอ (ภาคใต้)"
+    },
+    {
+      "format": "GEOJSON",
+      "name": "ekhtkaarpkkhr-ngradab-ameph-phaakhtawantk",
+      "path": "ekhtkaarpkkhr-ngradab-ameph-phaakhtawantk.geojson",
+      "sources": [
+        {
+          "path": "http://gistdaportal.gistda.or.th/arcgis/rest/services/Hosted/L05_Amphoe_GISTDA_50k_Y2013/FeatureServer/0/query?where=re_royin%3D%27West%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Meter&relationParam=&outFields=ap_tn%2Cpv_tn%2Cre_royin&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&sqlFormat=none&resultType=&datumTransformation=&f=geojson",
+          "title": "เขตการปกครองระดับอำเภอ (ภาคตะวันตก)"
+        }
+      ],
+      "title": "เขตการปกครองระดับอำเภอ (ภาคตะวันตก)"
+    }
+  ],
+  "title": "ชุดข้อมูลที่ 8: แนวเขตการปกครอง (Administrative Boundaries) - สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน)"
+}
