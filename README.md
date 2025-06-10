@@ -29,6 +29,6 @@ Additionally, the foundational public datasets used as the basis for generating 
   volume    = {18},
   number    = {6},
   pages     = {356},
-  doi       = {10.3390/a18060356}
-}
+  doi       = {10.3390/a18060356},
+  url       = {https://doi.org/10.3390/a18060356}
 }
