@@ -16,7 +16,7 @@ The datasets collected, compiled, and analyzed in this study, along with the cod
 
 Additionally, the foundational public datasets used as the basis for generating the core dataset for this study, as well as for model evaluation, are listed below:
 
-1. **Thailand District Boundaries**: This dataset is available from the Office of the National Digital Economy and Society Commission and was originally provided by the Geo-Informatics and Space Technology Development Agency, Thailand. For more information, visit the (https://opendata.onde.go.th/dataset/8-administrative-boundaries)(https://opendata.onde.go.th/dataset/8-administrative-boundaries), or access a copy from our GitHub repository: [Github Folder](https://github.com/wtepsan/Adjacency-and-Distance-Matrix-of-Thailand/tree/main/data_foundation_public_source).
+1. **Thailand District Boundaries**: This dataset is available from the Office of the National Digital Economy and Society Commission and was originally provided by the Geo-Informatics and Space Technology Development Agency, Thailand. For more information, visit the [https://opendata.onde.go.th/dataset/8-administrative-boundaries](https://opendata.onde.go.th/dataset/8-administrative-boundaries), or access a copy from our GitHub repository: [Github Folder](https://github.com/wtepsan/Adjacency-and-Distance-Matrix-of-Thailand/tree/main/data_foundation_public_source).
 
 2. **Thailand District Lists**: Available at [data.go.th – District View](https://data.go.th/dataset/view_district) or [data.go.th – District Information](https://data.go.th/th/dataset/item_f9a9a9dd-d23d-4b86-89ae-e34820d4f3dc).
 
