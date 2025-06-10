@@ -21,7 +21,7 @@ Additionally, the foundational public datasets used as the basis for generating 
 3. **Network Datasets for Model Evaluation**: Publicly available datasets used for evaluation and comparison include [NETWORKREPOSITORY](https://networkrepository.com/networks.php) and [KONECT](http://konect.cc/networks/).
 
 ```bibtex
-@article{Tepsan2025IdentifyingHubs,
+@article{IdentifyingHubs,
   author    = {Tepsan, Worawit and Phaphuangwittayakul, Aniwat and Sokantika, Saronsad and Harnpornchai, Napat},
   title     = {Identifying Hubs Through Influential Nodes in Transportation Network by Using a Gravity Centrality Approach},
   journal   = {Algorithms},
