@@ -5,8 +5,11 @@ authors:
     given-names: Worawit
     affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
     email: worawit.tepsan@cmu.ac.th
-  - family-names: Harnporncha
+  - family-names: Harnpornchai
     given-names: Napat
+    affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+  - family-names: Sokantika
+    given-names: Saronsad
     affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
   - family-names: Phaphuangwittayakul
     given-names: Aniwat
@@ -17,11 +20,13 @@ url: "https://github.com/wtepsan/Adjacency-and-Distance-Matrix-of-Thailand"
 date-released: 2024-06-30
 version: "1.0.0"
 keywords:
-  - "Thailand"
-  - "Spatial Networks"
-  - "Adjacency Matrix"
-  - "Distance Matrix"
-  - "Complex Networks"
+  - "transportation network"
+  - "connectivity"
+  - "network analysis"
+  - "hub identification"
+  - "influential nodes"
+  - "regional development"
+  - "geospatial dataset" 
 
 preferred-citation:
   type: article
@@ -30,17 +35,20 @@ preferred-citation:
       given-names: Worawit
       affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
       email: worawit.tepsan@cmu.ac.th
-    - family-names: Harnporncha
-      given-names: Napat
-      affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
     - family-names: Phaphuangwittayakul
       given-names: Aniwat
       affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
-  month: 9
-  year: 2024
-  title: "Identifying Vital Hubs in Transportation Network Using Multiple Perspectives of Complex Networks"
-  volume: 1
-  issue: 1
-  pages: "1-6"
+    - family-names: Sokantika
+      given-names: Saronsad
+      affiliation: "International College of Digital Innovation, Chiang Mai University, Thailand"
+    - family-names: Harnpornchai
+      given-names: Napat
+      affiliation: Faculty of Economics, Chiang Mai University, Thailand
+  doi: "10.3390/a18060356"
+  journal: "Algorithms"
+  month: 6 # June
+  year: 2025
+  title: "Identifying Hubs Through Influential Nodes in Transportation Network by Using a Gravity Centrality Approach"
+  volume: 18
+  issue: 6
+  pages: "356"
